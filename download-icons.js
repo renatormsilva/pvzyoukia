@@ -21,8 +21,9 @@ const iconOrgDir  = path.join(__dirname, 'swfs', 'iconorg');
 const iconToolDir = path.join(__dirname, 'swfs', 'icontool');
 [iconOrgDir, iconToolDir].forEach(d => fs.mkdirSync(d, { recursive: true }));
 
-const MIN = parseInt(process.argv[2] || '1',   10);
-const MAX = parseInt(process.argv[3] || '700',  10);
+const MIN  = parseInt(process.argv[2] || '1',    10);
+const MAX  = parseInt(process.argv[3] || '700',  10);
+const MODE = process.argv[4] || 'both'; // 'both' | 'tool' | 'org'
 
 function download(urlPath, destPath) {
   return new Promise((resolve) => {
@@ -47,19 +48,23 @@ function download(urlPath, destPath) {
 async function run() {
   let ok = 0, skip = 0, miss = 0;
 
-  console.log(`\n🌸 IconOrg (${MIN} → ${MAX})...`);
-  for (let i = MIN; i <= MAX; i++) {
-    const r = await download(`/youkia/IconRes/IconOrg/${i}.swf`, path.join(iconOrgDir, `${i}.swf`));
-    if (r === 'ok')   { process.stdout.write('✓'); ok++; }
-    else if (r === 'skip') { process.stdout.write('.'); skip++; }
-    else if (r === '404')  { process.stdout.write(' '); miss++; }
-    else                   { process.stdout.write('x'); }
-    if (i % 50 === 0) process.stdout.write(` ${i}\n`);
-    await new Promise(r => setTimeout(r, 60));
+  if (MODE !== 'tool') {
+    console.log(`\n🌸 IconOrg (${MIN} → ${MAX})...`);
+    for (let i = MIN; i <= MAX; i++) {
+      const r = await download(`/youkia/IconRes/IconOrg/${i}.swf`, path.join(iconOrgDir, `${i}.swf`));
+      if (r === 'ok')   { process.stdout.write('✓'); ok++; }
+      else if (r === 'skip') { process.stdout.write('.'); skip++; }
+      else if (r === '404')  { process.stdout.write(' '); miss++; }
+      else                   { process.stdout.write('x'); }
+      if (i % 50 === 0) process.stdout.write(` ${i}\n`);
+      await new Promise(r => setTimeout(r, 60));
+    }
+    console.log(`\n\n✅ IconOrg: ${ok} baixados, ⏭ ${skip} já existiam, 404: ${miss}`);
   }
 
-  console.log(`\n\n🔧 IconTool (${MIN} → ${MAX})...`);
-  ok = skip = miss = 0;
+  if (MODE !== 'org') {
+    console.log(`\n\n🔧 IconTool (${MIN} → ${MAX})...`);
+    ok = skip = miss = 0;
   for (let i = MIN; i <= MAX; i++) {
     const r = await download(`/youkia/IconRes/IconTool/${i}.swf`, path.join(iconToolDir, `${i}.swf`));
     if (r === 'ok')   { process.stdout.write('✓'); ok++; }
@@ -69,8 +74,8 @@ async function run() {
     if (i % 50 === 0) process.stdout.write(` ${i}\n`);
     await new Promise(r => setTimeout(r, 60));
   }
-
-  console.log(`\n\n✅ ${ok} baixados, ⏭ ${skip} já existiam, 404: ${miss}`);
+  console.log(`\n\n✅ IconTool: ${ok} baixados, ⏭ ${skip} já existiam, 404: ${miss}`);
+  }
 }
 
 run();

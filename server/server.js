@@ -2,6 +2,7 @@ const express  = require('express');
 const path     = require('path');
 const fs       = require('fs');
 const http     = require('http');
+const crypto   = require('crypto');
 const { transcodeAMF } = require('./amf3transcode');
 const app = express();
 
@@ -414,33 +415,41 @@ const amfMap = {}; // method → Buffer com resposta AMF real
     } catch(e) { return null; }
   }
 
+  // Padrão com hash: api_shop_getMerchandises_a1b2c3d4_req.bin
+  const HASH_RE = /^(.+)_([0-9a-f]{8})_req\.bin$/;
+
   const files = fs.readdirSync(cacheDir).filter(f => f.endsWith('_req.bin')).sort();
   for (const f of files) {
-    const stem = f.replace('_req.bin', '');
+    const hashMatch = f.match(HASH_RE);
+    const stem   = f.replace('_req.bin', '');
     const reqBuf = fs.readFileSync(path.join(cacheDir, f));
     const respFile = path.join(cacheDir, stem + '_resp.bin');
     if (!fs.existsSync(respFile)) continue;
 
-    // Tenta extrair o método do binário AMF
-    let method = parseReqMethod(reqBuf);
-
-    // Se não conseguiu, tenta derivar do nome do arquivo (api_duty_getAll → api.duty.getAll)
-    if (!method && /^api_/.test(stem)) {
-      method = stem.replace(/_/g, '.').replace(/^api\./, 'api.');
-      // Reconstrói substituindo só os underscores internos ao nome do método
-      // ex: api_duty_getAll_req.bin → api.duty.getAll
-      method = stem.replace(/_req$/, '').replace(/_/g, '.');
-    }
-
-    if (!method || amfMap[method]) continue; // primeiro encontrado vence
-
     const resp = decodeResp(fs.readFileSync(respFile));
-    if (resp[0] === 0x00 && resp[1] === 0x00) {
-      amfMap[method] = resp;
+    if (!resp || resp[0] !== 0x00 || resp[1] !== 0x00) continue;
+
+    if (hashMatch) {
+      // Arquivo com hash: api_shop_getMerchandises_a1b2c3d4
+      // Recalcula o hash do req.bin para garantir consistência
+      const method = hashMatch[1].replace(/_/g, '.');
+      const hash   = crypto.createHash('sha1').update(reqBuf).digest('hex').slice(0, 8);
+      const key    = `${method}:${hash}`;
+      if (!amfMap[key]) amfMap[key] = resp;
+    } else {
+      // Arquivo sem hash (legado): api_shop_getMerchandises
+      let method = parseReqMethod(reqBuf);
+      if (!method && /^api_/.test(stem)) {
+        method = stem.replace(/_/g, '.');
+      }
+      if (method && !amfMap[method]) amfMap[method] = resp;
     }
   }
-  console.log(`AMF cache: ${Object.keys(amfMap).length} metodos carregados`);
-  Object.keys(amfMap).forEach(m => console.log(`  ${m}`));
+
+  const methodCount = new Set(Object.keys(amfMap).map(k => k.split(':')[0])).size;
+  const hashCount   = Object.keys(amfMap).filter(k => k.includes(':')).length;
+  console.log(`AMF cache: ${methodCount} métodos (${hashCount} com hash de parâmetros)`);
+  Object.keys(amfMap).filter(k => !k.includes(':')).forEach(m => console.log(`  ${m}`));
 })();
 
 // ─── AMF ENDPOINT ─────────────────────────────────────────────────────────────
@@ -468,7 +477,13 @@ app.post('/pvz/amf/', express.raw({ type: '*/*', limit: '10mb' }), async (req, r
   }
 
   const { target, respUri } = parseRequest(body);
-  console.log(`  📨 AMF: ${target} (uri: ${respUri})`);
+
+  // Hash dos primeiros 128 bytes do body (parâmetros da requisição)
+  // Usado para distinguir chamadas ao mesmo método com params diferentes (ex: abas da loja)
+  const bodyHash = crypto.createHash('sha1').update(body).digest('hex').slice(0, 8);
+  const cacheKey = `${target}:${bodyHash}`;
+
+  console.log(`  📨 AMF: ${target} (uri: ${respUri}, hash: ${bodyHash})`);
 
   // Substitui response URI para corresponder ao da requisição
   function patchUri(respBuf, newUri) {
@@ -490,38 +505,57 @@ app.post('/pvz/amf/', express.raw({ type: '*/*', limit: '10mb' }), async (req, r
     } catch(e) { return respBuf; }
   }
 
-  if (amfMap[target]) {
-    let buf = amfMap[target];
+  function serveFromCache(buf, label) {
     const transcoded = transcodeAMF(buf);
     if (transcoded) {
+      console.log(`     → ${label} ${buf.length}b → transcoded AMF3→AMF0 ${transcoded.length}b`);
       buf = transcoded;
-      console.log(`     → replay ${amfMap[target].length}b → transcoded AMF3→AMF0 ${transcoded.length}b`);
     } else {
-      console.log(`     → replay ${buf.length}b`);
+      console.log(`     → ${label} ${buf.length}b`);
     }
-    const patched = patchUri(buf, respUri);
     res.setHeader('Content-Type', 'application/x-amf');
-    res.send(patched);
+    res.send(patchUri(buf, respUri));
+  }
+
+  // 1. Cache por body hash (resposta exata para estes parâmetros)
+  if (amfMap[cacheKey]) {
+    serveFromCache(amfMap[cacheKey], `cache[${bodyHash}]`);
     return;
   }
 
-  // Tenta proxy para o servidor real se tiver cookie de sessão
+  // 2. Cache genérico por método (fallback para retrocompatibilidade)
+  //    Só usa se não tiver cookie (sem proxy disponível)
   const cookie = getSessionCookie();
+  if (!cookie && amfMap[target]) {
+    serveFromCache(amfMap[target], 'replay');
+    return;
+  }
+
+  // 3. Proxy para o servidor real (captura resposta específica para estes params)
   if (cookie) {
-    console.log(`     → proxy para servidor real (${target})`);
+    // Se tem cache genérico e cookie, tenta proxy primeiro para ter resposta correta
+    // Se não tem nem cache genérico, proxy é obrigatório
+    const hasGenericCache = !!amfMap[target];
+    console.log(`     → proxy servidor real (${target})${hasGenericCache ? ' [params diferentes]' : ' [novo método]'}`);
     const realResp = await proxyAMF(body, target, cookie);
     if (realResp) {
-      amfMap[target] = realResp; // adiciona ao cache em memória
-      let buf = realResp;
-      const transcoded = transcodeAMF(buf);
-      if (transcoded) buf = transcoded;
-      const patched = patchUri(buf, respUri);
-      console.log(`     ✅ AMF proxy OK, salvo no cache (${realResp.length}b)`);
-      res.setHeader('Content-Type', 'application/x-amf');
-      res.send(patched);
+      // Salva com body hash para este conjunto de parâmetros
+      amfMap[cacheKey] = realResp;
+      const safeName = target.replace(/\./g, '_');
+      try {
+        fs.writeFileSync(path.join(__dirname, '../amf-cache', `${safeName}_${bodyHash}_req.bin`), body);
+        fs.writeFileSync(path.join(__dirname, '../amf-cache', `${safeName}_${bodyHash}_resp.bin`), realResp);
+      } catch {}
+      console.log(`     ✅ AMF proxy OK, salvo como ${bodyHash} (${realResp.length}b)`);
+      serveFromCache(realResp, 'proxy→cache');
       return;
     }
-    console.log(`     ⚠ Proxy falhou, usando fallback`);
+    console.log(`     ⚠ Proxy falhou`);
+    // Fallback para cache genérico se tiver
+    if (amfMap[target]) {
+      serveFromCache(amfMap[target], 'replay[fallback]');
+      return;
+    }
   }
 
   // Fallback: retorna 1.0 (double AMF0) para métodos não capturados
