@@ -1,0 +1,2127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>植物大战僵尸Online</title>
+	<meta name="description" content="《植物大战僵尸OL》官网为广大玩家提供游戏的最新动向，这里有游戏中超赞的截图，新手FAQ，游戏攻略等详细信息。同时也为玩家相互交流提供了平台。" />
+	<meta name="keywords" content="植物大战僵尸OL ,PVZ,休闲游戏,好玩的页游,高端大气上档次,火影、海贼、死神,动漫,行尸走肉,经典页游,刺激,新游戏,好玩的单机游戏,不花钱的页游,植物大战僵尸版" />
+	<link rel="Shortcut Icon"  href="/pvz_web/new-pvz-images/favicon.ico" type="image/x-icon" />
+	<link href="/pvz_web/new-pvz-images/favicon.ico" rel="icon" type="image/x-icon" />
+	<link rel="Bookmark" type="image/x-icon" href="/pvz_web/new-pvz-images/favicon.ico" />
+	<link rel="stylesheet" href="/css/global.css">
+	<script language="javascript" src="/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/index_new.js?2"></script>
+	<script src="/js/jquery-1.7.1.min.js"></script>
+	<script src="/js/jquery-ui.min.js"></script>
+	<script src="/js/select-widget-min.js"></script><link rel="stylesheet" href="/css/maincss.css">
+</head>
+<body>
+<!-- 导航 -->
+<div class="top_nav">
+	<div class="meun">
+		<div class="logo"><a href="/"><img src="/images/new_images/logo.png"></a></div>
+		<ul>
+			<li><a href="/" target="_blank">官网首页</a></li>
+			<li><a href="/index.php/news/list?id=2&page_size=10" target="_blank">新闻资讯</a></li>
+			<li><a href="/#audio_station">视听站</a></li>
+			<li><a href="http://www.youkia.com/index.php/purse/topup?game_id=6" target="_blank">充值</a></li>
+			<li><a href="http://www.youkia.com/index.php/register?url=pvz" target="_blank">注册</a></li>
+			<li><a href="#" onclick="addfavorite();">收藏网页</a></li>
+			<li><a href="http://www.youkia.com/index.php/game" target="_blank">游戏</a></li>
+		</ul>
+	</div>
+</div><!-- 内容 -->
+<div class="bigbg">
+    <div class="content">
+        <!-- 左边 -->
+        <div class="left">
+            <!-- 下载 -->
+            <a href="javascript:download()">
+                <div class="download">
+                    <span></span>
+                </div>
+            </a>
+
+            <!-- 登录 -->
+            <div class="loading">
+                            <!-- 登录后 -->
+                <div class="load_after">
+                    <div> 欢迎回来，8496443</div>
+                    <div>最近登录：<a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46" target="_blank">46服 冰冻蘑菇</a></div>
+                    <div> 开始游戏：<a href="/xf/index.php" target="_blank">选择服务器</a></div>
+                    <div> <a href="http://www.youkia.com/index.php/home/account" target="_blank"> 防沉迷资料填写</a> —— <a href="/index.php/login/out">退出登录</a></div>
+                </div>
+                        </div>
+            <!-- 推荐服务器 -->
+            <dl class="recommended_server">
+                <dt><span></span><a href="/xf/index.php" target="_blank"></a></dt>
+                                                <dd>
+                    <a href=href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3D24&gid=2&sid=24" onclick="javascript: return true;"><span>【荆棘女王】(双线)</span> <i>火爆开服</i></a>
+                </dd>
+                                                                                <dd>
+                    <a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3D23&gid=2&sid=23" onclick="javascript: return true;"><span>【红叶飞飞】(双线)</span> <i>进入游戏</i></a>
+                </dd>
+                                                                                                <dd>
+                    <a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3D22&gid=2&sid=22" onclick="javascript: return true;"><span>【小狐花】(双线)</span> <i>进入游戏</i></a>
+                </dd>
+                                                                                                <dd>
+                    <a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3D21&gid=2&sid=21" onclick="javascript: return true;"><span>【翡翠小竹】(双线)</span> <i>进入游戏</i></a>
+                </dd>
+                                                                                                <dd>
+                    <a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3D20&gid=2&sid=20" onclick="javascript: return true;"><span>【梵文风王】(双线)</span> <i>进入游戏</i></a>
+                </dd>
+                                                                                                <dd>
+                    <a href="http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds19&gid=2&sid=19" onclick="javascript: return true;"><span>【极暗榴莲】(双线)</span> <i>进入游戏</i></a>
+                </dd>
+                                                            </dl>
+            <div class="server_qq">
+                <div class="posin">
+                    <!-- 联系客服 -->
+                    <div class="contact_customer">
+                        <a href="javascript:" class="server"><span></span></a>
+                        <div class="show">
+                            <a href="https://zwdzjswork.youkia.net/home" target="_blank" class="intr">
+                                <div class="fishcat"></div>
+                                <div>点击联系客服</div>
+                              </a>
+                              <a href="https://wpa.qq.com/msgrd?v=3&uin=800196271&site=qq&menu=yes" target="_blank" class="scend">
+                                <div class="qq"></div>
+                                <div>客服QQ：800196271</div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- QQ群 -->
+                     <!--
+                    <div class="qq_group">
+                        <a href="javascript:"><span></span></a>
+                        <div class="show">
+                            <h3>植物大战僵尸ol官方群</h3>
+                            <p>群号：225243433</p>
+                            <img src="/images/new_images/erweima.jpg">
+                            <em>扫一扫二维码，加入群聊</em>
+                        </div>
+                    </div>
+                     -->
+                </div>
+            </div>
+        </div>
+        <!-- 右边 -->
+        <div class="right">
+            <!-- 新闻 -->
+            <div id="news" class="news_tab">
+                <div class="tit">
+                    <ul class="tabs">
+                        <li index="0" class="active"></li>
+                        <li index="1"></li>
+                        <li index="2"></li>
+                    </ul>
+                    <a href="/index.php/news/list?id=1&page_size=10" target="_blank" id="new_more" class="more"></a>
+                </div>
+                <div class="detail item" style="display:block">
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("06-09", "603", "【开服延期】47服暗黑猫耳娘开服延期公告", 20, "综合"));
+                  </script>
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("06-08", "602", "【新服开启】47服暗黑猫耳娘开启公告", 20, "综合"));
+                  </script>
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("06-02", "600", "【2022】六一征集令 植物大战僵尸ol新服名字你来定！", 20, "综合"));
+                  </script>
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("05-20", "598", "5G全国流量任性领啦！！！", 20, "综合"));
+                  </script>
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("11-13", "597", "光棍节活动公告", 20, "综合"));
+                  </script>
+                                    <script type="text/javascript">
+                      document.write(getNewItemHtml("11-13", "596", " 11月跨服战分区公告", 20, "综合"));
+                  </script>
+                                  </div>
+                <div class="detail item">
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("08-20", "581", "40407赞助youkia-19服开服", 20, "新闻"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("08-20", "580", "北方页游网赞助youkia-19服开服", 20, "新闻"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("08-20", "579", "52pk赞助youkia-19服开服", 20, "新闻"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("07-18", "573", "40407祝18服开启", 20, "新闻"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("07-18", "571", "52pk祝18服开启", 20, "新闻"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("05-18", "553", "07073,40407,265G等媒体祝贺16服开启", 20, "新闻"));
+                    </script>
+                                    </div>
+                <div class="detail item">
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("09-10", "588", "教师节活动 那些年我们一起做过的作业", 20, "活动"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("08-10", "576", "执手共佳期  七夕送豪礼！", 20, "活动"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("10-25", "518", "欢乐时光，感你相伴--两周年庆专题活动", 20, "活动"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("10-17", "513", "10月17日 充值回馈好运抽战神", 20, "活动"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("08-09", "508", "与游戏制作人面对面", 20, "活动"));
+                    </script>
+                                        <script type="text/javascript">
+                        document.write(getNewItemHtml("03-13", "483", "充值超值送 充200金券送好礼", 20, "活动"));
+                    </script>
+                                    </div>
+            </div>
+            <!-- 榜单 -->
+            <div class="board">
+                <div class="connect"></div>
+                <!-- 跨服风云榜 -->
+                <div class="billboard">
+                    <div class="tit">
+                        <h3></h3>
+                        <select class="ui-select_kuafu" name="select" onchange="changeArea(this.value,'kuafuresult')">
+                                                        <option value="1">元老区</option>
+                                                        <option value="2">精英区</option>
+                                                        <option value="3">新秀区</option>
+                                                    </select>
+                    </div>
+                    <dl>
+                        <dt><span>排名</span><span>角色名</span><span>区服</span><span>平台</span></dt>
+                                                                                                                                        <span id="kuafuresult1">
+                                                                    <dd>
+                                        <span>冠军</span>
+                                        <span>天刑</span>
+                                        <span>360-s9服</span>
+                                        <span>360-s9</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>亚军</span>
+                                        <span>谢博恒</span>
+                                        <span>开心-s1服</span>
+                                        <span>开心-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>qqqwqwqwq</span>
+                                        <span>360-s6服</span>
+                                        <span>360-s6</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>武宝君</span>
+                                        <span>开心-s1服</span>
+                                        <span>开心-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>尹鹏</span>
+                                        <span>开心-s1服</span>
+                                        <span>开心-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>黄英明</span>
+                                        <span>开心-s1服</span>
+                                        <span>开心-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>陈川</span>
+                                        <span>开心-s1服</span>
+                                        <span>开心-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>@BB#</span>
+                                        <span>快玩-s3服</span>
+                                        <span>快玩-s3</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>wyym777</span>
+                                        <span>youkia-s1服</span>
+                                        <span>youkia-s1</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>winwbq</span>
+                                        <span>百度-s2服</span>
+                                        <span>百度-s2</span>
+                                    </dd>
+                                                                                                    </span>
+                                                                                                                                            <span id="kuafuresult2" style="display:none;">
+                                                                    <dd>
+                                        <span>冠军</span>
+                                        <span>faxiao</span>
+                                        <span>百度-s5服</span>
+                                        <span>百度-s5</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>亚军</span>
+                                        <span>春春的美丽</span>
+                                        <span>360-s18服</span>
+                                        <span>360-s18</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>xiay</span>
+                                        <span>360-s19服</span>
+                                        <span>360-s19</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>⒈⒈</span>
+                                        <span>360-s15服</span>
+                                        <span>360-s15</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>光芒</span>
+                                        <span>360-s16服</span>
+                                        <span>360-s16</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>Iam传奇</span>
+                                        <span>youkia-s11服</span>
+                                        <span>youkia-s11</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>小屁伦</span>
+                                        <span>7k7k-s6服</span>
+                                        <span>7k7k-s6</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>臭棋篓</span>
+                                        <span>360-s22服</span>
+                                        <span>360-s22</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>澄澄060929</span>
+                                        <span>7k7k-s4服</span>
+                                        <span>7k7k-s4</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>gxy332211</span>
+                                        <span>7k7k-s7服</span>
+                                        <span>7k7k-s7</span>
+                                    </dd>
+                                                                                                    </span>
+                                                                                                                                            <span id="kuafuresult3" style="display:none;">
+                                                                    <dd>
+                                        <span>冠军</span>
+                                        <span>行为有点恶劣</span>
+                                        <span>youkia-s16服</span>
+                                        <span>youkia-s16</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>亚军</span>
+                                        <span>红黑米兰</span>
+                                        <span>360-s29服</span>
+                                        <span>360-s29</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>案子有点棘手</span>
+                                        <span>youkia-s16服</span>
+                                        <span>youkia-s16</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>四强</span>
+                                        <span>植物之王</span>
+                                        <span>360-s28服</span>
+                                        <span>360-s28</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>due_due</span>
+                                        <span>360-s28服</span>
+                                        <span>360-s28</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>龙腾情缘</span>
+                                        <span>360-s28服</span>
+                                        <span>360-s28</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>没关系</span>
+                                        <span>360-s28服</span>
+                                        <span>360-s28</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>八强</span>
+                                        <span>贝勒~~</span>
+                                        <span>youkia-s16服</span>
+                                        <span>youkia-s16</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>feel</span>
+                                        <span>360-s28服</span>
+                                        <span>360-s28</span>
+                                    </dd>
+                                                                                                        <dd>
+                                        <span>十六强</span>
+                                        <span>SuperMoL</span>
+                                        <span>youkia-s16服</span>
+                                        <span>youkia-s16</span>
+                                    </dd>
+                                                                                                    </span>
+                                                                        </dl>
+                </div>
+                <!-- 本服战力榜 -->
+                <div class="powerlist">
+                    <div class="tit">
+                        <h3></h3>
+                        <select  class="ui-select_atacks" name="select"  onchange="changeArea(this.value,'atacks')">
+                                                        <option value="1">【太阳花服】(双线)</option>
+                                                        <option value="2">【食人花服】(双线)</option>
+                                                        <option value="3">【红唇花服】(双线)</option>
+                                                        <option value="4">【鬼椒王服】(双线)</option>
+                                                        <option value="5">【万竹王服】(双线)</option>
+                                                        <option value="6">【寂寞水仙】(双线)</option>
+                                                        <option value="7">【冰刺蘑菇】(双线)</option>
+                                                        <option value="8">【刺猬坦克】(双线)</option>
+                                                        <option value="9">【暗鬼王】(双线)</option>
+                                                        <option value="10">【南瓜战车】(双线)</option>
+                                                        <option value="11">【飞飞萝卜】(双线)</option>
+                                                        <option value="12">【紫百合】(双线)</option>
+                                                        <option value="13">【烈焰椒】(双线)</option>
+                                                        <option value="14">【花仙子】(双线)</option>
+                                                        <option value="15">【草莓小红】(双线)</option>
+                                                        <option value="16">【冰蓝公主】(双线)</option>
+                                                        <option value="17">【火拳艾斯】(双线)</option>
+                                                        <option value="18">【玫瑰骑士】(双线)</option>
+                                                        <option value="19">【极暗榴莲】(双线)</option>
+                                                        <option value="20">【梵文风王】(双线)</option>
+                                                        <option value="21">【翡翠小竹】(双线)</option>
+                                                        <option value="22">【小狐花】(双线)</option>
+                                                        <option value="23">【红叶飞飞】(双线)</option>
+                                                        <option value="24">【荆棘女王】(双线)</option>
+                                                    </select>
+                    </div>
+                    <dl>
+                        <dt><span>排名</span><span>角色名</span><span>战力</span></dt>
+                                                                            <span id="atacks1">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>神天3</span>
+                                    <span>4.67556859534654e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>有理知花</span>
+                                    <span>2.98188715967692e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>丶Black</span>
+                                    <span>2.97726884779871e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>星辰下的小王</span>
+                                    <span>2.56718089479326e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>liangyeheng</span>
+                                    <span>2.07529558864841e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>tjf1972</span>
+                                    <span>1.96162737763651e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>要你命3万</span>
+                                    <span>1.40658220651714e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>亘洹桓恒垣</span>
+                                    <span>5.97415410998493e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>漠付离</span>
+                                    <span>5.78004942258715e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>清酒1</span>
+                                    <span>5.63180391675416e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks2" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>追暖无</span>
+                                    <span>9.82104231428484e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>JooToo</span>
+                                    <span>1.93277515281534e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>小勇士111</span>
+                                    <span>1.32153430539827e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>心剑情缘</span>
+                                    <span>9.02309088247638e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>哥影城情</span>
+                                    <span>3.57144219706584e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>过去沉迷</span>
+                                    <span>3.27356550961864e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>CPU之父</span>
+                                    <span>3.10996626686004e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>上杉绘梨衣</span>
+                                    <span>2.58581165886317e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>繁旧子</span>
+                                    <span>2.36837794359039e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>久人无温</span>
+                                    <span>1.88608204436605e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks3" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>追暖无</span>
+                                    <span>9.82104231428484e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>JooToo</span>
+                                    <span>1.93277515281534e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>小勇士111</span>
+                                    <span>1.32153430539827e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>心剑情缘</span>
+                                    <span>9.02309088247638e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>哥影城情</span>
+                                    <span>3.57144219706584e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>过去沉迷</span>
+                                    <span>3.27356550961864e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>CPU之父</span>
+                                    <span>3.10996626686004e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>上杉绘梨衣</span>
+                                    <span>2.58581165886317e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>繁旧子</span>
+                                    <span>2.36837794359039e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>久人无温</span>
+                                    <span>1.88608204436605e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks4" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>白凝冰</span>
+                                    <span>8.49236070655677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>超5悟空max</span>
+                                    <span>5.88444341555325e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>凉梦瑾辰</span>
+                                    <span>3.28598752698654e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>狗尾巴画</span>
+                                    <span>2.36892775365979e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>谁卑微了承若</span>
+                                    <span>2.15174975190446e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>asaboy</span>
+                                    <span>2.13659568643072e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>希瑟</span>
+                                    <span>2.07775442288391e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>麦田云天</span>
+                                    <span>1.653533238437e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>石头-剪刀-布</span>
+                                    <span>1.22262646633725e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>无敌高手</span>
+                                    <span>6.00910099443033e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks5" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>白凝冰</span>
+                                    <span>8.49236070655677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>超5悟空max</span>
+                                    <span>5.88444341555325e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>凉梦瑾辰</span>
+                                    <span>3.28598752698654e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>狗尾巴画</span>
+                                    <span>2.36892775365979e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>谁卑微了承若</span>
+                                    <span>2.15174975190446e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>asaboy</span>
+                                    <span>2.13659568643072e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>希瑟</span>
+                                    <span>2.07775442288391e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>麦田云天</span>
+                                    <span>1.653533238437e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>石头-剪刀-布</span>
+                                    <span>1.22262646633725e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>无敌高手</span>
+                                    <span>6.00910099443033e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks6" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>小灬淘丶气</span>
+                                    <span>1.59077792807321e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>睡醒了再说</span>
+                                    <span>4.97029856938707e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>yangxuesong</span>
+                                    <span>1.33570043582781e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>59200</span>
+                                    <span>1.32944227643781e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>白也0022</span>
+                                    <span>5.37031768257596e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>海都</span>
+                                    <span>5.35508689042839e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>白也0039</span>
+                                    <span>5.23820715347554e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>269220462</span>
+                                    <span>4.94950132237326e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>嚼粕食</span>
+                                    <span>4.91340477577831e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>升级咋就这么难</span>
+                                    <span>3.9331104607548e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks7" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>小灬淘丶气</span>
+                                    <span>1.59077792807321e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>睡醒了再说</span>
+                                    <span>4.97029856938707e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>yangxuesong</span>
+                                    <span>1.33570043582781e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>59200</span>
+                                    <span>1.32944227643781e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>白也0022</span>
+                                    <span>5.37031768257596e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>海都</span>
+                                    <span>5.35508689042839e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>白也0039</span>
+                                    <span>5.23820715347554e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>269220462</span>
+                                    <span>4.94950132237326e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>嚼粕食</span>
+                                    <span>4.91340477577831e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>升级咋就这么难</span>
+                                    <span>3.9331104607548e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks8" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>流*星*雨</span>
+                                    <span>7.87058949413426e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>2012cengjin</span>
+                                    <span>6.58969834105041e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>贝乐</span>
+                                    <span>4.25006965596628e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>未曾行至绝路</span>
+                                    <span>2.37800173319676e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>110LQ110LQ</span>
+                                    <span>2.17337938971167e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>2002jiayao</span>
+                                    <span>1.7441411251677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>军哥</span>
+                                    <span>1.50801279295328e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>花儿朵朵开88</span>
+                                    <span>1.09861130193222e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>愿气柔呆东曼</span>
+                                    <span>1.00387871174151e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>阿立</span>
+                                    <span>7.52543631118633e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks9" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>流*星*雨</span>
+                                    <span>7.87058949413426e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>2012cengjin</span>
+                                    <span>6.58969834105041e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>贝乐</span>
+                                    <span>4.25006965596628e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>未曾行至绝路</span>
+                                    <span>2.37800173319676e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>110LQ110LQ</span>
+                                    <span>2.17337938971167e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>2002jiayao</span>
+                                    <span>1.7441411251677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>军哥</span>
+                                    <span>1.50801279295328e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>花儿朵朵开88</span>
+                                    <span>1.09861130193222e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>愿气柔呆东曼</span>
+                                    <span>1.00387871174151e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>阿立</span>
+                                    <span>7.52543631118633e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks10" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>413578475</span>
+                                    <span>7.17117197729465e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>akjwd</span>
+                                    <span>1.16773153278306e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>形成12</span>
+                                    <span>9.81406851031594e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>滓俟凭</span>
+                                    <span>5.30855550713714e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>Ｖｉｃｔｏｒ*</span>
+                                    <span>3.58295101125418e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>雨夜的泪</span>
+                                    <span>3.49642340848679e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>人*</span>
+                                    <span>2.71453627825081e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>途毡铣</span>
+                                    <span>2.65375928318037e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>teateaa</span>
+                                    <span>2.15209350150321e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>木木木</span>
+                                    <span>1.90308894273736e+20</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks13" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>游乐王</span>
+                                    <span>9.51446917341637e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>富阶促</span>
+                                    <span>3.39321325991755e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>心灵0</span>
+                                    <span>1.95250462628171e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>慷送臣</span>
+                                    <span>1.24532697424974e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>守莆屠</span>
+                                    <span>9.03188993482469e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>挖鼻孔LO</span>
+                                    <span>6.14028599729214e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>脑残的YK</span>
+                                    <span>4.3198946158598e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>**jt</span>
+                                    <span>3.42415327426001e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>僵男style</span>
+                                    <span>3.27272552321777e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>懈春呛</span>
+                                    <span>3.00890816316224e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks15" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>破雷丶瞬闪</span>
+                                    <span>1.18653607261245e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>叶音竹1</span>
+                                    <span>2.26584712160065e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>*徊*</span>
+                                    <span>1.2496334329801e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>w**jtfhjfh</span>
+                                    <span>9.693371014027e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>8923953</span>
+                                    <span>9.21167967620707e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>安林</span>
+                                    <span>4.44449739676438e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>都庸疾</span>
+                                    <span>4.31869979991812e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>滤珊凸</span>
+                                    <span>3.69988943035657e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>Tanlinve</span>
+                                    <span>3.43900152032278e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>奈幢贩</span>
+                                    <span>3.27638899279783e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks17" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>8554440</span>
+                                    <span>1.15965747121363e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>as112110</span>
+                                    <span>5.23109950067316e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>蘇小煙</span>
+                                    <span>4.02786301521277e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>耀世星痕</span>
+                                    <span>2.78043160412127e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>繁乄星</span>
+                                    <span>2.72614985634685e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>soultime</span>
+                                    <span>1.13054943982293e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>鸭呢陶</span>
+                                    <span>6.87580207496042e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>昶夜</span>
+                                    <span>6.76772757958941e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>Sunset_</span>
+                                    <span>5.28887132822843e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>五元</span>
+                                    <span>5.27964737340056e+20</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks19" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>东梧</span>
+                                    <span>5.9402006365401e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>疼乱模</span>
+                                    <span>1.13435426655037e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>小白真人</span>
+                                    <span>9.68737168252348e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>清柠王丶</span>
+                                    <span>2.97907658004914e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>君白秋初</span>
+                                    <span>2.51045844027663e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>逝追言</span>
+                                    <span>1.55257528653023e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>z1503153</span>
+                                    <span>1.53538270616203e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>小极花</span>
+                                    <span>1.34758022990576e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>东影柠</span>
+                                    <span>1.31646915335107e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>易心像妍子</span>
+                                    <span>1.13782785452808e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks22" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>m旧忆</span>
+                                    <span>2.0301881034625e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>8735310</span>
+                                    <span>1.22081103856919e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>兰亭序</span>
+                                    <span>1.04424239321991e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>一吻天荒</span>
+                                    <span>7.44179212076428e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>李超人</span>
+                                    <span>6.66830019591774e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>永推吾三</span>
+                                    <span>5.92066579758185e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>阿杪o</span>
+                                    <span>4.82700767178497e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>妮娜的小面包</span>
+                                    <span>4.66397801713337e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>糖果</span>
+                                    <span>4.4749282298616e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>距离仙</span>
+                                    <span>3.74501138074126e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks24" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>***妹妹179913</span>
+                                    <span>3.45792337630374e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>妍男农旧生</span>
+                                    <span>2.45753989424594e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>猪缘靓曹</span>
+                                    <span>2.01730334543882e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>极气影柔</span>
+                                    <span>9.4227099649513e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>小孤雪</span>
+                                    <span>8.36934645600559e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>蛇发女妖</span>
+                                    <span>6.09711445714004e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>7008120</span>
+                                    <span>4.77095982166029e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>繁开繁城</span>
+                                    <span>4.75210803773357e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>***妹妹533759</span>
+                                    <span>3.22655993391386e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>***妹妹240288</span>
+                                    <span>3.00984220938392e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks28" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>花灬园13</span>
+                                    <span>2.91390302073051e+24</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>花灬园12</span>
+                                    <span>1.94322817948643e+24</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>592000*</span>
+                                    <span>1.28762648351353e+24</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>花灬园52</span>
+                                    <span>1.08073882558515e+24</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>花灬园16</span>
+                                    <span>1.00073153787034e+24</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>花灬园68</span>
+                                    <span>2.87473957682867e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>8882073</span>
+                                    <span>1.35719207256944e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>小特</span>
+                                    <span>1.13877735443175e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>瑶瑶公主</span>
+                                    <span>7.21533944466068e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>李拾遗</span>
+                                    <span>5.41688795445075e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks33" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>忧幽子</span>
+                                    <span>3.14977438449011e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>东梧</span>
+                                    <span>2.40811577003501e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>新.</span>
+                                    <span>2.33443354576766e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>新.</span>
+                                    <span>2.25071229003469e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>画船听雨眠</span>
+                                    <span>1.61724867652346e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>小时崎81</span>
+                                    <span>8.01918909440114e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>缘忘君</span>
+                                    <span>3.22386906272569e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>孤栀</span>
+                                    <span>2.39101644955975e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>Shiro*</span>
+                                    <span>1.65072153056685e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>....22</span>
+                                    <span>1.14966883656261e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks34" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>终024</span>
+                                    <span>3.62396501512724e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>谴峡煽</span>
+                                    <span>2.05380241899513e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>*小黄衫*</span>
+                                    <span>1.8633925089256e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>坷那然</span>
+                                    <span>1.45526087261558e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>枫雪陌客</span>
+                                    <span>1.42771930190256e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>8695017</span>
+                                    <span>1.23111340363899e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>永泰辣</span>
+                                    <span>1.22226433643277e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>iv南初</span>
+                                    <span>8.25823389712517e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>终会错过</span>
+                                    <span>6.36566605681713e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>1420082435</span>
+                                    <span>5.38568977439242e+20</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks35" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>猪如雪沫温</span>
+                                    <span>8.08502943203032e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>有里知花</span>
+                                    <span>3.69703459456745e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>靓君愿孤</span>
+                                    <span>2.80252149426382e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>东梧</span>
+                                    <span>2.51041886519788e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>路剑清河</span>
+                                    <span>2.05437061154088e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>心如梦丶</span>
+                                    <span>1.79501642415137e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>安魂弥撒Kira</span>
+                                    <span>1.44867233117814e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>生球疼岁</span>
+                                    <span>1.26275650577676e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>淡爱子</span>
+                                    <span>1.11369255494647e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>潮花真奥真</span>
+                                    <span>7.99750084697763e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks36" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>安德</span>
+                                    <span>1.35946293371254e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>Lonely丶怪兽</span>
+                                    <span>4.1869401723271e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>雪兔少</span>
+                                    <span>2.39541896717339e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>疼呆时真追</span>
+                                    <span>2.07257484334535e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>琉璃清境</span>
+                                    <span>1.39412031457766e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>久旧小疼易</span>
+                                    <span>3.37407871017885e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>轮二人</span>
+                                    <span>2.6453851125731e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>清兄路</span>
+                                    <span>2.49659908329344e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>8973906</span>
+                                    <span>2.34742576163091e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>8945026</span>
+                                    <span>1.35541479259337e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks37" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>清风晚榭</span>
+                                    <span>2.84977767305767e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>刘某</span>
+                                    <span>4.17497901803677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>此无涯</span>
+                                    <span>3.29057407481408e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>凋零</span>
+                                    <span>3.28380957176312e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>疼蛋海柔</span>
+                                    <span>8.60883557675932e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>雅聪柠肉</span>
+                                    <span>4.15107163026823e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>忘年曹葡剑</span>
+                                    <span>4.02062963840688e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>城柠愿</span>
+                                    <span>2.72550291269343e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>神无人</span>
+                                    <span>2.4676718616574e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>文娃呆</span>
+                                    <span>2.43103650689708e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks38" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>雲流れ</span>
+                                    <span>2.82390974456109e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>童妍泊妍</span>
+                                    <span>4.14726865412568e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>橙落雪久</span>
+                                    <span>1.59084317675535e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>闻志之君</span>
+                                    <span>1.03693521666167e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>新.</span>
+                                    <span>4.12357821270048e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>喔哦哦哦</span>
+                                    <span>1.51528767452618e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>St.George</span>
+                                    <span>1.47516854928806e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>心灵爆震</span>
+                                    <span>1.32627107182605e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>略略略..</span>
+                                    <span>1.23202136399922e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>Ks.墨邪</span>
+                                    <span>8.7371563363573e+20</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks39" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>强鲁灰飞烟灭</span>
+                                    <span>3.0111241917474e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>不可思议</span>
+                                    <span>2.16058784424677e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>浮生历历</span>
+                                    <span>1.87159368889332e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>怯友胃</span>
+                                    <span>9.40513717121784e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>前所未有</span>
+                                    <span>6.37360742414367e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>段灯舅</span>
+                                    <span>5.73305345529968e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>驼挛*</span>
+                                    <span>5.30079640340122e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>blad3</span>
+                                    <span>3.09429264793267e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>良辰美景</span>
+                                    <span>2.68707097898401e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>网友887178</span>
+                                    <span>2.44950825625826e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks40" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>是给大家看</span>
+                                    <span>8.95525372972208e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>xunlin</span>
+                                    <span>7.67203053021378e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>侥凹谛</span>
+                                    <span>7.11320206034777e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>张迎政</span>
+                                    <span>4.03512302243425e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>cdsj</span>
+                                    <span>2.97640599764302e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>孤独成瘾</span>
+                                    <span>2.82666034199949e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>balz798</span>
+                                    <span>1.99327468302714e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>无聊找游戏</span>
+                                    <span>1.52693025572454e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>纫志暮</span>
+                                    <span>1.38163641460752e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>nikl</span>
+                                    <span>1.34388997141999e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks41" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>終相忘</span>
+                                    <span>2.5495436952744e+25</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>东梧</span>
+                                    <span>6.95736521956836e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>站</span>
+                                    <span>2.4870422199e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>会飞的蛋</span>
+                                    <span>1.57782653821311e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>xunlin</span>
+                                    <span>1.31598221717576e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>寒墨雨</span>
+                                    <span>1.2635417893187e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>浮生覆声抚笙渡</span>
+                                    <span>9.34197742267673e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>启元</span>
+                                    <span>2.13860778050135e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>7426319</span>
+                                    <span>1.57996845591145e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>5688819</span>
+                                    <span>1.34965067715285e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks42" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>不知终日梦为鱼</span>
+                                    <span>4.20595388920022e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>咲氚孙一郎</span>
+                                    <span>4.4892084642668e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>东梧</span>
+                                    <span>3.93419041010629e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>纯真丁一郎</span>
+                                    <span>2.01900839126019e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>灬玛卡巴卡</span>
+                                    <span>1.329490369715e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>梦身者无</span>
+                                    <span>9.19347781069359e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>娃师心初</span>
+                                    <span>5.64729540558522e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>柠静疼影时</span>
+                                    <span>2.52827004878363e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>豌豆炮kk</span>
+                                    <span>2.28055399097172e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>8957603</span>
+                                    <span>2.22313779388691e+21</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks43" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>小球气</span>
+                                    <span>9.90511336046641e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>不知终日梦为鱼</span>
+                                    <span>8.77875533873406e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>巴大橘</span>
+                                    <span>2.1531023132042e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>神</span>
+                                    <span>1.99061272092827e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>王兔娃</span>
+                                    <span>1.48166248965053e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>温柔温</span>
+                                    <span>1.37077301103008e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>祭磁潮</span>
+                                    <span>1.04445208938891e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>尽意</span>
+                                    <span>9.3382755399854e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>东梧</span>
+                                    <span>7.74536124397395e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>星心逝忧</span>
+                                    <span>7.10767068250849e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks44" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>*小黄衫*</span>
+                                    <span>1.27587049877833e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>jiaoseren</span>
+                                    <span>5.98192490949556e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>逝淳捌</span>
+                                    <span>3.73629256868784e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>蜗蜕垦</span>
+                                    <span>3.50350622198372e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>指尖上的流年</span>
+                                    <span>2.78863616164584e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>8900327</span>
+                                    <span>2.24427195781479e+21</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>骄毕芍</span>
+                                    <span>7.15143225862571e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>单于冷之</span>
+                                    <span>7.03531419067956e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>Hiccup01</span>
+                                    <span>5.76719376125632e+20</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>4342787</span>
+                                    <span>5.50268681013553e+20</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks45" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>生小小</span>
+                                    <span>3.02957675159172e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>富贵险中求1</span>
+                                    <span>3.00722001913297e+23</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>侠靓城毛哥</span>
+                                    <span>8.84606581098772e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>Eiderdown</span>
+                                    <span>6.19447362513335e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>咸鱼轩</span>
+                                    <span>6.03783457756236e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>鲨鱼啤酒</span>
+                                    <span>2.07091881295786e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>8666080</span>
+                                    <span>1.6004805657112e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>燃烧的土豆</span>
+                                    <span>1.40566227076492e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>ykkk</span>
+                                    <span>1.3779967638143e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>绝世奇葩</span>
+                                    <span>1.22166679984729e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks46" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>終相忘</span>
+                                    <span>1.1121020122296e+25</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>一被半生劫</span>
+                                    <span>8.49300988992431e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>我欲成神</span>
+                                    <span>4.59055882152514e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span>1O***O1</span>
+                                    <span>3.52929676953243e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>我乐意陪你。</span>
+                                    <span>3.44976200499245e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>一刺之寒</span>
+                                    <span>3.40273220917751e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>Blad3</span>
+                                    <span>3.25311254807735e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>硝火凝泪</span>
+                                    <span>2.92651007320149e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span>ndwss</span>
+                                    <span>2.82681777942904e+22</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>网友972750</span>
+                                    <span>2.55226859793382e+22</span>
+                                </dd>
+			                		                    </span>
+                                                                                                    <span id="atacks47" style="display:none;">
+			                                                <dd>
+                                    <span>第 1 名</span>
+                                    <span>桃桃子</span>
+                                    <span>156802</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 2 名</span>
+                                    <span>洋葱蛋不加蛋</span>
+                                    <span>9654</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 3 名</span>
+                                    <span>戴维</span>
+                                    <span>8149</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 4 名</span>
+                                    <span></span>
+                                    <span>3688</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 5 名</span>
+                                    <span>5652987</span>
+                                    <span>3263</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 6 名</span>
+                                    <span>5233322</span>
+                                    <span>2083</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 7 名</span>
+                                    <span>迪尔</span>
+                                    <span>1748</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 8 名</span>
+                                    <span>6915429</span>
+                                    <span>1417</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 9 名</span>
+                                    <span></span>
+                                    <span>1038</span>
+                                </dd>
+			                                                <dd>
+                                    <span>第 10 名</span>
+                                    <span>8967287</span>
+                                    <span>992</span>
+                                </dd>
+			                		                    </span>
+                                                                    </dl>
+                </div>
+            </div>
+
+            <!-- 视听站 -->
+            <div id="audio_station" class="audio_station">
+                <h3></h3>
+                <div class="banner">
+                    <div class="item" style="display:block">
+                        <img src="/images/new_images/banner_01.jpg">
+                    </div>
+                    <div class="item">
+                        <img src="/images/new_images/banner_02.jpg">
+                    </div>
+                    <div class="item">
+                        <img src="/images/new_images/banner_03.jpg">
+                    </div>
+                    <ul class="tabs_02">
+                        <li index="0" class="active"></li>
+                        <li index="1"></li>
+                        <li index="2"></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<!-- footer -->
+<div class="footer">
+	<div class="con_width">
+		<div class="role"></div>
+		<p>适合18岁及以上成年人游戏，建议游戏者适当游戏。抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。</p>
+		<p><a href="http://www.youkia.com/html/company/about.html" target="_blank">关于Youkia</a> | <a href="http://www.youkia.com/html/company/contact.html" target="_blank">联系我们</a> | <a href="http://www.youkia.com/protect/" target="_blank">未成年人家长监护工程</a> | 2008-2011Youkia. All Rights Reserved.</p>
+		<p>川B2-20090012 四川天上友嘉网络科技有限公司 川网文（2015）1561-036号</p>
+		<p>文网游备字[2016]W-RPG 0089号 科技与数字[2011]079号</p>
+		<p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002000516" target="_blank">川公网安备 51019002000516号</a></p>
+	</div>
+</div><script type="text/javascript" src="/js/index_new_affter.js"></script>
+</body>
+
+</html>

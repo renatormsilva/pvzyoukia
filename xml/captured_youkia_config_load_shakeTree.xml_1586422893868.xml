@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/shaketree"
+			  name="shakeTreeScene"
+			  isnew="0"
+			  version="_20130702">场景资源</item> 
+	</ui>  
+	
+	<ui> 
+		<item type="UILibs/shaketree"
+			  name="jewelpics"
+			  isnew="0"
+			  version="_2013052311">宝石</item> 
+	</ui>  
+</config>

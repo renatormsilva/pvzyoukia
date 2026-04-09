@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs"
+			  name="hunting"
+			  isnew="0"
+			  version="_2013051313">狩猎场</item> 
+	</ui>  
+</config>

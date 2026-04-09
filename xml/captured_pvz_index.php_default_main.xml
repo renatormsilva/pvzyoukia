@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<title>植物大战僵尸 - 首页</title>
+<link rel="stylesheet" type="text/css" href="/pvz/css/style.css?657487">
+<script src="http://www.youkia.info/scripts/jquery-1.3.2.min.js"></script>
+<script src="http://pvz-s1.youkia.com/pvz/js/left_banner.js?2022"></script>
+</head>
+<body>
+<div class="wrap">
+    <div class="main">
+        <style type="text/css"> *{margin:0px;padding:0px;}
+ul li{list-style-type:none}
+.main_news{margin:0px auto;width:760px; background-color:#FFF;}
+.main_news h2{background:url(http://pvz-s1.youkia.com/openapi/announce/images/tit.jpg) no-repeat;height:32px}
+.new{border:1px #BADEF0 solid;overflow:hidden;_height:100%;border-top:0px;border-bottom:0px;margin-top:-15px}
+.new_box{float:left;width:360px;margin-top:15px;font-size:12px;padding:10px 0px 0px 15px;text-align:left;}
+.new_box li span{color:#2D839C}
+.line{border-bottom:1px #CFCDCD dashed;margin:5px 0px;*margin-top:-5px}
+.new_box li a{color:#FF0000;text-decoration:none}
+.main_news h3{clear:both;background:url(http://pvz-s1.youkia.com/openapi/announce/images/di.jpg) no-repeat;height:20px;}
+.main_news h3{clear:both;background:url(http://pvz-s1.youkia.com/openapi/announce/images/di.jpg) no-repeat;height:20px;}
+</style>
+<div class="main_news" id="main_news"><h2></h2><div class="new"><ul class="new_box"><li><span>【2012-12-04】</span><a href="http://f.youkia.com/forum/read.php?tid=219364" title="《植物大战僵尸online》首届跨服战宣传" target="_blank" onclick="javascript: return '' != this.href && '#' != this.href;">《植物大战僵尸online》首届跨服战宣传</a></li>
+</ul><ul class="new_box"><li><span>【2013-01-14】</span><a href="http://f.youkia.com/forum/read.php?tid=245181" title="充值送好礼 好礼送不停" target="_blank" onclick="javascript: return '' != this.href && '#' != this.href;">充值送好礼 好礼送不停</a></li>
+</ul></div><h3></h3></div>        <div class="menu">
+            <a id="home" href="#" title="首页"></a>
+            <a id="invite" href="#" title="邀请"></a>
+            <a id="fourm" href="#" title="讨论" target="_blank"></a>
+            <a id="help" href="#" title="帮助" target="_blank"></a>
+            <a id="topup" href="#" title="充值" target="_blank"></a>
+        </div>
+        <style>
+body{padding: 0px; margin: 0px;}
+</style>
+
+<div class="flash">
+<object 
+    classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
+    width="760" 
+    height="535" 
+    id="pvz" 
+    align="middle">
+    <param name="quality" value="high" />
+    <param name="allowScriptAccess" value="always" />
+    <param name="movie" value="http://s46.youkia.pvz.youkia.com/youkia/main.swf?2005306495" /> 
+    <param name="flashvars" value="base_url=http://s46.youkia.pvz.youkia.com/pvz/index.php/&base_url_info=http://s46.youkia.pvz.youkia.com/youkia/" />
+    <param name="base" value="http://s46.youkia.pvz.youkia.com/youkia" /> 
+    <embed 
+        width="760" 
+        height="535" 
+        allowScriptAccess="always"
+        type="application/x-shockwave-flash" 
+        id="pvz" 
+        flashvars="base_url=http://s46.youkia.pvz.youkia.com/pvz/index.php/&base_url_info=http://s46.youkia.pvz.youkia.com/youkia/" 
+        pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" 
+        quality="high" 
+        src="http://s46.youkia.pvz.youkia.com/youkia/main.swf?1108693277" 
+        base="http://s46.youkia.pvz.youkia.com/youkia">
+</object>
+</div>
+<script>
+    var crc = '1hj98jv8tcsuzem1x2w3ydva4zo3gwrca29lpz';
+    var flag = parseInt('4');
+    var t = 150000;
+    //if(flag<4){
+        // if(flag==1){
+		// 	var url = '/pvz/index.php/fcm/show?f='+crc;
+        //    window.location.href=url;
+        // }else{
+            function f(fisrt) {
+                $.get('/pvz/index.php/fcm/t',{crc:crc,fisrt:fisrt,flag:flag},function (d) {
+                    var c ="r="+d;
+                    try {
+                        eval(c);
+                        var data = r.data;
+                        if(typeof data[crc] != "undefined"){
+                            location.href='/pvz/index.php/fcm/show?f='+data[crc];
+                        }
+                    }catch (e) {
+
+                    }
+                });
+            }
+            f(1);
+            setInterval("f(0)", t);
+       // }
+    //}
+
+</script>
+    </div>
+	<div id="banner1" class="pop_pvz_01" style="display:none;margin-top:180px">
+
+    </div>
+    <div id="banner2" class="pop_pvz_02" style="display:none;">
+        <a href="http://www.youkia.com" target="_blank" class="pop_pvzt" title="回我的家"></a>
+        <div class="pop_pvzc">
+		 <a href="http://www.youkia.com/index.php/gamecenter/index?game=td&serverid=s2" target="_blank" style="height:320px"></a>
+		</div>
+		<a href="http://www.youkia.com" target="_blank" class="pop_pvzb" title="更多精彩"></a>
+    </div>
+    <div id="banner3" class="pop_pvz_03" style="display:none;">
+        <a href="http://www.youkia.com" target="_blank" class="pop_pvzt" title="回我的家"></a>
+        <div class="pop_pvz_side">
+		 <a href="http://adreport.youkia.com/report.php?a=to&sign=cHZ6X3lrOnlvdWtpYV9wdnpsZWZ0X3B2emxlZnQwMDA1" target="_blank" style="height:320px"></a>
+		</div>
+		  <div class="wec"><a href="http://www.youkia.com" target="_blank" class="pop_pvzb" title="更多精彩"></a></div>
+    </div>
+
+</div>
+<script type="text/javascript" src="/pvz/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">
+// 首页
+var home_url = '/pvz/index.php/default/main';
+// 论坛
+var fourm_url = 'http://f.youkia.com/forum/forum.php?mod=forumdisplay&fid=44&page=1';
+// 帮助页面
+var help_url = 'http://f.youkia.com/forum/forum.php?mod=viewthread&tid=11&extra=page%3D1';
+//防沉迷信息填写链接
+var cardno_url = 'http://www.youkia.com/index.php/home/account?tag=cardno';
+// 添加好友页面链接
+var friend_url = 'http://www.youkia.com/index.php/friend/knowing';
+// 邀请好友链接产生页面的链接
+var invite_url = '/pvz/index.php/invite';
+// 注册链接
+var register_url = 'http://www.youkia.com/index.php/register?url=http://www.youkia.com/index.php/pvz/s46?invite_user_id=';
+// 游戏充值链接
+var topup_url = 'http://www.youkia.com/index.php/purse/topup?step=2&game_id=2&pay_way_id=1&server_id=48&pid=10000';
+// 签到活动链接
+var medal_url = 'http://pvz.youkia.com/index.php/allmedal?s=s46.youkia.pvz&uid=5049894&uname=renatodln123&sign=00ac05291ce79eae4a61e9d3019f13e5';
+// 跳转到活动页面
+function goToActivity(url)
+{ 
+	window.open( url+"?uid=5049894&nickname=renatodln123&platform=youkia&server=s46.youkia.pvz&timestamp=1775725177&sig=6db67b3c95d50d8a1a9dbc0ec8b8811a" ); 
+}
+// 导航条链接
+$(document).ready(function(){
+  $("#home").attr('href', home_url);
+  $("#invite").attr('href', invite_url);
+  $("#fourm").attr('href', fourm_url);
+  $("#help").attr('href', help_url);
+  $("#topup").attr('href', topup_url);
+});
+// 跳转到注册页面
+function gotoRegister()
+{ 
+	parent.location.href =  register_url; 
+}
+// 跳转到充值页面
+function gotoUrl()
+{ 
+	parent.location.href = topup_url; 
+}
+// 跳转到防沉迷信息填写页面
+function gotoCardNo()
+{ 
+	parent.location.href = cardno_url; 
+}
+// 跳转到添加好友页面
+function gotoFriendPage()
+{ 
+	parent.location.href = friend_url; 
+}
+// 跳转到邀请好友链接产生页面
+function inviteFriend()
+{ 
+	location.href = invite_url; 
+}
+// 打卡活动跳转地址
+function gomedal()
+{
+	//return false;
+	window.open( medal_url ); 
+}
+// fcm
+function fatigue()
+{ 
+	return 1; 
+}
+// 刷新页面
+function resetPage()
+{ 
+	location.reload(); 
+}
+// 收藏
+function executeJsTask()
+{
+	var url='http://pvz.youkia.com/';
+	var title='植物大战僵尸OL';
+	if (document.all){ 
+		var ret=window.external.addFavorite(url,title); 		
+	}else if (window.sidebar) { 
+		var ret=window.sidebar.addPanel(title, url, ""); 		
+	} else  {  
+		alert("你的浏览器不支持，请按CTRL+D增加收藏页！");
+	}
+}
+// 读cookie值
+function getCookie(c_name)
+{
+	if (document.cookie.length > 0)
+	{
+		c_start = document.cookie.indexOf(c_name + "=");
+		if (c_start != -1)
+		{
+			c_start = c_start + c_name.length + 1;
+			c_end = document.cookie.indexOf(";",c_start);
+			if (c_end == -1){c_end = document.cookie.length;}
+			return unescape(document.cookie.substring(c_start,c_end));
+		}
+	}
+	return null;
+}
+//写cookie
+function setCookie(c_name,value,expiredays)
+{
+	var exdate = new Date();
+	exdate.setDate(exdate.getDate() + expiredays);
+	document.cookie = c_name + "=" +escape(value) + ((expiredays == null) ? "" : ";expires=" + exdate.toGMTString());
+}
+// 左边banner --start--
+function sortNumber(a,b)
+{
+	var t_a = a.substr(a.indexOf("_")+1);
+	var t_b = b.substr(b.indexOf("_")+1);
+	return t_a-t_b;
+}
+window.onload = function()
+{
+	var b_l = Array('banner1_100');
+	var n = Math.floor(Math.random()*100);
+	b_l.sort(sortNumber);
+	var s = 0;
+	var per;
+	for(per in b_l)
+	{
+		var t = parseInt(b_l[per].substr(b_l[per].indexOf("_")+1))+s;
+		var banner = b_l[per].substr(0,b_l[per].indexOf("_"));
+		if(n<=t)
+		{
+			document.getElementById(banner).style.display="block";
+			break;
+		}
+		s = t;
+	}
+};
+// 左边banner --end--
+</script>
+<iframe src="http://report.youkia.com/a/?ctrl=api&act=entergame&game=2&server=30&uid=8496443" style="display:none"></iframe>
+<script type="text/javascript">
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8f50161cf92bbffdd4dbb6aa22f265bd' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+</body>
+</html>

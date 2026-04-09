@@ -53,13 +53,14 @@ pvzonline/
 │   ├── language_cn.xml    ← strings em chinês
 │   └── ...
 ├── amf-cache/             ← respostas AMF capturadas do servidor real
-│   ├── *_req.bin          ← request AMF0 capturado
-│   └── *_resp.bin         ← response AMF0 capturado
+│   ├── api_*_req.bin      ← request AMF0 (nome = método com _ em vez de .)
+│   └── api_*_resp.bin     ← response AMF0 capturado
 ├── assets/
 │   └── pvz/img/           ← imagens (avatares, logos, etc.)
 ├── main_exported/
 │   └── scripts/           ← ActionScript 3 descompilado (leitura/referência, não executado)
 ├── patch-swf.js           ← patcher binário de main.swf (AVM2 bytecode)
+├── extract-mitm.py        ← extrai AMF/XML de captura mitmproxy (.mitm) → amf-cache/ e xml/
 ├── download-bulk.js       ← baixa ORGLibs e IconRes do servidor live
 ├── download-missing.js    ← baixa UILibs específicos do servidor live
 ├── extract-har.js         ← extrai SWFs/AMFs/XMLs de captura .har (Fiddler/DevTools)
@@ -104,8 +105,9 @@ Browser → Ruffle carrega /youkia/main.swf
 | `GET /pvz/index.php/default/isnew` | `"0"` |
 | `GET /pvz/index.php/default/user` | XML do jogador |
 | `GET /pvz/index.php/Warehouse` | XML do inventário |
-| `GET /pvz/index.php/cave` | XML das cavernas |
-| `GET /pvz/index.php/organism/fightingcache` | XML vazio |
+| `GET /pvz/index.php/cave` | XML das cavernas (real capturado) |
+| `GET /pvz/index.php/garden` | XML do jardim (real capturado) |
+| `GET /pvz/index.php/organism/fightingcache` | XML de arena fighters (real capturado) |
 | `GET /pvz/index.php/user/recommendfriend` | XML de amigos |
 | `GET /pvz/index.php/*` | XML genérico de sucesso |
 | `POST /pvz/amf/` | Sistema de replay AMF (ver §6) |
@@ -131,23 +133,28 @@ Neste caso `_xml` = `<response>`, então `_xml.response.status` = vazio → `isS
 
 ### ✅ Formato CORRETO:
 ```xml
-<pvz>
+<root>
   <response><status>success</status></response>
   <user id="..." ...>
     <grade .../>
     ...
   </user>
-</pvz>
+</root>
 ```
-Aqui `_xml` = `<pvz>`, `_xml.response.status` = "success" → `isSuccess()` = true.
-E `_xml.user.@id` funciona porque `<user>` é filho direto de `<pvz>`.
+Aqui `_xml` = `<root>`, `_xml.response.status` = "success" → `isSuccess()` = true.
+E `_xml.user.@id` funciona porque `<user>` é filho direto de `<root>`.
+
+**Nota:** o nome do elemento raiz não importa — o servidor real usa `<root>`, nosso servidor local
+também usa `<root>`. Qualquer nome funciona, desde que `<response>` não seja a raiz.
 
 ### Padrão por endpoint:
-- `default/user` → raiz `<pvz>` + `<response>` + `<user>` com todos os atributos
-- `Warehouse` → raiz `<pvz>` + `<response>` + `<warehouse>`
-- `cave` → raiz `<pvz>` + `<response>` + `<cave>`
-- `user/recommendfriend` → raiz `<pvz>` + `<response>` + `<friends>`
-- catch-all → `<pvz><response><status>success</status></response></pvz>`
+- `default/user` → raiz `<root>` + `<response>` + `<user>` com todos os atributos
+- `Warehouse` → raiz `<root>` + `<response>` + `<warehouse>` (XML real capturado)
+- `cave` → raiz `<root>` + `<response>` + `<hunting>` (XML real capturado)
+- `garden` → raiz `<root>` + `<response>` + `<garden>` (XML real capturado)
+- `organism/fightingcache` → raiz `<root>` + `<response>` + `<fighting>` (XML real capturado)
+- `user/recommendfriend` → raiz `<root>` + `<response>` + `<friends>`
+- catch-all → `<root><response><status>success</status></response></root>`
 
 ---
 
@@ -165,21 +172,42 @@ classe `Connection` em `com/net/http/Connection.as`.
 O servidor carrega respostas AMF binárias capturadas do servidor real (`amf-cache/*_resp.bin`)
 e as serve quando recebe um POST AMF com o método correspondente.
 
-**Como capturar:** use Fiddler ou DevTools → salvar como `.har` → rodar `node extract-har.js arquivo.har`
+**Como capturar:** usar **mitmproxy** com Flash Player real (Pale Moon + Flash NPAPI no PC, com
+data do sistema em Dez/2020 para bypassar o kill switch do Flash) → rodar `python extract-mitm.py pvzonline.mitm`
 
-**Métodos AMF capturados e em cache:**
-- `api.duty.getAll` — tarefas do jogador
-- `api.vip.rewards` — informações VIP
-- `api.guide.getCurAccSmall` — atividade diária
-- `api.active.getState` — estado de atividades
-- `api.active.getSignInfo` — check-in diário
-- `api.apiorganism.getEvolutionOrgs` — organismos evoluíveis
-- `api.apiskill.getSpecSkillAll` — habilidades especiais
-- `api.zombie.getInfo` — modo Shake Tree
-- `api.arena.getArenaList` — lista de arena
-- `api.cave.challenge` — batalha de caverna
-- `api.garden.outAndStealAll` — jardim
-- `api.message.gets` — mensagens
+**ATENÇÃO ao capturar:** a data do PC precisa estar antes de Jan/2021 (Flash kill switch).
+Pale Moon com Flash NPAPI 32.0.0.465 funciona. Configurar proxy em `Opções → Avançado → Rede`.
+
+**Métodos AMF capturados e em cache (26 métodos):**
+
+| Método | Função |
+|---|---|
+| `api.active.getSignInfo` | check-in diário |
+| `api.active.getState` | estado de atividades |
+| `api.apiorganism.getEvolutionCost` | custo de evolução |
+| `api.apiorganism.getEvolutionOrgs` | organismos evoluíveis |
+| `api.apiskill.getAllSkills` | todas as habilidades |
+| `api.apiskill.getSpecSkillAll` | habilidades especiais |
+| `api.arena.challenge` | **batalha de arena** |
+| `api.arena.getArenaList` | lista de arena |
+| `api.cave.challenge` | **batalha de caverna** |
+| `api.duty.getAll` | tarefas do jogador |
+| `api.fuben.caveInfo` | info da caverna (fuben) |
+| `api.fuben.display` | display das fubens |
+| `api.garden.add` | jardim — adicionar organismo |
+| `api.guide.getCurAccSmall` | atividade diária |
+| `api.message.gets` | mensagens |
+| `api.reward.lottery` | recompensas / loteria |
+| `api.serverbattle.knockout` | batalha servidor (knockout) |
+| `api.shop.buy` | **comprar na loja** |
+| `api.shop.getMerchandises` | listar produtos da loja |
+| `api.shop.init` | inicializar loja |
+| `api.shop.sell` | vender item |
+| `api.territory.getTerritory` | território |
+| `api.territory.init` | inicializar território |
+| `api.tool.useOf` | usar ferramenta |
+| `api.vip.rewards` | informações VIP |
+| `api.zombie.getInfo` | modo Shake Tree |
 
 **Para métodos não capturados:** o servidor retorna `Number(1.0)` em AMF0 como fallback.
 O jogo geralmente continua funcionando (ignora o resultado).
@@ -308,28 +336,28 @@ Atributos críticos no XML do `<user>`:
 ## 11. Problemas conhecidos / O que ainda falta
 
 ### Funcionando
-- [x] Carregamento completo do jogo
+- [x] Carregamento completo do jogo (Ruffle)
 - [x] Tela principal (Firstpage) com animações
-- [x] XMLs de configuração (organismos, ferramentas, qualidade, etc.)
-- [x] Inventário do jogador (warehouse)
-- [x] Respostas AMF capturadas (tarefas, VIP, arena, etc.)
+- [x] XMLs de configuração reais (organismos, ferramentas, qualidade, etc.)
+- [x] Dados reais do jogador (warehouse, cave, garden, fightingcache)
+- [x] 26 métodos AMF capturados do servidor real (loja, arena, batalha, jardim, etc.)
+- [x] Captura via mitmproxy + Pale Moon com Flash real
 
-### Não funciona ainda
-- [ ] **Batalha PvE** — usa `NetConnection` para iniciar/resolver batalhas
-- [ ] **Sistema de tarefas** — `upDateTask` patcheado, dados de tarefas não carregam
-- [ ] **Loja** — usa `NetConnection`
-- [ ] **Arena** — usa `NetConnection`
-- [ ] **Jardim** — pode usar URLLoader ou NetConnection (misto)
+### Não funciona ainda no Ruffle
+- [ ] **Batalha PvE/Arena/Caverna** — respostas AMF capturadas, mas o cliente (Ruffle) não envia
+  NetConnection → o servidor nunca recebe o request real em partida local
+- [ ] **Sistema de tarefas** — `upDateTask` patcheado, dados de tarefas não carregam via Ruffle
 - [ ] **Multiplayer** — precisa de protocolo de rede entre instâncias
 
-### Próximos passos para multiplayer
-1. Implementar suporte real a AMF no servidor (receber POST AMF binário, decodificar, processar,
-   retornar resposta AMF real)
-2. Criar banco de dados de jogadores (SQLite ou similar)
-3. Substituir o sistema `Connection`/`NetConnection` por algo que o Ruffle suporte
-   — opções: patchear `Connection.as` para usar URLLoader + endpoint JSON no servidor;
-   ou aguardar suporte nativo de NetConnection HTTP no Ruffle
-4. Implementar endpoints de batalha (a lógica do jogo precisa ser reimplementada em JS/Node)
+**Raiz do problema:** Ruffle não implementa `NetConnection` HTTP (Flash Remoting).
+As respostas AMF já estão no servidor — o bloqueio é no cliente.
+
+### Próximos passos (ordem de impacto)
+1. **Patchear `Connection.as` no AVM2** — substituir lógica de `NetConnection.call()` por
+   `URLLoader` POST → o servidor já responde corretamente, só precisa do cliente enviar
+2. **Banco de dados de estado** — SQLite para persistir organismos, recursos, batalhas
+3. **Reimplementar lógica de batalha** em JS para respostas dinâmicas (não apenas replay fixo)
+4. **Multiplayer** — após (1) e (2), sincronizar estado entre instâncias
 
 ---
 
@@ -339,6 +367,13 @@ Atributos críticos no XML do `<user>`:
 # Iniciar servidor
 node server/server.js
 
+# Capturar sessão do jogo real com mitmproxy
+# (data do PC deve ser < Jan/2021 para Flash funcionar no Pale Moon)
+mitmproxy --listen-host 0.0.0.0 --listen-port 8080 --save-stream-file pvzonline.mitm
+
+# Extrair AMF e XML do arquivo .mitm (requer: pip install mitmproxy)
+python extract-mitm.py pvzonline.mitm
+
 # Baixar SWFs que faltam do servidor live (ainda online)
 node download-missing.js
 
@@ -347,9 +382,6 @@ node download-bulk.js
 
 # Extrair SWFs/AMF/XML de captura HAR (DevTools → Network → Save as HAR)
 node extract-har.js pvz-capture.har
-
-# Extrair de captura SAZ (Fiddler → File → Save → Session Archive)
-node extract-saz.js pvz_capture.saz
 
 # Re-aplicar patch no main.swf (após atualização ou reset)
 cp uilib/main.swf.orig uilib/main.swf && node patch-swf.js
@@ -375,13 +407,21 @@ cp uilib/main.swf swfs/main.swf
 
 O servidor `s46.youkia.pvz.youkia.com` ainda está online (em 2026).
 
-Para capturar uma sessão completa:
-1. Abrir Fiddler ou DevTools com proxy
-2. Apontar o Flash Player real (ou alguma máquina com Flash) para o servidor
-3. Jogar uma sessão completa (incluindo batalhas, loja, arena)
-4. Salvar como `.har` ou `.saz`
-5. Rodar `node extract-har.js` ou `node extract-saz.js`
-6. Os `_req.bin`/`_resp.bin` serão usados pelo replay system
+### Setup para captura (método confirmado funcionando):
+
+1. **Mudar data do PC para Dez/2020** — Flash tem kill switch após Jan/2021
+2. **Instalar Pale Moon** (palemoon.org) + **Flash NPAPI 32.0.0.465**
+3. **Iniciar mitmproxy:**
+   ```bash
+   mitmproxy --listen-host 0.0.0.0 --listen-port 8080 --save-stream-file pvzonline.mitm
+   ```
+4. **Configurar proxy no Pale Moon:** `Opções → Avançado → Rede → Proxy Manual → 127.0.0.1:8080`
+5. **Jogar no site da Youkia** explorando tudo (batalhas, loja, arena, jardim, etc.)
+6. **Extrair:**
+   ```bash
+   python extract-mitm.py pvzonline.mitm
+   ```
+7. **Restaurar data do PC**
 
 Para autenticação, o jogo usa uma assinatura MD5:
 ```

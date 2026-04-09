@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/arena"
+			  name="arena"
+			  isnew="0"
+			  version="_201312311">斗技场</item> 
+	</ui>  
+</config>

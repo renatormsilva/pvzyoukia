@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<item name="severBattle001">使用%1增加%2次挑战次数</item>  
+	<item name="severBattle002">击败了</item>  
+	<item name="severBattle003">花费%1金券增加了1次挑战次数</item>  
+	<item name="severBattle004">竞猜成功</item>  
+	<item name="severBattle005">组</item>  
+	<item name="severBattle006">你确定用%1个功勋购买%2个%3?</item> 
+	<item name="severBattle007">玩家等级达到%1级才能参加跨服战</item> 
+	<item name="severBattle008">你的功勋数量不够</item> 
+	<item name="severBattle009">你己经成功购买了%1个%2</item> 
+	<item name="severBattle010">你己成功报名跨服战</item> 
+	<item name="severBattle011">请配置参战跨服战的植物</item> 
+	<item name="severBattle012">玩家等级达到18级才能竞猜！</item> 
+	<item name="severBattle013">领取成功!</item> 
+	<item name="severBattle014">未进入16强</item>
+	<item name="severBattle015">强</item>
+	<item name="severBattle016">本月剩余数量:%1个</item>
+	<item name="severBattle017">冠军</item>
+	<item name="severBattle018">亚军</item>
+	<item name="severBattle019">末进入前200</item>
+	<item name="severBattle020">成功更换植物</item>
+	<item name="severBattle021">系统繁忙，请稍后寻找对手!</item>
+	<item name="severBattle022">元老区</item>
+	<item name="severBattle023">精英区</item>
+	<item name="severBattle024">新秀区</item>
+	<item name="severBattle025">达人区</item>
+	<item name="severBattle026">至尊区</item>
+</lang>

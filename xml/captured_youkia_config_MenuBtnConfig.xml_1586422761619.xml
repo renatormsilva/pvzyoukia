@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<!--	<button id="_bt_toTask" lightType="1" name="任务" levellimit="1"/>-->
+	<button id="storage" lightType="1" name="仓库" levellimit="5"/> -->
+	<button id="compound" lightType="1" name="合成" levellimit="2"/>-->
+	<button id="toGarden" lightType="1" name="花园" levellimit="10"/>-->
+	
+	<button id="shop" lightType="1" name="商店" levellimit="8"/>
+	<button id="firstRecharge" lightType="1" name="首充" levellimit="11"/>
+	<button id="activity_btn" lightType="1"  name="活动" levellimit="12"/>
+	<button id="signup_btn" lightType="1" name="跨服战" levellimit="12"/>
+	<button id="toPKRoom" lightType="1" name="竞技场" levellimit="6"/>
+	<button id="toPossession" lightType="1" name="领地" levellimit="7"/>
+	<button id="ranking" lightType="1" name="排行榜" levellimit="13"/>
+	<button id="toWorld" lightType="1" name="副本" levellimit="9"/>
+	<button id="prizes" lightType="2" name="奖励" levellimit="11"/>
+	<button id="toTree" lightType="2" name="大树" levellimit="4"/>
+	<button id="_bt_vip" lightType="2" name="VIP" levellimit="11"/>
+	<button id="active_btn" lightType="2" name="活跃度" levellimit="12"/>
+	<button id="picture" lightType="2" name="图监" levellimit="13"/>
+	<button id="shakeTree_btn" lightType="2" name="图监" levellimit="20"/>
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/possession"
+			  name="possession"
+			  isnew="0"
+			  version="_2013042716">领地</item> 
+		<item type="UILibs/possession"
+			  name="playerInfo"
+			  isnew="0"
+			  version="_20120317">领地个人信息</item>
+		<item type="UILibs/possession"
+			  name="recommenWindow"
+			  isnew="0"
+			  version="_2011111801">推荐好友窗口</item> 
+	</ui>  
+</config>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	 <item name="possession001">等级:</item>
+     <item name="possession002">累计收益:</item>
+     <item name="possession003">剩余%1小时%2分钟脱离</item>
+     <item name="possession004">%1小时%2分钟后可收获</item>
+     <item name="possession005">不可领取</item>
+     <item name="possession006">可以获得金钱</item>
+     <item name="possession007">初始化领地失败!</item>
+     <item name="possession008">你成功帮助%1夺回了领地</item>
+     <item name="possession009">你帮助%1夺回领地失败</item>
+     <item name="possession010">你成功占领%1的领地</item>
+     <item name="possession011">你占领%1的领地失败</item>
+     <item name="possession012">你成功反抗%1夺回了自己的领地</item>
+     <item name="possession013">你获得了%1金币的领地收益</item>
+     <item name="possession014">你释放%1的领地 获得了%2点荣誉值%3金币</item>
+     <item name="possession015">领地节点初始化失败-------------------</item>
+     
+     <item name="possession016">不能占领高于%1级的玩家</item>
+     <item name="possession017">你的领地数已达上限</item>
+     <item name="possession018">征战次数已满，无法使用道具</item>
+     <item name="possession019">道具已卖光，请明天再来购买 </item>
+
+     <item name="possession020">使用道具</item>
+     <item name="possession021">增加了%1次征战次数</item>
+     <item name="possession022">确定花费%1金券增加%2次征战次数吗？</item>
+     <item name="possession023">你确定要增加%1次征战次数</item>
+     
+     <item name="possession024">你成功购买%1个%2</item>
+     <item name="possession025">确定花费%1金券购买%2本强退书？</item>
+     <item name="possession026">初始化领地用户推荐节点失败</item>
+     <item name="possession027">初始化领地推荐窗口失败！！</item>
+     <item name="possession028">购买道具</item>
+     
+     <item name="possession029">请选择参战植物</item>
+     <item name="possession030">放入植物已达上限</item>
+      
+     <item name="possession031">前面没有好友了</item>
+     <item name="possession032">possession032</item>
+     <item name="possession033">这是最后一个好友了</item>
+     
+     <item name="possession034">植物已在领地中</item>
+     
+     <item name="possession035">玩家到达%1级，可开启该领地</item>
+     <item name="possession036">好友暂未开启领地功能</item>
+  
+     <item name="possession037">领地处于保护时间，请等待%1分钟。</item>
+     <item name="possession038">金券不足，是否充值？</item>
+     <item name="possession039">不能帮助高于%1级的玩家</item>
+     <item name="possession040">收益增加中</item>
+     <item name="possession041">累计荣誉:</item>
+     
+     
+     <item name="possession042">你释放%1的领地 获得了%2金币</item>
+</lang>

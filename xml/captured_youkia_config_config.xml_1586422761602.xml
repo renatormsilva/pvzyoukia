@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<base>
+		<isWeb>true</isWeb>
+		<language>cn</language>
+		<rank>11</rank>
+	</base> 
+	<!--youkia1 web2 kaixin3-->
+	<version>1</version>
+	<org_version>_20120307</org_version>
+	<pvz_version>_20150415</pvz_version>
+	<loading_version>_2013051313</loading_version> 
+	<ui>
+	   <item id="1"
+			  type="UILibs"
+			  name="number"
+			  isnew="1"
+			  version="_20150416">数字</item>
+			  
+		<item id="1"
+			  type="UILibs"
+			  name="help"
+			  isnew="1"
+			  version="_2015011502">新手帮助</item>  
+  
+		 <item id="1"
+			  type="UILibs"
+			  name="tips"
+			  isnew="1"
+			  version="_20150506">tips</item>
+
+		<item id="1"
+			  type="UILibs"
+			  name="windows"
+			  isnew="1"
+			  version="_20150316">公共资源</item>
+			  
+		<item id="1"
+			  type="UILibs"
+			  name="qualityLight"
+			  isnew="1"
+			  version="_20140212">特效</item>
+			  
+		<item id="1"
+			  type="UILibs"
+			  name="baseUI"
+			  isnew="1"
+			  version="_2013070610">基础UI</item>
+			 
+		<item id="1"
+			  type="UILibs"
+			  name="firstpage"
+			  isnew="1"
+			  version="_20150506">主场景</item>		 
+
+		<item id="1"
+			  type="UILibs"
+			  name="vip"
+			  isnew="1"
+			  version="_2013051813">vip资源</item>
+			  
+		<item id="1"
+			  type="UILibs/genius"
+			  name="geniusEffect"
+			  isnew="1"
+			  version="_2013042216">天赋特效</item>		
+			  
+		<item id="1"
+			  type="UILibs"
+			  name="helpBattle"
+			  isnew="1"
+			  version="_2012091301">新手过场动画</item>
+			  
+		<item id="2"
+			  type="UILibs"
+			  name="sound"
+			  isnew="1"
+			  version="_2013060514">音乐</item>
+			  	  
+		<item id="2"
+			  type="ORGLibs"
+			  name="orghelp"
+			  isnew="1"
+			  version="_2012122502">新手植物</item>
+			  
+		<item id="2"
+			  type="ORGLibs"
+			  name="org_default"
+			  isnew="1"
+			  version="_2012082801">默认植物</item>   
+	</ui>
+	<setting>
+		<storage>
+			<toolpage>99</toolpage>
+		</storage>
+	</setting>
+</config>

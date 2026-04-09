@@ -56,9 +56,9 @@ async function downloadAll() {
     await new Promise(r => setTimeout(r, 80));
   }
 
-  // ── IconOrg: 1.swf até 300.swf ───────────────────────────────────────────
-  console.log('\n\n🎨 IconOrg (1 → 300)...');
-  for (let i = 1; i <= 300; i++) {
+  // ── IconOrg: 1.swf até 500.swf ───────────────────────────────────────────
+  console.log('\n\n🎨 IconOrg (1 → 500)...');
+  for (let i = 1; i <= 500; i++) {
     const name = `${i}.swf`;
     const result = await download(
       `/youkia/IconRes/IconOrg/${name}`,
@@ -72,9 +72,9 @@ async function downloadAll() {
     await new Promise(r => setTimeout(r, 80));
   }
 
-  // ── IconTool: 1.swf até 300.swf ──────────────────────────────────────────
-  console.log('\n\n🔧 IconTool (1 → 300)...');
-  for (let i = 1; i <= 300; i++) {
+  // ── IconTool: 1.swf até 500.swf ──────────────────────────────────────────
+  console.log('\n\n🔧 IconTool (1 → 500)...');
+  for (let i = 1; i <= 500; i++) {
     const name = `${i}.swf`;
     const result = await download(
       `/youkia/IconRes/IconTool/${name}`,

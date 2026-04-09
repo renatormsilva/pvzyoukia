@@ -1,0 +1,4259 @@
+[
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://www.youkia.com/index.php/login/check?in_ajax=1&t=1775724707104",
+    "method": "GET",
+    "path": "/index.php/login/check?in_ajax=1&t=1775724707104",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 2
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=a5d47e0a9294cf61c88f54ba71ca80fe&time=1775724706&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=a5d47e0a9294cf61c88f54ba71ca80fe&time=1775724706&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 10144
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/fcm/t?crc=1hj98jv8tcsuzem1x2w3ydva4zo3gwrca29lpz&fisrt=1&flag=4",
+    "method": "GET",
+    "path": "/pvz/index.php/fcm/t?crc=1hj98jv8tcsuzem1x2w3ydva4zo3gwrca29lpz&fisrt=1&flag=4",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 2
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/main.swf?882128095",
+    "method": "GET",
+    "path": "/youkia/main.swf?882128095",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 498945
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 15
+  },
+  {
+    "url": "http://pvz.youkia.com/",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 131079
+  },
+  {
+    "url": "http://pvz.youkia.com/css/global.css",
+    "method": "GET",
+    "path": "/css/global.css",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/jquery.min.js",
+    "method": "GET",
+    "path": "/js/jquery.min.js",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/jquery-ui.min.js",
+    "method": "GET",
+    "path": "/js/jquery-ui.min.js",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/index_new_affter.js",
+    "method": "GET",
+    "path": "/js/index_new_affter.js",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/css/maincss.css",
+    "method": "GET",
+    "path": "/css/maincss.css",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/index_new.js?2",
+    "method": "GET",
+    "path": "/js/index_new.js?2",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/jquery-1.7.1.min.js",
+    "method": "GET",
+    "path": "/js/jquery-1.7.1.min.js",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/js/select-widget-min.js",
+    "method": "GET",
+    "path": "/js/select-widget-min.js",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_03.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_03.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_02.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_02.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_01.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_01.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/bannerbg.jpg",
+    "method": "GET",
+    "path": "/images/new_images/bannerbg.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/download.png",
+    "method": "GET",
+    "path": "/images/new_images/download.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/sprite.png",
+    "method": "GET",
+    "path": "/images/new_images/sprite.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/loadingbg.png",
+    "method": "GET",
+    "path": "/images/new_images/loadingbg.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/checkbox.png",
+    "method": "GET",
+    "path": "/images/new_images/checkbox.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/btn.png",
+    "method": "GET",
+    "path": "/images/new_images/btn.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/role.png",
+    "method": "GET",
+    "path": "/images/new_images/role.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/footer.jpg",
+    "method": "GET",
+    "path": "/images/new_images/footer.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/newsbg.png",
+    "method": "GET",
+    "path": "/images/new_images/newsbg.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/connect.png",
+    "method": "GET",
+    "path": "/images/new_images/connect.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/billboard.png",
+    "method": "GET",
+    "path": "/images/new_images/billboard.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/powerlist.png",
+    "method": "GET",
+    "path": "/images/new_images/powerlist.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/carousel.png",
+    "method": "GET",
+    "path": "/images/new_images/carousel.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/logo.png",
+    "method": "GET",
+    "path": "/images/new_images/logo.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/sun_flower.png",
+    "method": "GET",
+    "path": "/images/new_images/sun_flower.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/customer.png",
+    "method": "GET",
+    "path": "/images/new_images/customer.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/serverlist.png",
+    "method": "GET",
+    "path": "/images/new_images/serverlist.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/pullpop.png",
+    "method": "GET",
+    "path": "/images/new_images/pullpop.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/arrow.png",
+    "method": "GET",
+    "path": "/images/new_images/arrow.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/fishcat.png",
+    "method": "GET",
+    "path": "/images/new_images/fishcat.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/qq.png",
+    "method": "GET",
+    "path": "/images/new_images/qq.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 15
+  },
+  {
+    "url": "http://pvz.youkia.com/",
+    "method": "GET",
+    "path": "/",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 131079
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php/login",
+    "method": "POST",
+    "path": "/index.php/login",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 47,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php",
+    "method": "GET",
+    "path": "/index.php",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 129686
+  },
+  {
+    "url": "http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "method": "GET",
+    "path": "/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 89
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php/index/game?s=s46",
+    "method": "GET",
+    "path": "/index.php/index/game?s=s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 102
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://www.youkia.com/index.php/login/check?in_ajax=1&t=1775724820456",
+    "method": "GET",
+    "path": "/index.php/login/check?in_ajax=1&t=1775724820456",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 10
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=476f61bad36b39e7f27ca3a0229eb9b8&time=1775724820&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=476f61bad36b39e7f27ca3a0229eb9b8&time=1775724820&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 10146
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/fcm/t?crc=1hj98jv8tcsuzem1x2w3ydva4zo3gwrca29lpz&fisrt=1&flag=4",
+    "method": "GET",
+    "path": "/pvz/index.php/fcm/t?crc=1hj98jv8tcsuzem1x2w3ydva4zo3gwrca29lpz&fisrt=1&flag=4",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 2
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/main.swf?1803412302",
+    "method": "GET",
+    "path": "/youkia/main.swf?1803412302",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 498945
+  },
+  {
+    "url": "http://www.youkia.com/index.php/login/check?in_ajax=1&t=1775724840456",
+    "method": "GET",
+    "path": "/index.php/login/check?in_ajax=1&t=1775724840456",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 10
+  },
+  {
+    "url": "http://www.youkia.com/index.php/login/check?in_ajax=1&t=1775724860464",
+    "method": "GET",
+    "path": "/index.php/login/check?in_ajax=1&t=1775724860464",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 10
+  },
+  {
+    "url": "http://www.youkia.com/index.php/login/check?in_ajax=1&t=1775724880592",
+    "method": "GET",
+    "path": "/index.php/login/check?in_ajax=1&t=1775724880592",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 10
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=8557890624b922e81dcea8ea7b6d6e55&time=1775724898&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=8557890624b922e81dcea8ea7b6d6e55&time=1775724898&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php",
+    "method": "GET",
+    "path": "/index.php",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 129686
+  },
+  {
+    "url": "http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "method": "GET",
+    "path": "/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 89
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php/index/game?s=s46",
+    "method": "GET",
+    "path": "/index.php/index/game?s=s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 102
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=76c77d75a7e8d462d76964f2ad0808e3&time=1775724957&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=76c77d75a7e8d462d76964f2ad0808e3&time=1775724957&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 10146
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/main.swf?1340473376",
+    "method": "GET",
+    "path": "/youkia/main.swf?1340473376",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 498945
+  },
+  {
+    "url": "http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "method": "GET",
+    "path": "/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 89
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php/index/game?s=s46",
+    "method": "GET",
+    "path": "/index.php/index/game?s=s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 102
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=20c102aaf2447e94414a544892222ea0&time=1775725133&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=20c102aaf2447e94414a544892222ea0&time=1775725133&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 10145
+  },
+  {
+    "url": "http://www.youkia.com/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "method": "GET",
+    "path": "/index.php/entrance/entrance?url=http%3A%2F%2Fpvz.youkia.com%2Findex.php%2Findex%2Fgame%3Fs%3Ds46&gid=2&sid=46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 89
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php/index/game?s=s46",
+    "method": "GET",
+    "path": "/index.php/index/game?s=s46",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 102
+  },
+  {
+    "url": "http://www.youkia.com/index.php/pvz/s46",
+    "method": "GET",
+    "path": "/index.php/pvz/s46",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1923
+  },
+  {
+    "url": "http://pvz.youkia.com/index.php",
+    "method": "GET",
+    "path": "/index.php",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 129686
+  },
+  {
+    "url": "http://pvz.youkia.com/css/global.css",
+    "method": "GET",
+    "path": "/css/global.css",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=926fd92206054be44f728b2e037f7d1a&time=1775725175&invite_user_id=0",
+    "method": "GET",
+    "path": "/pvz/index.php?user_id=8496443&nickname=8496443&domain=youkia.com&sig=926fd92206054be44f728b2e037f7d1a&time=1775725175&invite_user_id=0",
+    "status": 302,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/css/maincss.css",
+    "method": "GET",
+    "path": "/css/maincss.css",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/logo.png",
+    "method": "GET",
+    "path": "/images/new_images/logo.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_01.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_01.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/main",
+    "method": "GET",
+    "path": "/pvz/index.php/default/main",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "req_size": 0,
+    "resp_size": 10146
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/bannerbg.jpg",
+    "method": "GET",
+    "path": "/images/new_images/bannerbg.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_03.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_03.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/loadingbg.png",
+    "method": "GET",
+    "path": "/images/new_images/loadingbg.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/serverlist.png",
+    "method": "GET",
+    "path": "/images/new_images/serverlist.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/sprite.png",
+    "method": "GET",
+    "path": "/images/new_images/sprite.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/banner_02.jpg",
+    "method": "GET",
+    "path": "/images/new_images/banner_02.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/customer.png",
+    "method": "GET",
+    "path": "/images/new_images/customer.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/pullpop.png",
+    "method": "GET",
+    "path": "/images/new_images/pullpop.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/qq.png",
+    "method": "GET",
+    "path": "/images/new_images/qq.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/fishcat.png",
+    "method": "GET",
+    "path": "/images/new_images/fishcat.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/billboard.png",
+    "method": "GET",
+    "path": "/images/new_images/billboard.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/powerlist.png",
+    "method": "GET",
+    "path": "/images/new_images/powerlist.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/sun_flower.png",
+    "method": "GET",
+    "path": "/images/new_images/sun_flower.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/connect.png",
+    "method": "GET",
+    "path": "/images/new_images/connect.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/footer.jpg",
+    "method": "GET",
+    "path": "/images/new_images/footer.jpg",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/role.png",
+    "method": "GET",
+    "path": "/images/new_images/role.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/newsbg.png",
+    "method": "GET",
+    "path": "/images/new_images/newsbg.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/carousel.png",
+    "method": "GET",
+    "path": "/images/new_images/carousel.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://pvz.youkia.com/images/new_images/download.png",
+    "method": "GET",
+    "path": "/images/new_images/download.png",
+    "status": 304,
+    "content_type": "",
+    "req_size": 0,
+    "resp_size": 0
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/main.swf?1108693277",
+    "method": "GET",
+    "path": "/youkia/main.swf?1108693277",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 498945
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/config.xml?1586422761602",
+    "method": "GET",
+    "path": "/youkia/config/config.xml?1586422761602",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 2060
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/MenuBtnConfig.xml?1586422761619",
+    "method": "GET",
+    "path": "/youkia/config/MenuBtnConfig.xml?1586422761619",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 1350
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/isnew/sig/6388f8b5b47ded6b344f51548d84de15?1586422763069",
+    "method": "GET",
+    "path": "/pvz/index.php/default/isnew/sig/6388f8b5b47ded6b344f51548d84de15?1586422763069",
+    "status": 200,
+    "content_type": "text/html",
+    "req_size": 0,
+    "resp_size": 1
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/pvz_20150415.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/pvz_20150415.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 186016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/loading_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/loading_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 263651
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/number_20150416.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/number_20150416.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 182175
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/help_2015011502.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/help_2015011502.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 299813
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/tips_20150506.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/tips_20150506.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 20628
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/windows_20150316.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/windows_20150316.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 568221
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/qualityLight_20140212.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/qualityLight_20140212.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 275464
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/baseUI_2013070610.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/baseUI_2013070610.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 1064831
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/firstpage_20150506.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/firstpage_20150506.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 615944
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/vip_2013051813.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/vip_2013051813.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 665288
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/genius/geniusEffect_2013042216.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/genius/geniusEffect_2013042216.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 623262
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/helpBattle_2012091301.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/helpBattle_2012091301.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 86236
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/sound_2013060514.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/sound_2013060514.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 167226
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/orghelp_2012122502.swf",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/orghelp_2012122502.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 482568
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_default_2012082801.swf",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_default_2012082801.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3754
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/quality.xml?1586422787890",
+    "method": "GET",
+    "path": "/youkia/config/quality.xml?1586422787890",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 1710
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/php_xml/tool.xml?1586422787890",
+    "method": "GET",
+    "path": "/pvz/php_xml/tool.xml?1586422787890",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 361771
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/lang/language_cn.xml?1586422787906",
+    "method": "GET",
+    "path": "/youkia/config/lang/language_cn.xml?1586422787906",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 30295
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 53,
+    "resp_size": 80910
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 50,
+    "resp_size": 173378
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/php_xml/organism.xml?1586422787890",
+    "method": "GET",
+    "path": "/pvz/php_xml/organism.xml?1586422787890",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 956215
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/php_xml/awards.xml?1586422787890",
+    "method": "GET",
+    "path": "/pvz/php_xml/awards.xml?1586422787890",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 95918
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/php_xml/talent.xml?1586422787890",
+    "method": "GET",
+    "path": "/pvz/php_xml/talent.xml?1586422787890",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 25361
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/php_xml/gemexchange.xml?1586422787906",
+    "method": "GET",
+    "path": "/pvz/php_xml/gemexchange.xml?1586422787906",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 8554
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/ui_config.xml?1586422787906",
+    "method": "GET",
+    "path": "/youkia/config/ui_config.xml?1586422787906",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 2551
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/default/user/sig/6388f8b5b47ded6b344f51548d84de15?1586422793913",
+    "method": "GET",
+    "path": "/pvz/index.php/default/user/sig/6388f8b5b47ded6b344f51548d84de15?1586422793913",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 10426
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/850/8496443/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/850/8496443/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422800624",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422800624",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/upload/1.png?1586422800649",
+    "method": "GET",
+    "path": "/upload/1.png?1586422800649",
+    "status": 200,
+    "content_type": "image/png",
+    "req_size": 0,
+    "resp_size": 76042
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/user/recommendfriend/sig/6388f8b5b47ded6b344f51548d84de15?1586422806580",
+    "method": "GET",
+    "path": "/pvz/index.php/user/recommendfriend/sig/6388f8b5b47ded6b344f51548d84de15?1586422806580",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 756
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4175
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/921/9201993/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/921/9201993/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/922/9215241/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/922/9215241/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/922/9215445/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/922/9215445/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/taskWindow_20150504.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/taskWindow_20150504.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 384070
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 307
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 57,
+    "resp_size": 143
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/14.swf?1586422825420",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/14.swf?1586422825420",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3407
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/atlas_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/atlas_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 109641
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/1.swf?1586422855285",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/1.swf?1586422855285",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3061
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/2.swf?1586422855290",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/2.swf?1586422855290",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3102
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/125.swf?1586422855299",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/125.swf?1586422855299",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2876
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/83.swf?1586422855294",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/83.swf?1586422855294",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3318
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/82.swf?1586422855291",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/82.swf?1586422855291",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3233
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/81.swf?1586422855288",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/81.swf?1586422855288",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3485
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/136.swf?1586422855301",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/136.swf?1586422855301",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3362
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/3.swf?1586422855292",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/3.swf?1586422855292",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3155
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/75.swf?1586422855298",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/75.swf?1586422855298",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3474
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/102.swf?1586422857891",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/102.swf?1586422857891",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3673
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/103.swf?1586422857891",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/103.swf?1586422857891",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3619
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/6.swf?1586422857891",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/6.swf?1586422857891",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3449
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/7.swf?1586422857891",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/7.swf?1586422857891",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3577
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/8.swf?1586422857897",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/8.swf?1586422857897",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3380
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/104.swf?1586422857896",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/104.swf?1586422857896",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3650
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/105.swf?1586422857898",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/105.swf?1586422857898",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3540
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/84.swf?1586422857898",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/84.swf?1586422857898",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3257
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/137.swf?1586422857898",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/137.swf?1586422857898",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3284
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/9.swf?1586422857901",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/9.swf?1586422857901",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3196
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/10.swf?1586422857901",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/10.swf?1586422857901",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3155
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/11.swf?1586422858401",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/11.swf?1586422858401",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2918
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/85.swf?1586422858402",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/85.swf?1586422858402",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3184
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/12.swf?1586422858403",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/12.swf?1586422858403",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3031
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/86.swf?1586422858404",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/86.swf?1586422858404",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3161
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/106.swf?1586422858407",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/106.swf?1586422858407",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3054
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/15.swf?1586422858411",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/15.swf?1586422858411",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2916
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/13.swf?1586422858409",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/13.swf?1586422858409",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3573
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/139.swf?1586422858405",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/139.swf?1586422858405",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3240
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/13.swf?1586422858406",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/13.swf?1586422858406",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3573
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/16.swf?1586422858413",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/16.swf?1586422858413",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2907
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/95.swf?1586422857901",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/95.swf?1586422857901",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3438
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/106.swf?1586422858412",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/106.swf?1586422858412",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3054
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/76.swf?1586422858974",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/76.swf?1586422858974",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3113
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/88.swf?1586422858977",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/88.swf?1586422858977",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2785
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/17.swf?1586422858978",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/17.swf?1586422858978",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2660
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/87.swf?1586422858980",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/87.swf?1586422858980",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2972
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/138.swf?1586422858976",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/138.swf?1586422858976",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3261
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/18.swf?1586422858981",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/18.swf?1586422858981",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2673
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/88.swf?1586422858981",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/88.swf?1586422858981",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2785
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/20.swf?1586422858985",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/20.swf?1586422858985",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3043
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/77.swf?1586422858984",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/77.swf?1586422858984",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3025
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/19.swf?1586422858982",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/19.swf?1586422858982",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2921
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/90.swf?1586422858986",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/90.swf?1586422858986",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3086
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/141.swf?1586422858992",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/141.swf?1586422858992",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3311
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/21.swf?1586422859551",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/21.swf?1586422859551",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2907
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/22.swf?1586422859553",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/22.swf?1586422859553",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/99.swf?1586422859552",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/99.swf?1586422859552",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3177
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/98.swf?1586422859558",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/98.swf?1586422859558",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3228
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/97.swf?1586422859553",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/97.swf?1586422859553",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3227
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/96.swf?1586422859556",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/96.swf?1586422859556",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3267
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/23.swf?1586422859555",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/23.swf?1586422859555",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2976
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/24.swf?1586422859557",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/24.swf?1586422859557",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3096
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/140.swf?1586422859560",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/140.swf?1586422859560",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3175
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/78.swf?1586422860648",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/78.swf?1586422860648",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3311
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/100.swf?1586422860646",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/100.swf?1586422860646",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3246
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/27.swf?1586422860647",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/27.swf?1586422860647",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3126
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/28.swf?1586422860649",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/28.swf?1586422860649",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3111
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/143.swf?1586422860653",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/143.swf?1586422860653",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3260
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/31.swf?1586422860658",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/31.swf?1586422860658",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2860
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/112.swf?1586422860655",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/112.swf?1586422860655",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3183
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/29.swf?1586422860654",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/29.swf?1586422860654",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2865
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/114.swf?1586422860659",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/114.swf?1586422860659",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3070
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/113.swf?1586422860657",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/113.swf?1586422860657",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3314
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/30.swf?1586422860656",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/30.swf?1586422860656",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2983
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/101.swf?1586422860652",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/101.swf?1586422860652",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3273
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/32.swf?1586422861752",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/32.swf?1586422861752",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3054
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/115.swf?1586422861754",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/115.swf?1586422861754",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3262
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/142.swf?1586422861755",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/142.swf?1586422861755",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3300
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/33.swf?1586422861756",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/33.swf?1586422861756",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3339
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/91.swf?1586422861757",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/91.swf?1586422861757",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3302
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/117.swf?1586422861759",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/117.swf?1586422861759",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3402
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/34.swf?1586422861758",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/34.swf?1586422861758",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3379
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/36.swf?1586422861763",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/36.swf?1586422861763",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3360
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/118.swf?1586422861762",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/118.swf?1586422861762",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3271
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/35.swf?1586422861761",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/35.swf?1586422861761",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3145
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/116.swf?1586422861764",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/116.swf?1586422861764",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3441
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/133.swf?1586422862887",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/133.swf?1586422862887",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3548
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/132.swf?1586422862886",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/132.swf?1586422862886",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3074
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/134.swf?1586422862885",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/134.swf?1586422862885",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3340
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/145.swf?1586422862888",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/145.swf?1586422862888",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2950
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/37.swf?1586422862890",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/37.swf?1586422862890",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2964
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/126.swf?1586422862889",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/126.swf?1586422862889",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2821
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/39.swf?1586422862894",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/39.swf?1586422862894",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/79.swf?1586422862893",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/79.swf?1586422862893",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3396
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/119.swf?1586422862891",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/119.swf?1586422862891",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3171
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/120.swf?1586422862895",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/120.swf?1586422862895",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3433
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/135.swf?1586422861765",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/135.swf?1586422861765",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3417
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 47,
+    "resp_size": 1838
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/registratuion/registratuionWindow_20150416.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/registratuion/registratuionWindow_20150416.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 85137
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/202.swf?1586422868551",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/202.swf?1586422868551",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3002
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1059.swf?1586422868808",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1059.swf?1586422868808",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3358
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/190.swf?1586422868551",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/190.swf?1586422868551",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6962
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 307
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/tree.xml?1586422879312",
+    "method": "GET",
+    "path": "/youkia/config/load/tree.xml?1586422879312",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 184
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/arena/tree_2012042414.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/arena/tree_2012042414.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 282466
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 503,
+    "content_type": "text/html",
+    "req_size": 41,
+    "resp_size": 213
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4175
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 57,
+    "resp_size": 143
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/prizesWindow_2013051711.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/prizesWindow_2013051711.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 268626
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/lang/shakeTree_cn.xml?1586422893868",
+    "method": "GET",
+    "path": "/youkia/config/lang/shakeTree_cn.xml?1586422893868",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 2180
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/shakeTree.xml?1586422893868",
+    "method": "GET",
+    "path": "/youkia/config/load/shakeTree.xml?1586422893868",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 341
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 49,
+    "resp_size": 234
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/shaketree/shakeTreeScene_20130702.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/shaketree/shakeTreeScene_20130702.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 675758
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/shaketree/jewelpics_2013052311.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/shaketree/jewelpics_2013052311.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 72559
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 43,
+    "resp_size": 910
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_83.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_83.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 9077
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_59.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_59.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 21947
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4175
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/copy/copyWindow_2013070811.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/copy/copyWindow_2013070811.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 62904
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/world/world.xml?1586422920719",
+    "method": "GET",
+    "path": "/youkia/config/load/world/world.xml?1586422920719",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 415
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/lang/world_cn.xml?1586422920718",
+    "method": "GET",
+    "path": "/youkia/config/lang/world_cn.xml?1586422920718",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 2057
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/world/World_20150311.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/world/World_20150311.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 414384
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/world/ectype_2012062701.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/world/ectype_2012062701.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 175151
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/world/InsideWorldReward_2012070501.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/world/InsideWorldReward_2012070501.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 162682
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/world/insideWorld_1.xml?1586422927122",
+    "method": "GET",
+    "path": "/youkia/config/load/world/insideWorld_1.xml?1586422927122",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 197
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/world/InsideWorld1_20150311.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/world/InsideWorld1_20150311.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 452198
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 47,
+    "resp_size": 3478
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/89.swf?1586422932438",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/89.swf?1586422932438",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 4822
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1.swf?1586422932450",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1.swf?1586422932450",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2512
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/127.swf?1586422932450",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/127.swf?1586422932450",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 5474
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/452.swf?1586422932455",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/452.swf?1586422932455",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2589
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/453.swf?1586422932455",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/453.swf?1586422932455",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2548
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 48,
+    "resp_size": 1419
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_34.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_34.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 20919
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422938209",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422938209",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/155.swf?1586422939590",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/155.swf?1586422939590",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3332
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/124.swf?1586422939613",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/124.swf?1586422939613",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2938
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/151.swf?1586422939603",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/151.swf?1586422939603",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3650
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/150.swf?1586422939613",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/150.swf?1586422939613",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3426
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/148.swf?1586422939623",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/148.swf?1586422939623",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3083
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/180.swf?1586422939623",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/180.swf?1586422939623",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3491
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 503,
+    "content_type": "text/html",
+    "req_size": 41,
+    "resp_size": 213
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4175
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 57,
+    "resp_size": 143
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/hunting.xml?1586422948004",
+    "method": "GET",
+    "path": "/youkia/config/load/hunting.xml?1586422948004",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 186
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/hunting_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/hunting_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 496770
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/cave/index/id/5049894/type/private_2/sig/6388f8b5b47ded6b344f51548d84de15?1586422951791",
+    "method": "GET",
+    "path": "/pvz/index.php/cave/index/id/5049894/type/private_2/sig/6388f8b5b47ded6b344f51548d84de15?1586422951791",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 9218
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/battle/battleReadyWindow_20130701.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/battle/battleReadyWindow_20130701.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 397653
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422957393",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422957393",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_119.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_119.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 10547
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 65,
+    "resp_size": 1690
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/battle/battle_2013070811.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/battle/battle_2013070811.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 534973
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/battle/battleFail_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/battle/battleFail_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 163817
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/battle/skills_20150304.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/battle/skills_20150304.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 1113783
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_126.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_126.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 34913
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422981152",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586422981152",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 74,
+    "resp_size": 618
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/193.swf?1586423023144",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/193.swf?1586423023144",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2846
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/205.swf?1586423023153",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/205.swf?1586423023153",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2893
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/192.swf?1586423023152",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/192.swf?1586423023152",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3070
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/192.swf?1586423023148",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/192.swf?1586423023148",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3070
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/192.swf?1586423023146",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/192.swf?1586423023146",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3070
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/cave/index/id/5049894/type/private_2/sig/6388f8b5b47ded6b344f51548d84de15?1586423033574",
+    "method": "GET",
+    "path": "/pvz/index.php/cave/index/id/5049894/type/private_2/sig/6388f8b5b47ded6b344f51548d84de15?1586423033574",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 7570
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/850/8496135/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/850/8496135/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/879/8786865/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/879/8786865/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 5403
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/879/8786647/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/879/8786647/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/879/8786681/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/879/8786681/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/883/8820360/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/883/8820360/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 5049
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/879/8787066/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/879/8787066/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 6500
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/880/8794567/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/880/8794567/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 3614
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/883/8822673/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/883/8822673/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 6056
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/cave/index/id/5049894/type/public/sig/6388f8b5b47ded6b344f51548d84de15?1586423039984",
+    "method": "GET",
+    "path": "/pvz/index.php/cave/index/id/5049894/type/public/sig/6388f8b5b47ded6b344f51548d84de15?1586423039984",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 11878
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423042524",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423042524",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14005
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_67.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_67.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 23767
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_66.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_66.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 31487
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 503,
+    "content_type": "text/html",
+    "req_size": 41,
+    "resp_size": 213
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/cave/index/id/5049894/type/private/sig/6388f8b5b47ded6b344f51548d84de15?1586423046909",
+    "method": "GET",
+    "path": "/pvz/index.php/cave/index/id/5049894/type/private/sig/6388f8b5b47ded6b344f51548d84de15?1586423046909",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 12275
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 503,
+    "content_type": "text/html",
+    "req_size": 41,
+    "resp_size": 213
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/upload/1.png?1586423054375",
+    "method": "GET",
+    "path": "/upload/1.png?1586423054375",
+    "status": 200,
+    "content_type": "image/png",
+    "req_size": 0,
+    "resp_size": 76042
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/arena/ranking_20140211.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/arena/ranking_20140211.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 113305
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/organism/fightingcache/sig/6388f8b5b47ded6b344f51548d84de15?1586423065542",
+    "method": "GET",
+    "path": "/pvz/index.php/organism/fightingcache/sig/6388f8b5b47ded6b344f51548d84de15?1586423065542",
+    "status": 200,
+    "content_type": "application/xhtml+xml",
+    "req_size": 0,
+    "resp_size": 165576
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/889/8888549/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/889/8888549/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 3416
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/461/4608527/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/461/4608527/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 4997
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/885/8845817/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/885/8845817/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 5424
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_128.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_128.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 79360
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/possession.xml?1586423090359",
+    "method": "GET",
+    "path": "/youkia/config/load/possession.xml?1586423090359",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 454
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/lang/possession_cn.xml?1586423090359",
+    "method": "GET",
+    "path": "/youkia/config/lang/possession_cn.xml?1586423090359",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 3037
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/possession/possession_2013042716.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/possession/possession_2013042716.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 831851
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/possession/playerInfo_20120317.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/possession/playerInfo_20120317.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 20857
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/possession/recommenWindow_2011111801.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/possession/recommenWindow_2011111801.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 29498
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 43,
+    "resp_size": 116
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 56,
+    "resp_size": 620
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/shop_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/shop_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 81045
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/336.swf?1586423113485",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/336.swf?1586423113485",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2754
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/347.swf?1586423113498",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/347.swf?1586423113498",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2593
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1057.swf?1586423113748",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1057.swf?1586423113748",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3763
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1052.swf?1586423113594",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1052.swf?1586423113594",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3439
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1054.swf?1586423113643",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1054.swf?1586423113643",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3802
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1053.swf?1586423113608",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1053.swf?1586423113608",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3771
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/19.swf?1586423113591",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/19.swf?1586423113591",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2725
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 54,
+    "resp_size": 1740
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1056.swf?1586423113649",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1056.swf?1586423113649",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3749
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/153.swf?1586423115478",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/153.swf?1586423115478",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2817
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 54,
+    "resp_size": 11157
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/155.swf?1586423120568",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/155.swf?1586423120568",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2784
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/154.swf?1586423120572",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/154.swf?1586423120572",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2630
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/156.swf?1586423120560",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/156.swf?1586423120560",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3034
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/333.swf?1586423120602",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/333.swf?1586423120602",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2783
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/547.swf?1586423120578",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/547.swf?1586423120578",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2908
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/334.swf?1586423120590",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/334.swf?1586423120590",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2824
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/151.swf?1586423120552",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/151.swf?1586423120552",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3048
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 54,
+    "resp_size": 3503
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1065.swf?1586423124863",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1065.swf?1586423124863",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3602
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1000.swf?1586423124868",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1000.swf?1586423124868",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2399
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/549.swf?1586423124898",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/549.swf?1586423124898",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2921
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/1002.swf?1586423124888",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/1002.swf?1586423124888",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2699
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/152.swf?1586423124918",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/152.swf?1586423124918",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2984
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/350.swf?1586423124908",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/350.swf?1586423124908",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2858
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/351.swf?1586423124914",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/351.swf?1586423124914",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2909
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/274.swf?1586423127343",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/274.swf?1586423127343",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2629
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/117.swf?1586423127348",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/117.swf?1586423127348",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2676
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/353.swf?1586423127361",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/353.swf?1586423127361",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2824
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/548.swf?1586423127349",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/548.swf?1586423127349",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2781
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/352.swf?1586423127368",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/352.swf?1586423127368",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2731
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 51,
+    "resp_size": 156
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/storage_2013051610.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/storage_2013051610.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 82458
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423147558",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423147558",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14047
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/18.swf?1586423150103",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/18.swf?1586423150103",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2810
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/200.swf?1586423150127",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/200.swf?1586423150127",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2501
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/198.swf?1586423150130",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/198.swf?1586423150130",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3203
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/199.swf?1586423150117",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/199.swf?1586423150117",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2457
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/134.swf?1586423150114",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/134.swf?1586423150114",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 7454
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/12.swf?1586423152143",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/12.swf?1586423152143",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2776
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/16.swf?1586423152543",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/16.swf?1586423152543",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2577
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/201.swf?1586423152150",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/201.swf?1586423152150",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2811
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/13.swf?1586423152143",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/13.swf?1586423152143",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2926
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/195.swf?1586423152574",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/195.swf?1586423152574",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2638
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/15.swf?1586423152563",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/15.swf?1586423152563",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2456
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/161.swf?1586423152577",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/161.swf?1586423152577",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6880
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/172.swf?1586423152610",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/172.swf?1586423152610",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6708
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/164.swf?1586423152613",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/164.swf?1586423152613",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6627
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/163.swf?1586423152591",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/163.swf?1586423152591",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6642
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 61,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/157.swf?1586423160277",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/157.swf?1586423160277",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2723
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/157.swf?1586423160303",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/157.swf?1586423160303",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2723
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/188.swf?1586423166823",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/188.swf?1586423166823",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 6581
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 38,
+    "resp_size": 6169
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 54,
+    "resp_size": 1740
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/composeWindow_20150506.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/composeWindow_20150506.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 251505
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423191818",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423191818",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14003
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 71,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/127.swf?1586423195674",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/127.swf?1586423195674",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2914
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/97.swf?1586423195674",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/97.swf?1586423195674",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 2874
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 54,
+    "resp_size": 31292
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/arena.xml?1586423203658",
+    "method": "GET",
+    "path": "/youkia/config/load/arena.xml?1586423203658",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 189
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/arena/arena_201312311.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/arena/arena_201312311.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 412662
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 47,
+    "resp_size": 4433
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/128.swf?1586423211983",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/128.swf?1586423211983",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3240
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/919/9183345/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/919/9183345/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/902/9013172/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/902/9013172/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/898/8971273/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/898/8971273/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 5625
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/162.swf?1586423212003",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/162.swf?1586423212003",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3181
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/170.swf?1586423211993",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/170.swf?1586423211993",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3497
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/128.swf?1586423212027",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/128.swf?1586423212027",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3240
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/888/8879864/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/888/8879864/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/154.swf?1586423214818",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/154.swf?1586423214818",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3393
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/154.swf?1586423214825",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/154.swf?1586423214825",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3393
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/872/8713257/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/872/8713257/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/895/8945149/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/895/8945149/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 5304
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 53,
+    "resp_size": 480
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 49,
+    "resp_size": 9636
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_103.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_103.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 16433
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_124.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_124.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 31232
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_148.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_148.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 10083
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_6.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_6.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 14548
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_100.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_100.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 19159
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/ORGLibs/org_79.swf?_20120307",
+    "method": "GET",
+    "path": "/youkia/ORGLibs/org_79.swf?_20120307",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 10510
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423233543",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423233543",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 13961
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 74,
+    "resp_size": 529
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconTool/123.swf?1586423253038",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconTool/123.swf?1586423253038",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 4945
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 47,
+    "resp_size": 4164
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/892/8919456/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/892/8919456/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/896/8956634/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/896/8956634/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/694/6938413/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/694/6938413/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 1759
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/IconRes/IconOrg/182.swf?1586423259324",
+    "method": "GET",
+    "path": "/youkia/IconRes/IconOrg/182.swf?1586423259324",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 3391
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/garden.xml?1586423262924",
+    "method": "GET",
+    "path": "/youkia/config/load/garden.xml?1586423262924",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 178
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/garden_20150417.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/garden_20150417.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 221336
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/garden/index/id/5049894/sig/6388f8b5b47ded6b344f51548d84de15?1586423270722",
+    "method": "GET",
+    "path": "/pvz/index.php/garden/index/id/5049894/sig/6388f8b5b47ded6b344f51548d84de15?1586423270722",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 215
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423273604",
+    "method": "GET",
+    "path": "/pvz/index.php/Warehouse/index/sig/6388f8b5b47ded6b344f51548d84de15?1586423273604",
+    "status": 200,
+    "content_type": "application/xml",
+    "req_size": 0,
+    "resp_size": 14004
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 71,
+    "resp_size": 226
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 503,
+    "content_type": "text/html",
+    "req_size": 44,
+    "resp_size": 213
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/load/serverbattle/knockout.xml?1586423288130",
+    "method": "GET",
+    "path": "/youkia/config/load/serverbattle/knockout.xml?1586423288130",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 1103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/knockout_20150112.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/knockout_20150112.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 302390
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/serverbattlebuttons_2012120303.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/serverbattlebuttons_2012120303.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 80969
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/ranking_2013050817.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/ranking_2013050817.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 122117
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/GuessingPrize_2013130508.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/GuessingPrize_2013130508.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 117275
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/knockoutRankingRewards_2013050817.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/knockoutRankingRewards_2013050817.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 120938
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/MedalShopWindow_2013010501.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/MedalShopWindow_2013010501.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 79035
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/qulitlyingRankingRewards_2013050817.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/qulitlyingRankingRewards_2013050817.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 171848
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/UILibs/serverBattle/ServerBattleRuleAndMessageWindow_2013051313.swf",
+    "method": "GET",
+    "path": "/youkia/UILibs/serverBattle/ServerBattleRuleAndMessageWindow_2013051313.swf",
+    "status": 200,
+    "content_type": "application/x-shockwave-flash",
+    "req_size": 0,
+    "resp_size": 65419
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/youkia/config/lang/severBattle_cn.xml?1586423306018",
+    "method": "GET",
+    "path": "/youkia/config/lang/severBattle_cn.xml?1586423306018",
+    "status": 200,
+    "content_type": "text/xml",
+    "req_size": 0,
+    "resp_size": 1570
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 50,
+    "resp_size": 2543
+  },
+  {
+    "url": "http://www.youkia.com/attach/picture/910/9093937/face64.jpg",
+    "method": "GET",
+    "path": "/attach/picture/910/9093937/face64.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "req_size": 0,
+    "resp_size": 6135
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 44,
+    "resp_size": 103
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 40,
+    "resp_size": 4170
+  },
+  {
+    "url": "http://s46.youkia.pvz.youkia.com/pvz/amf/",
+    "method": "POST",
+    "path": "/pvz/amf/",
+    "status": 200,
+    "content_type": "application/x-amf",
+    "req_size": 41,
+    "resp_size": 3016
+  }
+]

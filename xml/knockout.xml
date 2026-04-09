@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/serverBattle" 
+			  name="knockout"
+			  isnew="0"
+			  version="_20150112">决赛</item> 
+		<item type="UILibs/serverBattle"
+			  name="serverbattlebuttons"
+			  isnew="0"
+			  version="_2012120303">按钮</item> 
+		<item type="UILibs/serverBattle"
+			  name="ranking"
+			  isnew="0"
+			  version="_2013050817">排行榜</item> 
+		<item type="UILibs/serverBattle"
+			  name="GuessingPrize"
+			  isnew="0"
+			  version="_2013130508">竞猜</item> 
+		<item type="UILibs/serverBattle"
+			  name="knockoutRankingRewards"
+			  isnew="0"
+			  version="_2013050817">奖励</item> 
+		<item type="UILibs/serverBattle"
+			  name="MedalShopWindow"
+			  isnew="0"
+			  version="_2013010501">商店</item>
+		<item type="UILibs/serverBattle"
+			  name="qulitlyingRankingRewards"
+			  isnew="0"
+			  version="_2013050817">预赛排名奖励</item>
+		<item type="UILibs/serverBattle"
+			  name="ServerBattleRuleAndMessageWindow"
+			  isnew="0"
+			  version="_2013051313">窗口</item>
+	</ui>  
+</config>

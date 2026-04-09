@@ -2,15 +2,18 @@
 // Patcha main.swf para fazer upDateTask() retornar imediatamente,
 // corrigindo o loading infinito causado por NetConnection que Ruffle não suporta.
 //
-// Uso: node patch-swf.js
+// Uso: node patch-swf.js [arquivo_entrada.swf]
+// Exemplo: node patch-swf.js uilib/main_urlloader.swf
 
 'use strict';
 const fs   = require('fs');
 const zlib = require('zlib');
 const path = require('path');
 
-const SWF_IN  = path.join(__dirname, 'uilib', 'main.swf');
-const SWF_OUT = path.join(__dirname, 'uilib', 'main_patched.swf');
+const SWF_IN  = process.argv[2]
+  ? path.resolve(process.argv[2])
+  : path.join(__dirname, 'uilib', 'main.swf');
+const SWF_OUT = SWF_IN.replace(/\.swf$/i, '_patched.swf');
 
 // ── Varuint30 ─────────────────────────────────────────────────────────────────
 function readU30(buf, off) {
@@ -342,8 +345,9 @@ function main() {
     const abc = body.slice(abcStart, abcEnd);
 
     try {
-      const ok = patchABC(abc, 'Firstpage', ['upDateTask']);
-      if (ok) patchedAny = true;
+      const ok1 = patchABC(abc, 'Firstpage', ['upDateTask', 'upCopyAcitvtyStaus']);
+      const ok2 = patchABC(abc, 'PlantsVsZombies', ['upDateTask']);
+      if (ok1 || ok2) patchedAny = true;
     } catch(e) {
       console.log(`  ⚠  patchABC error: ${e.message}`);
     }

@@ -1,0 +1,7377 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+	<response>
+		<status>success</status>	
+	</response>
+<fighting>	
+    <organisms>
+				<item
+			id="3215993"
+			fighting="7904101905655082099065585"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="460"	
+			prototype_id="1820"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="9" />
+<tal id="talent_9" level="9" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="3216011"
+			fighting="2187761563018827980555303"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="460"	
+			prototype_id="1804"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="3241316"
+			fighting="1699693043017515870660366"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="460"	
+			prototype_id="1317"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="1221"
+				name="全攻"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="3216010"
+			fighting="443805504692156565629988"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="460"	
+			prototype_id="1804"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="1217"
+				name="分裂"
+				batter="0"
+				grade="37"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="3384822"
+			fighting="89464232048919514222231"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="183"	
+			prototype_id="1749"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="1130"
+				name="强攻"
+				batter="0"
+				grade="10"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="3356955"
+			fighting="87837711907919772032134"
+			vip_etime="1799078399"
+			vip_grade="4"
+			nickname="終相忘"
+			platform_user_id="8888549"
+			grade="196"	
+			prototype_id="1614"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/889/8888549/face64.jpg">
+			<skills>
+            			<item
+				id="1194"
+				name="分裂"
+				batter="0"
+				grade="14"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="1387809"
+			fighting="70340383195356598727731"
+			vip_etime="1714492799"
+			vip_grade="4"
+			nickname="一被半生劫"
+			platform_user_id="8845817"
+			grade="460"	
+			prototype_id="1102"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/885/8845817/face64.jpg">
+			<skills>
+            			<item
+				id="983"
+				name="强袭"
+				batter="0"
+				grade="23"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="3023579"
+			fighting="51372785770948693404906"
+			vip_etime="1994255999"
+			vip_grade="1"
+			nickname="李超人"
+			platform_user_id="4608527"
+			grade="460"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/461/4608527/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2458571"
+			fighting="30952252079899499607590"
+			vip_etime="1732118399"
+			vip_grade="4"
+			nickname="我欲成神"
+			platform_user_id="5764056"
+			grade="460"	
+			prototype_id="918"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/577/5764056/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="3120031"
+			fighting="30027205412464950118793"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="460"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="10380"
+				name="龙卷"
+				batter="0"
+				grade="60"
+				organism_attr="9" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2568144"
+			fighting="28397046289325665734734"
+			vip_etime="1746287999"
+			vip_grade="4"
+			nickname="硝火凝泪"
+			platform_user_id="8882073"
+			grade="460"	
+			prototype_id="918"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/889/8882073/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="2747804"
+			fighting="25021939267926304486476"
+			vip_etime="1787241599"
+			vip_grade="1"
+			nickname="一刺之寒"
+			platform_user_id="8918024"
+			grade="460"	
+			prototype_id="1890"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/892/8918024/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2747339"
+			fighting="23357440318834047629979"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="453"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2616034"
+			fighting="16467010785274024975714"
+			vip_etime="1870185599"
+			vip_grade="2"
+			nickname="我乐意陪你。"
+			platform_user_id="8873686"
+			grade="458"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8873686/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2904090"
+			fighting="14868322146984959472138"
+			vip_etime="1796399999"
+			vip_grade="4"
+			nickname="ndwss"
+			platform_user_id="9148423"
+			grade="452"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/915/9148423/face64.jpg">
+			<skills>
+            			<item
+				id="1240"
+				name="全攻"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="2152093"
+			fighting="12915765738734310957229"
+			vip_etime="1746633599"
+			vip_grade="1"
+			nickname="卢本伟注意身体579"
+			platform_user_id="8831723"
+			grade="452"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/884/8831723/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="3001851"
+			fighting="12816078800279327422640"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="452"	
+			prototype_id="847"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1178760"
+			fighting="11794461189126203905752"
+			vip_etime="1663257599"
+			vip_grade="4"
+			nickname="1850893247"
+			platform_user_id="8926948"
+			grade="460"	
+			prototype_id="136"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/893/8926948/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2023093"
+			fighting="11492163157040895926575"
+			vip_etime="1774195199"
+			vip_grade="3"
+			nickname="emo的你"
+			platform_user_id="9028015"
+			grade="457"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/903/9028015/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="2616047"
+			fighting="11339505347566419106911"
+			vip_etime="1870185599"
+			vip_grade="2"
+			nickname="我乐意陪你。"
+			platform_user_id="8873686"
+			grade="460"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8873686/face64.jpg">
+			<skills>
+            			<item
+				id="1240"
+				name="全攻"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1558499"
+			fighting="10094773294836914393739"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="454"	
+			prototype_id="1880"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="764502"
+			fighting="8603123507118286162016"
+			vip_etime="1714492799"
+			vip_grade="4"
+			nickname="一被半生劫"
+			platform_user_id="8845817"
+			grade="460"	
+			prototype_id="1916"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/885/8845817/face64.jpg">
+			<skills>
+            			<item
+				id="161"
+				name="暗黑"
+				batter="0"
+				grade="1"
+				organism_attr="8" /> 
+            			<item
+				id="975"
+				name="强袭"
+				batter="0"
+				grade="15"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="1" />
+<tal id="talent_5" level="1" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+1</soul>
+		</item>
+				<item
+			id="2536475"
+			fighting="8545399239783610106881"
+			vip_etime="1732118399"
+			vip_grade="4"
+			nickname="我欲成神"
+			platform_user_id="5764056"
+			grade="455"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/577/5764056/face64.jpg">
+			<skills>
+            			<item
+				id="1240"
+				name="全攻"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="2138930"
+			fighting="8257036135121467245081"
+			vip_etime="1805558399"
+			vip_grade="4"
+			nickname="Trip.星语"
+			platform_user_id="8870584"
+			grade="456"	
+			prototype_id="1924"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8870584/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="3134996"
+			fighting="7630806570345857076863"
+			vip_etime="2032012799"
+			vip_grade="1"
+			nickname="皮克斯"
+			platform_user_id="9159703"
+			grade="460"	
+			prototype_id="771"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/916/9159703/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="830397"
+			fighting="7230746364158463941879"
+			vip_etime="1787241599"
+			vip_grade="1"
+			nickname="一刺之寒"
+			platform_user_id="8918024"
+			grade="460"	
+			prototype_id="1903"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/892/8918024/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2825429"
+			fighting="7012705977335088859563"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="452"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2746370"
+			fighting="6443443583250036252244"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="451"	
+			prototype_id="1406"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+            			<item
+				id="1195"
+				name="分裂"
+				batter="0"
+				grade="15"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2616049"
+			fighting="6375093195837047443440"
+			vip_etime="1870185599"
+			vip_grade="2"
+			nickname="我乐意陪你。"
+			platform_user_id="8873686"
+			grade="460"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8873686/face64.jpg">
+			<skills>
+            			<item
+				id="1240"
+				name="全攻"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2881511"
+			fighting="5945312587667777463598"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="431"	
+			prototype_id="995"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3319028"
+			fighting="5930472905044483433224"
+			vip_etime="1994255999"
+			vip_grade="1"
+			nickname="李超人"
+			platform_user_id="4608527"
+			grade="421"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/461/4608527/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2925515"
+			fighting="5612771397366167789543"
+			vip_etime="1796399999"
+			vip_grade="4"
+			nickname="ndwss"
+			platform_user_id="9148423"
+			grade="453"	
+			prototype_id="1401"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/915/9148423/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2911062"
+			fighting="5337157512409727702945"
+			vip_etime="1949155199"
+			vip_grade="2"
+			nickname="一个字"
+			platform_user_id="9030149"
+			grade="454"	
+			prototype_id="994"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/904/9030149/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="428190"
+			fighting="5173808634417507895692"
+			vip_etime="1714492799"
+			vip_grade="4"
+			nickname="一被半生劫"
+			platform_user_id="8845817"
+			grade="460"	
+			prototype_id="1854"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/885/8845817/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2844421"
+			fighting="4335320555920481179868"
+			vip_etime="2032012799"
+			vip_grade="1"
+			nickname="皮克斯"
+			platform_user_id="9159703"
+			grade="460"	
+			prototype_id="1129"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/916/9159703/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2156811"
+			fighting="3774631947518569783808"
+			vip_etime="1796399999"
+			vip_grade="4"
+			nickname="ndwss"
+			platform_user_id="9148423"
+			grade="453"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/915/9148423/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2638809"
+			fighting="3752172157300581060083"
+			vip_etime="2024236799"
+			vip_grade="4"
+			nickname="难抵"
+			platform_user_id="9156356"
+			grade="454"	
+			prototype_id="1343"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/916/9156356/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2870400"
+			fighting="3600052524128549157354"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="460"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2405076"
+			fighting="3023293216805956535441"
+			vip_etime="1732118399"
+			vip_grade="4"
+			nickname="我欲成神"
+			platform_user_id="5764056"
+			grade="460"	
+			prototype_id="58"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/577/5764056/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2404376"
+			fighting="2926837079422468696154"
+			vip_etime="1732118399"
+			vip_grade="4"
+			nickname="我欲成神"
+			platform_user_id="5764056"
+			grade="452"	
+			prototype_id="995"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/577/5764056/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2293525"
+			fighting="2879512683060321527919"
+			vip_etime="1746633599"
+			vip_grade="1"
+			nickname="卢本伟注意身体579"
+			platform_user_id="8831723"
+			grade="452"	
+			prototype_id="874"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/884/8831723/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="3024198"
+			fighting="2664121333414170823090"
+			vip_etime="1812729599"
+			vip_grade="1"
+			nickname="流川峰"
+			platform_user_id="8964580"
+			grade="453"	
+			prototype_id="874"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8964580/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2898123"
+			fighting="2610271114957400404912"
+			vip_etime="1796399999"
+			vip_grade="4"
+			nickname="ndwss"
+			platform_user_id="9148423"
+			grade="452"	
+			prototype_id="1020"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/915/9148423/face64.jpg">
+			<skills>
+            			<item
+				id="997"
+				name="强袭"
+				batter="0"
+				grade="37"
+				organism_attr="0" /> 
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2593320"
+			fighting="2434968381593550045678"
+			vip_etime="2032012799"
+			vip_grade="1"
+			nickname="皮克斯"
+			platform_user_id="9159703"
+			grade="453"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/916/9159703/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2358816"
+			fighting="2221370276356891339627"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="452"	
+			prototype_id="1291"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="3" />
+<tal id="talent_2" level="3" />
+<tal id="talent_3" level="3" />
+<tal id="talent_4" level="3" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="3" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+3</soul>
+		</item>
+				<item
+			id="2707589"
+			fighting="2195432446898439461895"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="460"	
+			prototype_id="697"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="2" />
+<tal id="talent_2" level="2" />
+<tal id="talent_3" level="2" />
+<tal id="talent_4" level="2" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="3" />
+<tal id="talent_8" level="2" />
+<tal id="talent_9" level="3" />
+</tals>
+<soul>
+2</soul>
+		</item>
+				<item
+			id="2623016"
+			fighting="2157473032980931389194"
+			vip_etime="1779292799"
+			vip_grade="4"
+			nickname="Blad3"
+			platform_user_id="8871113"
+			grade="452"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/888/8871113/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="1302977"
+			fighting="1963955933220476661585"
+			vip_etime="1774195199"
+			vip_grade="3"
+			nickname="emo的你"
+			platform_user_id="9028015"
+			grade="456"	
+			prototype_id="1417"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/903/9028015/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2377280"
+			fighting="1910827255332565772207"
+			vip_etime="1711209599"
+			vip_grade="0"
+			nickname="抠匦糠"
+			platform_user_id="8915332"
+			grade="453"	
+			prototype_id="1291"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/892/8915332/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2718950"
+			fighting="1859528729852498281544"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="412"	
+			prototype_id="1317"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+            			<item
+				id="1221"
+				name="全攻"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="1001"
+				name="精准"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="1121"
+				name="强攻"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="961"
+				name="强袭"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="43192"
+			fighting="1855204057346751029645"
+			vip_etime="1704988799"
+			vip_grade="4"
+			nickname="3613134"
+			platform_user_id="4116574"
+			grade="450"	
+			prototype_id="1291"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/412/4116574/face64.jpg">
+			<skills>
+            			<item
+				id="720"
+				name="烈火"
+				batter="0"
+				grade="40"
+				organism_attr="12" /> 
+            			<item
+				id="1135"
+				name="强攻"
+				batter="0"
+				grade="15"
+				organism_attr="0" /> 
+            			<item
+				id="1170"
+				name="抵御"
+				batter="0"
+				grade="10"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2293124"
+			fighting="1809973996821597803216"
+			vip_etime="1813075199"
+			vip_grade="1"
+			nickname="游标咔尺"
+			platform_user_id="9137291"
+			grade="453"	
+			prototype_id="1291"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/914/9137291/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2250943"
+			fighting="1726417795136910379664"
+			vip_etime="1818259199"
+			vip_grade="2"
+			nickname="5006938"
+			platform_user_id="5006938"
+			grade="453"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/501/5006938/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+1</soul>
+		</item>
+				<item
+			id="2248486"
+			fighting="1714053197179627568921"
+			vip_etime="1749743999"
+			vip_grade="1"
+			nickname="白牧蹬"
+			platform_user_id="8915274"
+			grade="454"	
+			prototype_id="1485"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/892/8915274/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2662959"
+			fighting="1711913041952564307169"
+			vip_etime="1812729599"
+			vip_grade="1"
+			nickname="流川峰"
+			platform_user_id="8964580"
+			grade="360"	
+			prototype_id="204"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/897/8964580/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2142170"
+			fighting="1636325177188144364372"
+			vip_etime="1807027199"
+			vip_grade="4"
+			nickname=".天魂."
+			platform_user_id="8465131"
+			grade="454"	
+			prototype_id="1406"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/847/8465131/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2783009"
+			fighting="1595549942017246012073"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="460"	
+			prototype_id="1908"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="1066"
+				name="庇护"
+				batter="0"
+				grade="26"
+				organism_attr="0" /> 
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2488658"
+			fighting="1488187954970962042527"
+			vip_etime="1767283199"
+			vip_grade="0"
+			nickname="不丑的人"
+			platform_user_id="8945933"
+			grade="453"	
+			prototype_id="1417"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/895/8945933/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="3045079"
+			fighting="1479106421670571051834"
+			vip_etime="1762617599"
+			vip_grade="1"
+			nickname="DGFZZ"
+			platform_user_id="9019341"
+			grade="443"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/902/9019341/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="1938985"
+			fighting="1453126956200706734988"
+			vip_etime="1947167999"
+			vip_grade="2"
+			nickname="Tuffy"
+			platform_user_id="9110400"
+			grade="455"	
+			prototype_id="1291"
+			quality="永恒"
+			face="http://www.youkia.com/attach/picture/912/9110400/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="280137"
+			fighting="1445116661127345247035"
+			vip_etime="1558281599"
+			vip_grade="4"
+			nickname="棋feels"
+			platform_user_id="8525485"
+			grade="459"	
+			prototype_id="1914"
+			quality="无极"
+			face="http://www.youkia.com/attach/picture/853/8525485/face64.jpg">
+			<skills>
+            			<item
+				id="10737"
+				name="烈火"
+				batter="0"
+				grade="57"
+				organism_attr="12" /> 
+            			<item
+				id="21014"
+				name="强袭"
+				batter="0"
+				grade="54"
+				organism_attr="0" /> 
+            			<item
+				id="21048"
+				name="精准"
+				batter="0"
+				grade="48"
+				organism_attr="0" /> 
+            			<item
+				id="21167"
+				name="强攻"
+				batter="0"
+				grade="47"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2220681"
+			fighting="1435654755086304271868"
+			vip_etime="1761235199"
+			vip_grade="4"
+			nickname="云与海"
+			platform_user_id="8944830"
+			grade="456"	
+			prototype_id="1700"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/895/8944830/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2211271"
+			fighting="1381067739951175040480"
+			vip_etime="1764691199"
+			vip_grade="2"
+			nickname="汾眉智"
+			platform_user_id="8915272"
+			grade="432"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/892/8915272/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2379060"
+			fighting="1362304961141983399210"
+			vip_etime="1947167999"
+			vip_grade="2"
+			nickname="Tuffy"
+			platform_user_id="9110400"
+			grade="454"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/912/9110400/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1560535"
+			fighting="1290003356806784837453"
+			vip_etime="1744300799"
+			vip_grade="1"
+			nickname="jiaoseren"
+			platform_user_id="6917836"
+			grade="460"	
+			prototype_id="1020"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/692/6917836/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="10" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="78956"
+			fighting="1241764024339997962320"
+			vip_etime="1660579199"
+			vip_grade="3"
+			nickname="zhui风"
+			platform_user_id="8634594"
+			grade="453"	
+			prototype_id="1406"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/864/8634594/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1701536"
+			fighting="1198026571227925952538"
+			vip_etime="1776441599"
+			vip_grade="3"
+			nickname="雨婷lo。颜"
+			platform_user_id="8950363"
+			grade="456"	
+			prototype_id="1020"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/896/8950363/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2338064"
+			fighting="1166238059158795265633"
+			vip_etime="2024236799"
+			vip_grade="4"
+			nickname="难抵"
+			platform_user_id="9156356"
+			grade="456"	
+			prototype_id="1417"
+			quality="永恒"
+			face="http://www.youkia.com/attach/picture/916/9156356/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2217741"
+			fighting="1088252380823237409003"
+			vip_etime="1807027199"
+			vip_grade="4"
+			nickname=".天魂."
+			platform_user_id="8465131"
+			grade="453"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/847/8465131/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="979944"
+			fighting="1048882519764720886996"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="274"	
+			prototype_id="1366"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2626544"
+			fighting="987539316507963094600"
+			vip_etime="1787241599"
+			vip_grade="1"
+			nickname="一刺之寒"
+			platform_user_id="8918024"
+			grade="458"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/892/8918024/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2107074"
+			fighting="925610159308402563678"
+			vip_etime="1701532799"
+			vip_grade="0"
+			nickname="宁荣❤米拉"
+			platform_user_id="8746617"
+			grade="453"	
+			prototype_id="1020"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/875/8746617/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="928205"
+			fighting="922976473520067124138"
+			vip_etime="1696348799"
+			vip_grade="3"
+			nickname="瞬★零♥紫☆荆"
+			platform_user_id="6829209"
+			grade="455"	
+			prototype_id="1914"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/683/6829209/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2182358"
+			fighting="922691371999884212663"
+			vip_etime="1717948799"
+			vip_grade="4"
+			nickname="李＋骏"
+			platform_user_id="8974177"
+			grade="452"	
+			prototype_id="1020"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/898/8974177/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="3185856"
+			fighting="882525009621409349018"
+			vip_etime="1820505599"
+			vip_grade="1"
+			nickname="明月入我怀"
+			platform_user_id="9160313"
+			grade="460"	
+			prototype_id="874"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/917/9160313/face64.jpg">
+			<skills>
+            			<item
+				id="1215"
+				name="分裂"
+				batter="0"
+				grade="35"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="5" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="5" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1864028"
+			fighting="859186384275883996932"
+			vip_etime="1786982399"
+			vip_grade="2"
+			nickname="网友785896"
+			platform_user_id="8981200"
+			grade="459"	
+			prototype_id="1903"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/899/8981200/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2666300"
+			fighting="831972253191530317713"
+			vip_etime="1768319999"
+			vip_grade="3"
+			nickname="堕落の天使"
+			platform_user_id="9149901"
+			grade="453"	
+			prototype_id="91"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/915/9149901/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="575314"
+			fighting="814777771206032483140"
+			vip_etime="1753372799"
+			vip_grade="0"
+			nickname="他的它捅着她"
+			platform_user_id="8892099"
+			grade="456"	
+			prototype_id="1020"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/890/8892099/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2813404"
+			fighting="780116598634352681072"
+			vip_etime="1761235199"
+			vip_grade="4"
+			nickname="云与海"
+			platform_user_id="8944830"
+			grade="452"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/895/8944830/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2671879"
+			fighting="739626934819621088489"
+			vip_etime="1774195199"
+			vip_grade="3"
+			nickname="emo的你"
+			platform_user_id="9028015"
+			grade="452"	
+			prototype_id="896"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/903/9028015/face64.jpg">
+			<skills>
+            			<item
+				id="718"
+				name="烈火"
+				batter="0"
+				grade="38"
+				organism_attr="12" /> 
+            			<item
+				id="985"
+				name="强袭"
+				batter="0"
+				grade="25"
+				organism_attr="0" /> 
+            			<item
+				id="1025"
+				name="精准"
+				batter="0"
+				grade="25"
+				organism_attr="0" /> 
+            			<item
+				id="11149"
+				name="强攻"
+				batter="0"
+				grade="29"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="1339730"
+			fighting="735276736599727966664"
+			vip_etime="0"
+			vip_grade="0"
+			nickname="中土齐王"
+			platform_user_id="8964757"
+			grade="460"	
+			prototype_id="118"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/897/8964757/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="3074273"
+			fighting="680563129786231345750"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="451"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1979313"
+			fighting="635051027145410345685"
+			vip_etime="1755359999"
+			vip_grade="3"
+			nickname="我是往届"
+			platform_user_id="9140793"
+			grade="459"	
+			prototype_id="1316"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/915/9140793/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2125934"
+			fighting="632907586258027409671"
+			vip_etime="1776441599"
+			vip_grade="3"
+			nickname="雨婷lo。颜"
+			platform_user_id="8950363"
+			grade="452"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/896/8950363/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="1144621"
+			fighting="623732689632480268707"
+			vip_etime="1704297599"
+			vip_grade="4"
+			nickname="菲雪吖"
+			platform_user_id="8967421"
+			grade="453"	
+			prototype_id="1316"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/897/8967421/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1978408"
+			fighting="623252117603251013387"
+			vip_etime="1769011199"
+			vip_grade="2"
+			nickname="油童战辉样"
+			platform_user_id="9089752"
+			grade="460"	
+			prototype_id="1903"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/909/9089752/face64.jpg">
+			<skills>
+            			<item
+				id="10380"
+				name="龙卷"
+				batter="0"
+				grade="60"
+				organism_attr="9" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2289751"
+			fighting="616354735113540399378"
+			vip_etime="1749743999"
+			vip_grade="1"
+			nickname="白牧蹬"
+			platform_user_id="8915274"
+			grade="454"	
+			prototype_id="1304"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/892/8915274/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="803853"
+			fighting="614910897429238914673"
+			vip_etime="1837007999"
+			vip_grade="2"
+			nickname="begin."
+			platform_user_id="8941822"
+			grade="454"	
+			prototype_id="1903"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/895/8941822/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2711319"
+			fighting="607469961310476786696"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="419"	
+			prototype_id="199"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2889811"
+			fighting="606290791259086615534"
+			vip_etime="1796399999"
+			vip_grade="4"
+			nickname="ndwss"
+			platform_user_id="9148423"
+			grade="454"	
+			prototype_id="1048"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/915/9148423/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2626547"
+			fighting="601077599144806073473"
+			vip_etime="1787241599"
+			vip_grade="1"
+			nickname="一刺之寒"
+			platform_user_id="8918024"
+			grade="460"	
+			prototype_id="896"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/892/8918024/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2071574"
+			fighting="596837138527823906411"
+			vip_etime="1825603199"
+			vip_grade="1"
+			nickname="啦啦鼠"
+			platform_user_id="9045930"
+			grade="452"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/905/9045930/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="9" />
+<tal id="talent_2" level="9" />
+<tal id="talent_3" level="9" />
+<tal id="talent_4" level="9" />
+<tal id="talent_5" level="9" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2911041"
+			fighting="580240341153888923442"
+			vip_etime="1949155199"
+			vip_grade="2"
+			nickname="一个字"
+			platform_user_id="9030149"
+			grade="452"	
+			prototype_id="1020"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/904/9030149/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21059"
+				name="精准"
+				batter="0"
+				grade="59"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1771108"
+			fighting="577623153506903592615"
+			vip_etime="1706284799"
+			vip_grade="0"
+			nickname="谋略鬼才"
+			platform_user_id="9130108"
+			grade="452"	
+			prototype_id="1019"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/914/9130108/face64.jpg">
+			<skills>
+            			<item
+				id="720"
+				name="烈火"
+				batter="0"
+				grade="40"
+				organism_attr="12" /> 
+            			<item
+				id="11160"
+				name="强攻"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="11180"
+				name="精确"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21091"
+				name="庇护"
+				batter="0"
+				grade="51"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1401382"
+			fighting="536295090825708956826"
+			vip_etime="1692979199"
+			vip_grade="4"
+			nickname="肖振海"
+			platform_user_id="4622841"
+			grade="454"	
+			prototype_id="1217"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/463/4622841/face64.jpg">
+			<skills>
+            			<item
+				id="975"
+				name="强袭"
+				batter="0"
+				grade="15"
+				organism_attr="0" /> 
+            			<item
+				id="1175"
+				name="抵御"
+				batter="0"
+				grade="15"
+				organism_attr="0" /> 
+            			<item
+				id="1215"
+				name="分裂"
+				batter="0"
+				grade="35"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1984907"
+			fighting="534957104044515114938"
+			vip_etime="1751990399"
+			vip_grade="1"
+			nickname="6569505"
+			platform_user_id="6569505"
+			grade="451"	
+			prototype_id="1317"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/657/6569505/face64.jpg">
+			<skills>
+            			<item
+				id="1240"
+				name="全攻"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="1" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="1" />
+<tal id="talent_7" level="1" />
+<tal id="talent_8" level="1" />
+<tal id="talent_9" level="1" />
+</tals>
+<soul>
+1</soul>
+		</item>
+				<item
+			id="2858715"
+			fighting="524166477848578057638"
+			vip_etime="1883923199"
+			vip_grade="1"
+			nickname="岁家三姐妹"
+			platform_user_id="9159829"
+			grade="452"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/916/9159829/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="5" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="5" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="3185840"
+			fighting="510475288381143633338"
+			vip_etime="1820505599"
+			vip_grade="1"
+			nickname="明月入我怀"
+			platform_user_id="9160313"
+			grade="452"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/917/9160313/face64.jpg">
+			<skills>
+            			<item
+				id="10620"
+				name="冰刺"
+				batter="0"
+				grade="60"
+				organism_attr="11" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="5" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="5" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="295579"
+			fighting="510356906953874199163"
+			vip_etime="1678291199"
+			vip_grade="0"
+			nickname="大圣-魔王"
+			platform_user_id="8755976"
+			grade="450"	
+			prototype_id="1903"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/876/8755976/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2506231"
+			fighting="489473176185476493756"
+			vip_etime="1883923199"
+			vip_grade="1"
+			nickname="岁家三姐妹"
+			platform_user_id="9159829"
+			grade="452"	
+			prototype_id="1020"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/916/9159829/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="5" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2493704"
+			fighting="479561173087922172737"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="450"	
+			prototype_id="77"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2467872"
+			fighting="479035822893816932447"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="460"	
+			prototype_id="78"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+            			<item
+				id="1200"
+				name="分裂"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2575524"
+			fighting="476292628108735361254"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="451"	
+			prototype_id="874"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2496248"
+			fighting="473191739303178311633"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="460"	
+			prototype_id="78"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+            			<item
+				id="1200"
+				name="分裂"
+				batter="0"
+				grade="20"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3120034"
+			fighting="455257524377784153773"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="460"	
+			prototype_id="1378"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="965"
+				name="强袭"
+				batter="0"
+				grade="5"
+				organism_attr="0" /> 
+            			<item
+				id="1124"
+				name="强攻"
+				batter="0"
+				grade="4"
+				organism_attr="0" /> 
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="1236379"
+			fighting="451698601583887522846"
+			vip_etime="1648396799"
+			vip_grade="0"
+			nickname="艾姬多娜"
+			platform_user_id="8964763"
+			grade="460"	
+			prototype_id="969"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/897/8964763/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21011"
+				name="强袭"
+				batter="0"
+				grade="51"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2707156"
+			fighting="448924473471787919785"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="451"	
+			prototype_id="874"
+			quality="魔神"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3271455"
+			fighting="426415047809105633643"
+			vip_etime="1830355199"
+			vip_grade="1"
+			nickname="3507330873"
+			platform_user_id="9146323"
+			grade="456"	
+			prototype_id="1020"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/915/9146323/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1182119"
+			fighting="422243507690321221248"
+			vip_etime="1663257599"
+			vip_grade="4"
+			nickname="1850893247"
+			platform_user_id="8926948"
+			grade="460"	
+			prototype_id="718"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/893/8926948/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2358486"
+			fighting="421052575598229038568"
+			vip_etime="1746287999"
+			vip_grade="4"
+			nickname="硝火凝泪"
+			platform_user_id="8882073"
+			grade="452"	
+			prototype_id="1903"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/889/8882073/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="8" />
+<tal id="talent_7" level="8" />
+<tal id="talent_8" level="7" />
+<tal id="talent_9" level="7" />
+</tals>
+<soul>
+7</soul>
+		</item>
+				<item
+			id="2099107"
+			fighting="413522002382286061065"
+			vip_etime="1704297599"
+			vip_grade="4"
+			nickname="菲雪吖"
+			platform_user_id="8967421"
+			grade="452"	
+			prototype_id="1020"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8967421/face64.jpg">
+			<skills>
+            			<item
+				id="1008"
+				name="精准"
+				batter="0"
+				grade="8"
+				organism_attr="0" /> 
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2946722"
+			fighting="413424985658783208950"
+			vip_etime="1837007999"
+			vip_grade="2"
+			nickname="begin."
+			platform_user_id="8941822"
+			grade="452"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/895/8941822/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21015"
+				name="强袭"
+				batter="0"
+				grade="55"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="1" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+1</soul>
+		</item>
+				<item
+			id="1341036"
+			fighting="409754006963857053789"
+			vip_etime="1652025599"
+			vip_grade="2"
+			nickname="cryouo"
+			platform_user_id="8964769"
+			grade="460"	
+			prototype_id="992"
+			quality="永恒"
+			face="http://www.youkia.com/attach/picture/897/8964769/face64.jpg">
+			<skills>
+            			<item
+				id="1121"
+				name="强攻"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="1141"
+				name="精确"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="1192"
+				name="分裂"
+				batter="0"
+				grade="12"
+				organism_attr="0" /> 
+            			<item
+				id="21003"
+				name="强袭"
+				batter="0"
+				grade="43"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="1099604"
+			fighting="406478260090831186469"
+			vip_etime="1658591999"
+			vip_grade="3"
+			nickname="Nike1234"
+			platform_user_id="8936036"
+			grade="460"	
+			prototype_id="874"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/894/8936036/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1387663"
+			fighting="393676444446375743480"
+			vip_etime="1714492799"
+			vip_grade="4"
+			nickname="一被半生劫"
+			platform_user_id="8845817"
+			grade="460"	
+			prototype_id="995"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/885/8845817/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2115928"
+			fighting="389069275789674672054"
+			vip_etime="1704297599"
+			vip_grade="4"
+			nickname="菲雪吖"
+			platform_user_id="8967421"
+			grade="453"	
+			prototype_id="896"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8967421/face64.jpg">
+			<skills>
+            			<item
+				id="1141"
+				name="精确"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="4" />
+<tal id="talent_7" level="4" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3333333"
+			fighting="386512424483685756742"
+			vip_etime="1867679999"
+			vip_grade="1"
+			nickname="网友972750"
+			platform_user_id="8981106"
+			grade="452"	
+			prototype_id="1263"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/899/8981106/face64.jpg">
+			<skills>
+            			<item
+				id="1149"
+				name="精确"
+				batter="0"
+				grade="9"
+				organism_attr="0" /> 
+            			<item
+				id="10620"
+				name="冰刺"
+				batter="0"
+				grade="60"
+				organism_attr="11" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1216994"
+			fighting="386427860353657550381"
+			vip_etime="1732118399"
+			vip_grade="4"
+			nickname="我欲成神"
+			platform_user_id="5764056"
+			grade="460"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/577/5764056/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2782573"
+			fighting="374307395253299714917"
+			vip_etime="1849622399"
+			vip_grade="4"
+			nickname="大咕咕鸟"
+			platform_user_id="8930108"
+			grade="447"	
+			prototype_id="1316"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/894/8930108/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2744790"
+			fighting="351193966511061898262"
+			vip_etime="1757951999"
+			vip_grade="4"
+			nickname="夏末清风"
+			platform_user_id="8784239"
+			grade="453"	
+			prototype_id="1774"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/879/8784239/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="5" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="5" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1087919"
+			fighting="343075367904602982178"
+			vip_etime="1750607999"
+			vip_grade="3"
+			nickname="wxp42685159357"
+			platform_user_id="8891244"
+			grade="456"	
+			prototype_id="1487"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/890/8891244/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="2122603"
+			fighting="342924230994448583664"
+			vip_etime="1768319999"
+			vip_grade="3"
+			nickname="堕落の天使"
+			platform_user_id="9149901"
+			grade="453"	
+			prototype_id="706"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/915/9149901/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="2472556"
+			fighting="340769633717331937176"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="450"	
+			prototype_id="77"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="3" />
+<tal id="talent_2" level="3" />
+<tal id="talent_3" level="3" />
+<tal id="talent_4" level="3" />
+<tal id="talent_5" level="3" />
+<tal id="talent_6" level="3" />
+<tal id="talent_7" level="3" />
+<tal id="talent_8" level="3" />
+<tal id="talent_9" level="3" />
+</tals>
+<soul>
+3</soul>
+		</item>
+				<item
+			id="3074093"
+			fighting="335691555026897462429"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="453"	
+			prototype_id="874"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3073183"
+			fighting="331061594673688458821"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="452"	
+			prototype_id="896"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3074272"
+			fighting="330851148894619704538"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="317"	
+			prototype_id="896"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2303416"
+			fighting="329030008292545350600"
+			vip_etime="1820505599"
+			vip_grade="1"
+			nickname="明月入我怀"
+			platform_user_id="9160313"
+			grade="459"	
+			prototype_id="1382"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/917/9160313/face64.jpg">
+			<skills>
+            			<item
+				id="1211"
+				name="分裂"
+				batter="0"
+				grade="31"
+				organism_attr="0" /> 
+            			<item
+				id="21019"
+				name="强袭"
+				batter="0"
+				grade="59"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="4" />
+<tal id="talent_2" level="4" />
+<tal id="talent_3" level="4" />
+<tal id="talent_4" level="4" />
+<tal id="talent_5" level="4" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3074274"
+			fighting="327902017842760365653"
+			vip_etime="1778083199"
+			vip_grade="4"
+			nickname="云上"
+			platform_user_id="8966276"
+			grade="452"	
+			prototype_id="874"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/897/8966276/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="214493"
+			fighting="319904277029448011937"
+			vip_etime="1554566399"
+			vip_grade="4"
+			nickname="の熙"
+			platform_user_id="5462490"
+			grade="433"	
+			prototype_id="1398"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/547/5462490/face64.jpg">
+			<skills>
+            			<item
+				id="1136"
+				name="强攻"
+				batter="0"
+				grade="16"
+				organism_attr="0" /> 
+            			<item
+				id="10249"
+				name="黑洞"
+				batter="0"
+				grade="49"
+				organism_attr="8" /> 
+            			<item
+				id="21008"
+				name="强袭"
+				batter="0"
+				grade="48"
+				organism_attr="0" /> 
+            			<item
+				id="21046"
+				name="精准"
+				batter="0"
+				grade="46"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="5" />
+<tal id="talent_3" level="5" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="5" />
+<tal id="talent_6" level="5" />
+<tal id="talent_7" level="5" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2799419"
+			fighting="317638818792124448072"
+			vip_etime="1841241599"
+			vip_grade="3"
+			nickname="她与晚风皆过客"
+			platform_user_id="9065937"
+			grade="458"	
+			prototype_id="1916"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/907/9065937/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="3064763"
+			fighting="313277226018243183659"
+			vip_etime="1767715199"
+			vip_grade="1"
+			nickname="考我号叕丢"
+			platform_user_id="9111389"
+			grade="452"	
+			prototype_id="918"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/912/9111389/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21100"
+				name="庇护"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="4" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="2653394"
+			fighting="300266230972127654705"
+			vip_etime="1757951999"
+			vip_grade="4"
+			nickname="夏末清风"
+			platform_user_id="8784239"
+			grade="453"	
+			prototype_id="1316"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/879/8784239/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="3" />
+<tal id="talent_2" level="3" />
+<tal id="talent_3" level="3" />
+<tal id="talent_4" level="3" />
+<tal id="talent_5" level="3" />
+<tal id="talent_6" level="3" />
+<tal id="talent_7" level="3" />
+<tal id="talent_8" level="3" />
+<tal id="talent_9" level="3" />
+</tals>
+<soul>
+3</soul>
+		</item>
+				<item
+			id="1656730"
+			fighting="299807022373002149887"
+			vip_etime="1796313599"
+			vip_grade="1"
+			nickname="纯情曦少"
+			platform_user_id="9121570"
+			grade="456"	
+			prototype_id="1406"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/913/9121570/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1428714"
+			fighting="285996873095255688436"
+			vip_etime="1900943999"
+			vip_grade="4"
+			nickname="完美小熊"
+			platform_user_id="5110091"
+			grade="460"	
+			prototype_id="1396"
+			quality="魔神"
+			face="http://www.youkia.com/attach/picture/512/5110091/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="10" />
+<tal id="talent_2" level="10" />
+<tal id="talent_3" level="10" />
+<tal id="talent_4" level="10" />
+<tal id="talent_5" level="10" />
+<tal id="talent_6" level="9" />
+<tal id="talent_7" level="9" />
+<tal id="talent_8" level="8" />
+<tal id="talent_9" level="8" />
+</tals>
+<soul>
+8</soul>
+		</item>
+				<item
+			id="2783294"
+			fighting="282059408647042312886"
+			vip_etime="1816185599"
+			vip_grade="1"
+			nickname="墨痕留影"
+			platform_user_id="8971168"
+			grade="453"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/898/8971168/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="129263"
+			fighting="269386183885846181408"
+			vip_etime="1535558399"
+			vip_grade="4"
+			nickname="富贵险中求1"
+			platform_user_id="4536888"
+			grade="460"	
+			prototype_id="1903"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/454/4536888/face64.jpg">
+			<skills>
+            			<item
+				id="10735"
+				name="烈火"
+				batter="0"
+				grade="55"
+				organism_attr="12" /> 
+            			<item
+				id="21018"
+				name="强袭"
+				batter="0"
+				grade="58"
+				organism_attr="0" /> 
+            			<item
+				id="21055"
+				name="精准"
+				batter="0"
+				grade="55"
+				organism_attr="0" /> 
+            			<item
+				id="21170"
+				name="强攻"
+				batter="0"
+				grade="50"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2710332"
+			fighting="268402624470104720015"
+			vip_etime="1817049599"
+			vip_grade="4"
+			nickname="1O***O1"
+			platform_user_id="5674453"
+			grade="422"	
+			prototype_id="77"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/568/5674453/face64.jpg">
+			<skills>
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="3" />
+<tal id="talent_2" level="3" />
+<tal id="talent_3" level="3" />
+<tal id="talent_4" level="3" />
+<tal id="talent_5" level="3" />
+<tal id="talent_6" level="3" />
+<tal id="talent_7" level="3" />
+<tal id="talent_8" level="3" />
+<tal id="talent_9" level="3" />
+</tals>
+<soul>
+3</soul>
+		</item>
+				<item
+			id="2505191"
+			fighting="265954205763250092900"
+			vip_etime="1786982399"
+			vip_grade="2"
+			nickname="网友785896"
+			platform_user_id="8981200"
+			grade="455"	
+			prototype_id="1291"
+			quality="劣质"
+			face="http://www.youkia.com/attach/picture/899/8981200/face64.jpg">
+			<skills>
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21200"
+				name="精确"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="1759044"
+			fighting="264299121554303986262"
+			vip_etime="1812729599"
+			vip_grade="1"
+			nickname="流川峰"
+			platform_user_id="8964580"
+			grade="454"	
+			prototype_id="1020"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/897/8964580/face64.jpg">
+			<skills>
+            			<item
+				id="992"
+				name="强袭"
+				batter="0"
+				grade="32"
+				organism_attr="0" /> 
+            			<item
+				id="1037"
+				name="精准"
+				batter="0"
+				grade="37"
+				organism_attr="0" /> 
+            			<item
+				id="1220"
+				name="分裂"
+				batter="0"
+				grade="40"
+				organism_attr="0" /> 
+            			<item
+				id="21173"
+				name="强攻"
+				batter="0"
+				grade="53"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="4" />
+</tals>
+<soul>
+4</soul>
+		</item>
+				<item
+			id="3086495"
+			fighting="258371486592961096340"
+			vip_etime="1774367999"
+			vip_grade="4"
+			nickname="**bylo"
+			platform_user_id="8918622"
+			grade="455"	
+			prototype_id="896"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/892/8918622/face64.jpg">
+			<skills>
+            			<item
+				id="1215"
+				name="分裂"
+				batter="0"
+				grade="35"
+				organism_attr="0" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2018077"
+			fighting="256459065824742301924"
+			vip_etime="1696348799"
+			vip_grade="3"
+			nickname="瞬★零♥紫☆荆"
+			platform_user_id="6829209"
+			grade="453"	
+			prototype_id="1912"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/683/6829209/face64.jpg">
+			<skills>
+            			<item
+				id="985"
+				name="强袭"
+				batter="0"
+				grade="25"
+				organism_attr="0" /> 
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1957120"
+			fighting="254233214934049568409"
+			vip_etime="1694102399"
+			vip_grade="2"
+			nickname="zqd时代"
+			platform_user_id="8918838"
+			grade="452"	
+			prototype_id="1323"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/892/8918838/face64.jpg">
+			<skills>
+            			<item
+				id="962"
+				name="强袭"
+				batter="0"
+				grade="2"
+				organism_attr="0" /> 
+            			<item
+				id="1121"
+				name="强攻"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="1141"
+				name="精确"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+            			<item
+				id="721"
+				name="增强"
+				batter="0"
+				grade="1"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="3" />
+<tal id="talent_2" level="3" />
+<tal id="talent_3" level="3" />
+<tal id="talent_4" level="3" />
+<tal id="talent_5" level="3" />
+<tal id="talent_6" level="3" />
+<tal id="talent_7" level="3" />
+<tal id="talent_8" level="2" />
+<tal id="talent_9" level="3" />
+</tals>
+<soul>
+2</soul>
+		</item>
+				<item
+			id="129781"
+			fighting="250891519258749413939"
+			vip_etime="1662566399"
+			vip_grade="4"
+			nickname="在线厮杀"
+			platform_user_id="8614114"
+			grade="460"	
+			prototype_id="1903"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/862/8614114/face64.jpg">
+			<skills>
+            			<item
+				id="10260"
+				name="黑洞"
+				batter="0"
+				grade="60"
+				organism_attr="8" /> 
+            			<item
+				id="21019"
+				name="强袭"
+				batter="0"
+				grade="59"
+				organism_attr="0" /> 
+            			<item
+				id="21059"
+				name="精准"
+				batter="0"
+				grade="59"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="7" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="7" />
+<tal id="talent_5" level="7" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="5" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2019811"
+			fighting="247516660865812398033"
+			vip_etime="1696348799"
+			vip_grade="3"
+			nickname="瞬★零♥紫☆荆"
+			platform_user_id="6829209"
+			grade="453"	
+			prototype_id="798"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/683/6829209/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="399032"
+			fighting="246724883250923091402"
+			vip_etime="1651334399"
+			vip_grade="3"
+			nickname="qdyuao"
+			platform_user_id="4637437"
+			grade="460"	
+			prototype_id="1914"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/464/4637437/face64.jpg">
+			<skills>
+            			<item
+				id="10739"
+				name="烈火"
+				batter="0"
+				grade="59"
+				organism_attr="12" /> 
+            			<item
+				id="11164"
+				name="精确"
+				batter="0"
+				grade="24"
+				organism_attr="0" /> 
+            			<item
+				id="21016"
+				name="强袭"
+				batter="0"
+				grade="56"
+				organism_attr="0" /> 
+            			<item
+				id="21170"
+				name="强攻"
+				batter="0"
+				grade="50"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="7" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="7" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1147764"
+			fighting="242563186019464614189"
+			vip_etime="1714492799"
+			vip_grade="4"
+			nickname="一被半生劫"
+			platform_user_id="8845817"
+			grade="452"	
+			prototype_id="995"
+			quality="普通"
+			face="http://www.youkia.com/attach/picture/885/8845817/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21220"
+				name="抵御"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+		</item>
+				<item
+			id="912587"
+			fighting="241708591729223464219"
+			vip_etime="1659455999"
+			vip_grade="3"
+			nickname="快乐之王2"
+			platform_user_id="8942665"
+			grade="460"	
+			prototype_id="896"
+			quality="混沌"
+			face="http://www.youkia.com/attach/picture/895/8942665/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21011"
+				name="强袭"
+				batter="0"
+				grade="51"
+				organism_attr="0" /> 
+            			<item
+				id="21082"
+				name="庇护"
+				batter="0"
+				grade="42"
+				organism_attr="0" /> 
+            			<item
+				id="21170"
+				name="强攻"
+				batter="0"
+				grade="50"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="2336687"
+			fighting="237524358056560653298"
+			vip_etime="1816185599"
+			vip_grade="1"
+			nickname="墨痕留影"
+			platform_user_id="8971168"
+			grade="452"	
+			prototype_id="1899"
+			quality="太上"
+			face="http://www.youkia.com/attach/picture/898/8971168/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="6" />
+</tals>
+<soul>
+6</soul>
+		</item>
+				<item
+			id="1240132"
+			fighting="232121896657620185731"
+			vip_etime="1741017599"
+			vip_grade="0"
+			nickname="网友306858"
+			platform_user_id="8980530"
+			grade="453"	
+			prototype_id="994"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/899/8980530/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="8" />
+<tal id="talent_2" level="8" />
+<tal id="talent_3" level="8" />
+<tal id="talent_4" level="8" />
+<tal id="talent_5" level="8" />
+<tal id="talent_6" level="7" />
+<tal id="talent_7" level="7" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+				<item
+			id="1696433"
+			fighting="231146512953464289227"
+			vip_etime="1778601599"
+			vip_grade="1"
+			nickname="Thecows"
+			platform_user_id="9125555"
+			grade="449"	
+			prototype_id="1383"
+			quality="不朽"
+			face="http://www.youkia.com/attach/picture/913/9125555/face64.jpg">
+			<skills>
+            			<item
+				id="10740"
+				name="烈火"
+				batter="0"
+				grade="60"
+				organism_attr="12" /> 
+            			<item
+				id="21020"
+				name="强袭"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21060"
+				name="精准"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+            			<item
+				id="21180"
+				name="强攻"
+				batter="0"
+				grade="60"
+				organism_attr="0" /> 
+                    </skills>
+		
+		<tals>
+<tal id="talent_1" level="6" />
+<tal id="talent_2" level="6" />
+<tal id="talent_3" level="6" />
+<tal id="talent_4" level="6" />
+<tal id="talent_5" level="6" />
+<tal id="talent_6" level="6" />
+<tal id="talent_7" level="6" />
+<tal id="talent_8" level="6" />
+<tal id="talent_9" level="5" />
+</tals>
+<soul>
+5</soul>
+		</item>
+		</organisms>
+</fighting>
+</root>

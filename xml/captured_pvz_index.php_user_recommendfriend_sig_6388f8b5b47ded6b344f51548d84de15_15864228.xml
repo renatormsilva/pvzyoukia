@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+	<response>
+		<status>success</status>	
+	</response>
+<friends amount="3">
+    <item id="5295602" name="w11" charm="0" grade="25" platform_user_id="9201993" face="http://www.youkia.com/attach/picture/921/9201993/face64.jpg" is_use_garden="0" vip_etime="0" vip_grade="0"/>
+    <item id="5300677" name="小刘rush必" charm="0" grade="24" platform_user_id="9215241" face="http://www.youkia.com/attach/picture/922/9215241/face64.jpg" is_use_garden="0" vip_etime="0" vip_grade="0"/>
+    <item id="5300801" name="河神" charm="0" grade="25" platform_user_id="9215445" face="http://www.youkia.com/attach/picture/922/9215445/face64.jpg" is_use_garden="0" vip_etime="1784822399" vip_grade="1"/>
+</friends>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/world"
+			  name="World"
+			  isnew="0"
+			  version="_20150311">副本</item> 
+		<item type="UILibs/world"
+			  name="ectype"
+			  isnew="0"
+			  version="_2012062701">排行榜</item> 
+		<item type="UILibs/world"
+			  name="InsideWorldReward"
+			  isnew="0"
+			  version="_2012070501">奖励</item> 
+	</ui>  
+</config>

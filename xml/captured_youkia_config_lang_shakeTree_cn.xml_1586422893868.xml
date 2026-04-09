@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+
+	<item name="shakeTree001">你的攻击次数不足，是否花费</item>
+	<item name="shakeTree002">增加</item>
+	<item name="shakeTree003">攻击次数？</item>	
+	<item name="shakeTree004">次</item>
+	<item name="shakeTree005">恭喜你，成功突破关卡</item>
+	<item name="shakeTree006">购买成功</item>
+	<item name="shakeTree007">必掉物品:</item>
+	<item name="shakeTree008">几率掉落:</item>
+	<item name="shakeTree009">购买次数己达上限</item>
+	
+	<item name="helpGuide001">鼠标左键点击僵尸，让我们对这些家伙发动攻击吧!</item>
+	<item name="helpGuide002">你成功获取这些奖励!</item>
+	<item name="helpGuide003">暴击能量已经积蓄完毕，点击僵尸即有100%几率获得奖励暴击哦，赶紧点击僵尸试一试吧</item>
+	<item name="helpGuide004">鼠标左键点击僵尸，让我们对这些家伙发动攻击吧!</item>
+	<item name="helpGuide005">攻击未触发奖励暴击时,下次攻击奖励暴击率增加20%攻击触发奖励暴击后,下次攻击奖励暴击率被重置为0,功能说明己完成,祝你游戏愉快</item>
+
+	
+	
+	<!-- 帮忙TIPS的配置方法-->
+	<item name="shakeTreeHelpNum">8</item>
+	<item name="shakeTreeHelpTipsStr">shakeTreehelp</item> 
+	<item name="shakeTreehelp1">帮助:(0x00ff00,size:15)</item> 
+	<item name="shakeTreehelp2">1.玩家每日有5次僵尸攻击次数(0xffffff,size:13)</item> 
+	<item name="shakeTreehelp3">2.攻击次数每日24:00:00刷新(0xffffff,size:13)</item> 
+	<item name="shakeTreehelp4">3.攻击时,有几率触发奖励暴击,获得多倍宝石奖励(0xffffff,size:13)</item> 
+	<item name="shakeTreehelp5">4.攻击未触发奖励暴击时,下次攻击奖励暴击率增加20%(0xffffff,size:13)</item>
+	<item name="shakeTreehelp6">5.攻击触发奖励暴击时,下次攻击奖励暴击率重置为0(0xffffff,size:13)</item>  
+	<item name="shakeTreehelp7">6.击败关卡内所有僵尸,即可获得丰富的过关奖励(0xffffff,size:13)</item>
+	<item name="shakeTreehelp8">7.击败关卡内所有僵尸,即可进入下一关卡(0xffffff,size:13)</item>  
+</config>

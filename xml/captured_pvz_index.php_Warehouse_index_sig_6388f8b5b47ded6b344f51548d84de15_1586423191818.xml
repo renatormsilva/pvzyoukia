@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+	<response>
+		<status>success</status>	
+	</response>
+<warehouse
+	tool_grid_amount="192"
+	organism_grid_amount="13">	
+	<open_info>
+		<organism 
+			grade="1" 
+			money="20000" />
+		<tool 
+			grade="0" 
+			money="0" />
+	</open_info>
+<tools>
+				<item 
+			id="1" 
+			amount="519" />
+				<item 
+			id="3" 
+			amount="100" />
+				<item 
+			id="4" 
+			amount="100" />
+				<item 
+			id="5" 
+			amount="20" />
+				<item 
+			id="6" 
+			amount="21" />
+				<item 
+			id="8" 
+			amount="1" />
+				<item 
+			id="18" 
+			amount="7" />
+				<item 
+			id="28" 
+			amount="1" />
+				<item 
+			id="32" 
+			amount="5" />
+				<item 
+			id="33" 
+			amount="3" />
+				<item 
+			id="34" 
+			amount="21" />
+				<item 
+			id="35" 
+			amount="37" />
+				<item 
+			id="36" 
+			amount="11" />
+				<item 
+			id="37" 
+			amount="21" />
+				<item 
+			id="38" 
+			amount="32" />
+				<item 
+			id="39" 
+			amount="34" />
+				<item 
+			id="41" 
+			amount="17" />
+				<item 
+			id="42" 
+			amount="1" />
+				<item 
+			id="43" 
+			amount="2" />
+				<item 
+			id="49" 
+			amount="1" />
+				<item 
+			id="55" 
+			amount="2" />
+				<item 
+			id="56" 
+			amount="1" />
+				<item 
+			id="58" 
+			amount="1" />
+				<item 
+			id="107" 
+			amount="1" />
+				<item 
+			id="123" 
+			amount="1" />
+				<item 
+			id="125" 
+			amount="1" />
+				<item 
+			id="128" 
+			amount="1" />
+				<item 
+			id="147" 
+			amount="1" />
+				<item 
+			id="149" 
+			amount="1" />
+				<item 
+			id="166" 
+			amount="1" />
+				<item 
+			id="183" 
+			amount="1" />
+				<item 
+			id="200" 
+			amount="2" />
+				<item 
+			id="218" 
+			amount="2" />
+				<item 
+			id="220" 
+			amount="3" />
+				<item 
+			id="236" 
+			amount="1" />
+				<item 
+			id="237" 
+			amount="2" />
+				<item 
+			id="238" 
+			amount="1" />
+				<item 
+			id="254" 
+			amount="1" />
+				<item 
+			id="274" 
+			amount="1" />
+				<item 
+			id="290" 
+			amount="1" />
+				<item 
+			id="291" 
+			amount="1" />
+				<item 
+			id="292" 
+			amount="1" />
+				<item 
+			id="299" 
+			amount="1" />
+				<item 
+			id="309" 
+			amount="2" />
+				<item 
+			id="310" 
+			amount="2" />
+				<item 
+			id="315" 
+			amount="3" />
+				<item 
+			id="316" 
+			amount="1" />
+				<item 
+			id="326" 
+			amount="1" />
+				<item 
+			id="328" 
+			amount="1" />
+				<item 
+			id="333" 
+			amount="4" />
+				<item 
+			id="345" 
+			amount="1" />
+				<item 
+			id="346" 
+			amount="3" />
+				<item 
+			id="361" 
+			amount="4" />
+				<item 
+			id="409" 
+			amount="1" />
+				<item 
+			id="410" 
+			amount="1" />
+				<item 
+			id="423" 
+			amount="7" />
+				<item 
+			id="428" 
+			amount="7" />
+				<item 
+			id="429" 
+			amount="3" />
+				<item 
+			id="431" 
+			amount="1" />
+				<item 
+			id="432" 
+			amount="4" />
+				<item 
+			id="433" 
+			amount="2" />
+				<item 
+			id="434" 
+			amount="1" />
+				<item 
+			id="435" 
+			amount="1" />
+				<item 
+			id="437" 
+			amount="1" />
+				<item 
+			id="450" 
+			amount="2" />
+				<item 
+			id="491" 
+			amount="8" />
+				<item 
+			id="492" 
+			amount="2" />
+				<item 
+			id="493" 
+			amount="1" />
+				<item 
+			id="494" 
+			amount="2" />
+				<item 
+			id="504" 
+			amount="10" />
+				<item 
+			id="506" 
+			amount="6" />
+				<item 
+			id="507" 
+			amount="9" />
+				<item 
+			id="556" 
+			amount="2" />
+				<item 
+			id="557" 
+			amount="4" />
+				<item 
+			id="558" 
+			amount="5" />
+				<item 
+			id="564" 
+			amount="13" />
+				<item 
+			id="612" 
+			amount="17" />
+				<item 
+			id="613" 
+			amount="1" />
+				<item 
+			id="659" 
+			amount="3" />
+				<item 
+			id="885" 
+			amount="8" />
+				<item 
+			id="886" 
+			amount="9" />
+				<item 
+			id="896" 
+			amount="8" />
+				<item 
+			id="897" 
+			amount="3" />
+				<item 
+			id="898" 
+			amount="3" />
+				<item 
+			id="907" 
+			amount="8" />
+				<item 
+			id="908" 
+			amount="1" />
+				<item 
+			id="909" 
+			amount="3" />
+				<item 
+			id="918" 
+			amount="38" />
+				<item 
+			id="919" 
+			amount="1" />
+				<item 
+			id="920" 
+			amount="2" />
+				<item 
+			id="929" 
+			amount="28" />
+				<item 
+			id="930" 
+			amount="3" />
+				<item 
+			id="931" 
+			amount="4" />
+				<item 
+			id="940" 
+			amount="25" />
+				<item 
+			id="941" 
+			amount="2" />
+				<item 
+			id="951" 
+			amount="25" />
+				<item 
+			id="952" 
+			amount="2" />
+				<item 
+			id="962" 
+			amount="25" />
+				<item 
+			id="963" 
+			amount="1" />
+				<item 
+			id="973" 
+			amount="25" />
+				<item 
+			id="974" 
+			amount="1" />
+				<item 
+			id="984" 
+			amount="1" />
+			</tools>
+<organisms>
+<item id="371289" 
+pid="553" 
+at="4198" 
+mi="4063" 
+sp="86" 
+hp="20092" 
+hm="25193" 
+gr="30" 
+ex="36040" 
+ema="36059" 
+emi="31560" 
+im="43" 
+pr="4063" 
+new_miss="4018" 
+new_precision="4108" 
+qu="普通" 
+gi="0" 
+ma="43" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="1809">
+<tal_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+<item id="1" na="光弹" ba="0" gr="1" oa="1" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="371290" 
+pid="22" 
+at="7146" 
+mi="7239" 
+sp="139" 
+hp="0" 
+hm="41516" 
+gr="46" 
+ex="186078" 
+ema="194781" 
+emi="178560" 
+im="41" 
+pr="7239" 
+new_miss="6187" 
+new_precision="6286" 
+qu="优秀" 
+gi="0" 
+ma="41" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="3214">
+<tal_add  hp="1994" miss="792" attack="553" precision="792" speed="24" />
+<soul_add  hp="1209" miss="210" attack="208" precision="210" speed="4" />
+<sk>
+<item id="1" na="光弹" ba="0" gr="1" oa="1" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="1" />
+<tal id="talent_5" level="1" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+1</soul>
+</item>
+<item id="371291" 
+pid="162" 
+at="9324" 
+mi="11453" 
+sp="115" 
+hp="37231" 
+hm="54622" 
+gr="50" 
+ex="265441" 
+ema="270959" 
+emi="250126" 
+im="52" 
+pr="6518" 
+new_miss="11392" 
+new_precision="5787" 
+qu="优秀" 
+gi="0" 
+ma="52" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="4226">
+<tal_add  hp="1994" miss="0" attack="553" precision="792" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+<item id="524" na="冰墙" ba="0" gr="4" oa="11" /> 
+<item id="762" na="破攻" ba="0" gr="2" oa="0" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="371292" 
+pid="521" 
+at="8869" 
+mi="3247" 
+sp="89" 
+hp="18626" 
+hm="18626" 
+gr="41" 
+ex="114331" 
+ema="123575" 
+emi="112089" 
+im="36" 
+pr="7286" 
+new_miss="3286" 
+new_precision="6454" 
+qu="优秀" 
+gi="0" 
+ma="36" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="2560">
+<tal_add  hp="1994" miss="0" attack="553" precision="792" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+<item id="366" na="雷弹" ba="0" gr="6" oa="4" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="371294" 
+pid="56" 
+at="5858" 
+mi="2576" 
+sp="79" 
+hp="18094" 
+hm="23207" 
+gr="40" 
+ex="109768" 
+ema="112088" 
+emi="101422" 
+im="28" 
+pr="5980" 
+new_miss="2608" 
+new_precision="5119" 
+qu="精良" 
+gi="0" 
+ma="28" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="2107">
+<tal_add  hp="2084" miss="0" attack="578" precision="828" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+<item id="125" na="暗弹" ba="0" gr="5" oa="2" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="371295" 
+pid="190" 
+at="19392" 
+mi="17162" 
+sp="177" 
+hp="32722" 
+hm="51037" 
+gr="47" 
+ex="199991" 
+ema="212085" 
+emi="194782" 
+im="66" 
+pr="9806" 
+new_miss="14203" 
+new_precision="7220" 
+qu="精良" 
+gi="0" 
+ma="66" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="6145">
+<tal_add  hp="5750" miss="2380" attack="578" precision="2380" speed="46" />
+<soul_add  hp="1486" miss="499" attack="564" precision="285" speed="5" />
+<sk>
+<item id="603" na="火弹" ba="0" gr="3" oa="6" /> 
+<item id="765" na="破攻" ba="0" gr="5" oa="0" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="2" />
+<tal id="talent_3" level="2" />
+<tal id="talent_4" level="2" />
+<tal id="talent_5" level="2" />
+<tal id="talent_6" level="1" />
+<tal id="talent_7" level="2" />
+<tal id="talent_8" level="1" />
+<tal id="talent_9" level="1" />
+</tals>
+<soul>
+1</soul>
+</item>
+<item id="371296" 
+pid="472" 
+at="4074" 
+mi="3141" 
+sp="72" 
+hp="24" 
+hm="9777" 
+gr="31" 
+ex="40362" 
+ema="41024" 
+emi="36060" 
+im="24" 
+pr="1570" 
+new_miss="3112" 
+new_precision="1600" 
+qu="普通" 
+gi="0" 
+ma="24" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="1092">
+<tal_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="371299" 
+pid="39" 
+at="4468" 
+mi="2158" 
+sp="73" 
+hp="0" 
+hm="17875" 
+gr="32" 
+ex="41904" 
+ema="46485" 
+emi="41025" 
+im="32" 
+pr="4317" 
+new_miss="2196" 
+new_precision="4279" 
+qu="普通" 
+gi="0" 
+ma="32" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="1587">
+<tal_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<item id="375309" 
+pid="452" 
+at="10216" 
+mi="5502" 
+sp="114" 
+hp="23203" 
+hm="40651" 
+gr="42" 
+ex="125581" 
+ema="135923" 
+emi="123576" 
+im="52" 
+pr="10225" 
+new_miss="4641" 
+new_precision="9118" 
+qu="普通" 
+gi="0" 
+ma="52" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="3599">
+<tal_add  hp="1903" miss="756" attack="528" precision="756" speed="23" />
+<soul_add  hp="1184" miss="160" attack="297" precision="297" speed="3" />
+<sk>
+<item id="721" na="增强" ba="0" gr="1" oa="0" /> 
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="1" />
+<tal id="talent_2" level="1" />
+<tal id="talent_3" level="1" />
+<tal id="talent_4" level="1" />
+<tal id="talent_5" level="1" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+1</soul>
+</item>
+<item id="382993" 
+pid="1129" 
+at="58" 
+mi="88" 
+sp="52" 
+hp="1470" 
+hm="1470" 
+gr="1" 
+ex="0" 
+ema="0" 
+emi="0" 
+im="27" 
+pr="88" 
+new_miss="58" 
+new_precision="117" 
+qu="普通" 
+gi="0" 
+ma="27" 
+ss="0" 
+ec="" 
+sh="0" 
+sa="0" 
+spr="0" 
+sm="0" 
+new_syn_precision="0" 
+new_syn_miss="0" 
+fight="80">
+<tal_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<soul_add  hp="0" miss="0" attack="0" precision="0" speed="0" />
+<sk>
+</sk>
+<ssk>
+</ssk>
+<tals>
+<tal id="talent_1" level="0" />
+<tal id="talent_2" level="0" />
+<tal id="talent_3" level="0" />
+<tal id="talent_4" level="0" />
+<tal id="talent_5" level="0" />
+<tal id="talent_6" level="0" />
+<tal id="talent_7" level="0" />
+<tal id="talent_8" level="0" />
+<tal id="talent_9" level="0" />
+</tals>
+<soul>
+0</soul>
+</item>
+<organisms_arena ids="371290,371291,371295,375309" />
+<organisms_territory ids="" />
+<organisms_serverbattle ids="" />
+</organisms>
+</warehouse>
+</root>
