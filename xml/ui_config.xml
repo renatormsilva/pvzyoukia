@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<ui mark="storage" name="仓库">
+		<item swfname="storage" folder="UILibs/"  version="_2013051610"/>
+	</ui> 
+	
+	<ui mark="shop"  name="商店">
+		<item swfname="shop" folder="UILibs/" version="_2013051313"/>
+	</ui> 
+	
+	<ui mark="firstRecharge"  name="首冲">
+		<item swfname="firstRecharge" folder="UILibs/" version="_20130516"/>
+	</ui> 
+	
+	<ui mark="compose" name="合成屋">
+		<item swfname="composeWindow" folder="UILibs/"  version="_20150506"/>
+	</ui> 
+	
+	<ui mark="signUpWindow" name="踌服战报名窗口">
+		<item swfname="ServerBattleSignUpWindow" folder="UILibs/serverBattle/" version="_2013051313"/>
+	</ui> 
+	
+    <ui mark="battleSysterm"  name="战斗相关资源">
+		<item swfname="battle" folder="UILibs/battle/" version="_2013070811"/>
+		<item swfname="battleFail" folder="UILibs/battle/" version="_2013051313"/>
+		<item swfname="skills" folder="UILibs/battle/" version="_20150304"/>
+	</ui> 
+	
+	<ui mark="battleReadyWindow"  name="战斗准备界面">
+		<item swfname="battleReadyWindow" folder="UILibs/battle/"  version="_20130701"/>
+	</ui>
+	
+	<ui mark="serverPlantsSetting"  name="跨服战植物配置界面">
+		<item swfname="ServerPlantsSetting" folder="UILibs/serverBattle/"  version="_2013051314"/>
+	</ui>
+
+	<ui mark="atlas"  name="图签">
+		<item swfname="atlas" folder="UILibs/" version="_2013051313"/>
+	</ui>
+	
+	<ui mark="activty_degreed"  name="活跃度">
+		<item swfname="activityDegreed" folder="UILibs/" version="_2013051313"/>
+	</ui>
+	
+	<ui mark="getPrize"  name="邻取奖励">
+		<item swfname="prizesWindow" folder="UILibs/" version="_2013051711"/>
+	</ui>
+	
+	<ui mark="taskWindow"  name="任务窗口">
+		<item swfname="taskWindow" folder="UILibs/" version="_20150504"/>
+	</ui>
+	
+	<ui mark="rankingWindow"  name="排行榜">
+		<item swfname="ranking" folder="UILibs/arena/" version="_20140211"/>
+	</ui>
+	
+	<ui mark="activtyEnterance"  name="活动副本进入窗口">
+		<item swfname="ActivtyEntrance" folder="UILibs/copy/" version="_2013070813"/>
+	</ui>
+	
+	<ui mark="copyWindow"  name="选择副本窗口">
+		<item swfname="copyWindow" folder="UILibs/copy/" version="_2013070811"/>
+	</ui>
+
+	<ui mark="medalShop"  name="功勋商店">
+		<item swfname="MedalShopWindow" folder="UILibs/serverBattle/" version="_2013010501"/>
+	</ui> 
+		<ui mark="registratuionWindow"  name="签到窗口">
+		<item swfname="registratuionWindow" folder="UILibs/registratuion/" version="_20150416"/>
+	</ui> 
+
+</data>

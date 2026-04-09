@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	 <item name="firstpage001">玩家等级达到7级，才能进入世界之树哦。</item>
+     <item name="firstpage002">玩家等级达到5级才可以进入个人狩猎场</item>
+     <item name="firstpage003">玩家等级达到8级才可以进入暗夜狩猎场</item>
+     <item name="firstpage004">玩家等级达到7级，才能进入斗技场哦。</item>
+     <item name="firstpage005">需要先进入斗技场才能开启领地功能。</item>
+     <item name="firstpage006">玩家等级达到8级才可以进入领地</item>
+     <item name="firstpage007">玩家等级达到15级才可以进入副本</item>
+     
+     <item name="garden001">今日的玩家经验值达到上限咯，明天再来吧：）</item>
+     <item name="garden002">花园</item>
+     <item name="garden003">你捡到了%1花园中的1个宝袋！</item>
+     <item name="garden004">它已经被照顾了</item>
+     <item name="garden005">植物已经回家!</item>
+     <item name="garden006">给主人留点吧!</item>
+     <item name="garden007">没有可以回收的植物和金币！</item>
+     <item name="garden008">花园可放入的植物数已达上限，升级可增加上限哦!</item>
+     <item name="garden009">请购买花盆</item>
+     <item name="garden010">没有植物缺水，去好友家看一看吧。</item>
+     <item name="garden011">没有植物缺肥，去好友家看一看吧。</item>
+     <item name="garden012">没有光合作用完成的植物，不能收回哦。</item>
+     <item name="garden013">前面没有好友了```</item>
+     <item name="garden014">植物大战僵尸</item>
+     <item name="garden015">这是最后一个好友了</item>
+     <item name="garden016">你缺乏足够的%1你可以去商店购买。</item>
+     <item name="garden017">植物大战僵尸</item>
+      
+     <item name="hunting001">你已经开启了1个僵尸洞口，要和好友分享吗？</item>
+     <item name="hunting002">你使用了%1个【时之沙】刷新了僵尸洞口</item> 
+     <item name="hunting003">僵尸狩猎场</item>
+     <item name="hunting004">你没有开启该等级的洞口，无法挑战好友洞口哦！</item> 
+     <item name="hunting005">今日狩猎次数已用完，请使用挑战书。</item> 
+     <item name="hunting006">该洞口正处于保护时间之中，等%1分钟后再来看看吧。。</item> 
+     <item name="hunting007">你的金币少于%1不能挑战。</item> 
+     <item name="hunting008">小时</item> 
+     <item name="hunting009">分钟</item> 
+     <item name="hunting010">你需要%1等级才能开启该洞口。</item>  
+     <item name="hunting011">金币不足，你需要%1G才能开启该洞口。</item> 
+     <item name="hunting012">你不能开启好友的洞口！</item> 
+     <item name="hunting013">开启洞口</item> 
+     <item name="hunting014">你确定要花费%1G开启</item> 
+     <item name="hunting015">是否购买%1个【%2】立即挑战僵尸？</item> 
+     <item name="hunting016">确定要使用%1个【时之沙】立即挑战僵尸吗？</item>  
+     <item name="hunting017">你成功开启了一个参战格子!</item>  
+     <item name="hunting018">暂时无法挑战僵尸洞口。</item>  
+     <item name="hunting019">战斗准备窗口</item>  
+     <item name="hunting020">你确定要花费%1G开启一个参战格子？</item>  
+     <item name="hunting021">你需要%1G开启参战格子！</item>  
+     <item name="hunting022">你参战植物已经到达最大数量！</item>  
+     <item name="hunting023">没有参战植物</item>  
+     <item name="hunting024">可能获得的奖励:</item>  
+    
+     <item name="hunting025">每过一回合，所有植物攻击力增强一倍</item>
+      <item name="hunting026">血战模式开启</item>
+     <item name="tree001">今天还没有照顾我，给我施肥你会得到丰厚的奖励哦！</item> 
+     <item name="tree002">你今天已经照顾过我了，明天再来我会给你丰厚的奖励哦</item> 
+     <item name="tree003">你已经给我施过肥了，明天再来还会有奖励哦：）</item> 
+     <item name="tree004">已经没有肥料了，先去商店买点再来吧。</item> 
+     <item name="tree005">你的道具仓库已满，无法给大树施肥哦。</item> 
+     
+     <item name="help001">劣质</item> 
+     <item name="help002">黄豆炮妹妹</item> 
+     <item name="help003">光</item> 
+     <item name="help004">矿工墓地</item> 
+     <item name="help005">阿凡达女王</item>
+     <item name="help006">玫瑰皇后</item> 
+     <item name="help007">极品</item> 
+     <item name="help008">超级赛亚人</item> 
+     <item name="help009">优秀</item> 
+     <item name="help010">冰蘑菇王</item> 
+     <item name="help011">冰冻蘑菇</item> 
+     <item name="help012">悟空射手</item> 
+     
+     <item name="arena001">今日斗技场可挑战次数为0，请明天再来。</item> 
+     <item name="arena002">竞技场植物配置不能为空!</item> 
+     <item name="arena003">你参战植物已经到达最大数量！</item>  
+     
+     <item name="battle001">战场</item> 
+     <item name="battle002">抽奖</item>
+     <item name="battle003">战斗结束</item>      
+     <item name="battle004">僵尸太强大了，植物全军覆没！                              不要担心，你可以到花园给植物浇水施肥回复HP哦：）</item>      
+     <item name="battle005">生命值：</item>              
+     <item name="battle006">攻击值：</item>              
+     <item name="battle007">命中率：</item>              
+     <item name="battle008">回避率：</item>                
+     <item name="battle009">植物军团</item>               
+     <item name="battle010">僵尸军团</item>      
+     <item name="battle011">战斗结束，因为你在20回合内没有击败对手，战斗失败。</item>    
+     <item name="battle012">40回合之内战斗未能结束，之后战斗过程将不再显示。</item>    
+     <item name="battle013">狩猎者</item> 
+     
+     <item name="battle014">%1 → %2</item>   
+     <item name="battle015">%1从%2级升到了%3级</item>       
+          
+     <item name="org001">光</item>                
+     <item name="org002">水</item>                
+     <item name="org003">风</item>                
+     <item name="org004">暗</item>                
+     <item name="org005">火</item>                
+     <item name="org006">雷</item>     
+     <item name="org007">神</item>               
+     <item name="org008">鬼</item>
+     <item name="org009">圣</item>                
+     <item name="org010">魔</item>     
+     <item name="org011">闪</item>               
+     <item name="org012">电</item>
+     <item name="org013">冰</item>     
+     <item name="org014">炎</item>               
+     <item name="org015">仙</item>
+     <item name="org016">冥</item>       
+     <item name="org017">龙</item>     
+            
+     <item name="node001">该植物正在光合作用，不能参加战斗!</item>                
+     <item name="node002">该植物已经死亡，不能参加战斗!</item>                
+     <item name="node003">该植物正在光合作用，暂时无法操作。</item>                
+     <item name="node004">你还未开启该图鉴!</item>                
+     <item name="node005">成功领取斗技场奖励！</item>                
+     <item name="node006">你领取了%1的奖励 获得了%2金币</item>                
+     <item name="node007">你的好友等级还没有到10级</item>                
+     <item name="node008">邀请好友数不足，无法领取奖励!</item>                
+     <item name="node009">你用光了好友奖励名额，无法领取奖励!</item>                
+     <item name="node010">你的好友奖励名额数不足，无法领取奖励!</item>                  
+     <item name="node011">你兑换了好友邀请奖励，要邀请更多的好友吗？</item>                  
+     <item name="node012">礼券</item>                  
+     <item name="node013">金券</item>                  
+     <item name="node014">成功开启仓库格子</item>             
+     <item name="node015">不能开启!仓库格子已达上限!</item>          
+     <item name="node016">你需要%1级才能开启仓库格子</item>          
+     <item name="node017">你需要%1G才能开启仓库格子</item>          
+     <item name="node018">你确定花费%1金币开启仓库格子吗？</item>     
+     <item name="node019">荣誉</item>     
+     <item name="node020">植物在领地中,暂时无法操作</item>     
+      
+     
+     <item name="tip001">战斗力:</item>        
+     <item name="tip002">光合作用完成</item>    
+     <item name="tip003">洞口开启金额:</item>    
+     <item name="tip004">僵尸来袭:</item>    
+     <item name="tip005">上次狩猎:</item>     
+     <item name="tip006">洞口挑战金额:</item>   
+     <item name="tip007">保护时间:</item>   
+     <item name="tip008">奖励信息:</item>    
+     <item name="tip009">光合作用:</item>    
+     <item name="tip010">效果：</item>    
+     <item name="tip011">下一级能力</item> 
+     <item name="tip012">未激活</item>     
+     
+     <item name="newTip001">需要品质达到</item>    
+     <item name="newTip002">才能开启技能栏</item>    
+     <item name="newTip003">技能提示：植物只能学习一个主动技能，被动技能无限制</item>
+     <item name="newTip004">去合成屋学习技能</item>   
+     
+      <item name="quality001">优秀</item> 
+      <item name="quality002">极品</item> 
+      <item name="quality003">传说</item> 
+
+     <item name="window001">剩余%1个</item>    
+     <item name="window002">请放入主植物</item>    
+     <item name="window003">请放入副植物</item>    
+     <item name="window004">请放入合成书后，才可以合成</item>    
+     <item name="window005">主植物在斗技场的配置队伍中，暂时无法合成。</item>    
+     <item name="window006">请先将副植物从跨服战,领地,花园或斗技场移出。</item>   
+     <item name="window007">植物合成</item>    
+     <item name="window008">将会【消失】,确定要合成吗？</item>    
+     <item name="window009">主植物等级必须达到%1级才可合成</item>    
+     <item name="window010">请先取出合成槽的中的植物。</item>    
+     <item name="window011">副植物%1将会【消失】，确定要合成吗？</item>    
+     <item name="window012">攻击</item>
+     <item name="window013">护甲</item>    
+     <item name="window014">速度</item>    
+     <item name="window015">穿透</item>    
+     <item name="window016">生命</item>    
+     <item name="window017">增加</item>    
+     <item name="window018">进化失败</item>    
+     <item name="window019">该植物在斗技场的配置队伍中，暂时无法进化。</item>    
+     <item name="window020">请放入植物!</item>    
+     <item name="window021">HP为0的植物无法进化。</item>    
+     <item name="window022">需要等级：</item>    
+     <item name="window023">缺少：</item>    
+     <item name="window024">金币：</item>    
+     <item name="window025">植物成功回复</item>    
+     <item name="window026">%1的HP回复到%2。</item>    
+     <item name="window027">你的%1已经完全回复。</item>    
+     <item name="window028">学习成功</item>    
+     <item name="window029">%1学习了%2技能</item>    
+     <item name="window030">%1的%2技能升级失败。</item>    
+     <item name="window031">技能升级成功</item>    
+     <item name="window032">植物无法学习相同的技能。</item>    
+     <item name="window033">植物只能学习同种属性的技能。</item>    
+     <item name="window034">植物没有可以升级的技能。</item>    
+     <item name="window035">请使用正确的升级书升级技能。</item>    
+     <item name="window036">植物等级不足无法升级相应技能。</item>    
+     <item name="window037">植物达到%1级才能将%2提升为LV.%3。</item>    
+     <item name="window038">请放入需要合成的生物。</item>    
+     <item name="window039">请放入需要使用的道具。</item>    
+     <item name="window040">你确定使用【%1】刷新成长值吗？</item>    
+     <item name="window041">你确定使用【%1】刷新品质吗？</item>    
+     <item name="window042">你确定使用【%1】回复植物20%HP吗？</item>    
+     <item name="window043">你确定使用【%1】回复植物50%HP吗？</item>    
+     <item name="window044">你确定使用【%1】回复植物100%HP吗？</item>    
+     <item name="window045">生命值已满，无法回复。</item>    
+     <item name="window046">请放入兑换物品。</item>    
+     <item name="window047">玩家等级达到35级,才可以使用植物合成功能</item>    
+     <item name="window048">请选择要兑换的%1个数</item>    
+     <item name="window049">成功兑换%1个%2</item>    
+     <item name="window050">%1合成成功</item>    
+     <item name="window051">生命</item>    
+     <item name="window052">品质</item>    
+     <item name="window053">主动技能只能学1种，需要忘记当前的技能。</item>   
+     <item name="window054">植物最多可学</item>   
+     <item name="window055">种技能，请遗忘其中1种技能。</item>   
+     <item name="window056">请选择你要遗忘的技能。</item>   
+     <item name="window057">删除技能</item>   
+     <item name="window058">你进化成功获得了1个强力的植物，要和好友分享吗？</item>   
+     <item name="window059">恭喜你，你获得了%1</item>   
+     <item name="window060">%1刷新了成长值。</item>   
+     <item name="window061">%1刷新了品质。</item>   
+     <item name="window062">成长</item>   
+     <item name="window063">你确定要%1学习%2技能吗？</item>   
+     <item name="window064">玩家等级达到10级，才能进入斗技场哦。</item>   
+     <item name="window065">商品说明:</item>   
+     <item name="window066">购买价格:</item>   
+     <item name="window067">你成功买入%1个%2</item>   
+     <item name="window068">购买物品</item>   
+     <item name="window069">道具仓库已满</item>   
+     <item name="window070">生物仓库已满</item>   
+     <item name="window071">仓库里放不下这么多生物。</item>   
+     <item name="window072">你金币不足，无法购买商品哦</item>   
+     <item name="window073">你礼券不足，无法兑换商品哦</item>   
+     <item name="window074">你的金券不足,请充值。</item>   
+     <item name="window075">你确定用%1礼券兑换%2个%3?</item>   
+     <item name="window076">你确定用%1金券购买%2个%3?</item>   
+     <item name="window077">你确定用%1G购买%2个%3?</item>   
+     <item name="window078">你花费了%1G成功刷新了商店。</item>   
+     <item name="window079">商店</item>   
+     <item name="window080">你的金币不足%1G，不能刷新商店。</item>   
+     <item name="window081">活动</item>   
+     <item name="window082">是否要领取活动奖励“翡翠小竹”</item>   
+     <item name="window083">邀请好友，可以让你获得更多的金币，挑战更多的僵尸</item>   
+     <item name="window084">放不下啦，找一个有空位的地方吧！</item>   
+     <item name="window085">你还没有接受《游戏防沉迷协议》。</item>   
+     <item name="window086">获得金币:</item>   
+     <item name="window087">狩猎次数:</item>   
+     <item name="window088">花园植物数:</item>   
+     <item name="window089">好友地数量:</item>   
+     <item name="window090">回收光合作用完成的植物，但不得到任何金币和经验哦！确定要使用植物回家功能吗？</item>   
+     <item name="window091">植物回家</item>   
+     <item name="window092">没有光合作用完成的植物</item>   
+     <item name="window093">光合作用完成的植物已经回家</item>
+     <item name="window094">植物达到%1级才能提升技能等级</item>    
+     <item name="window095">无法升级技能，缺少【%1】</item>    
+     <item name="window096">%1%成功率升级技能等级（消耗%2×1），确定要升级吗？</item>    
+     <item name="window097">你卖掉了Lv.%1%2获得%3G</item>    
+     <item name="window098">%1的%2技能升级失败。</item>    
+     <item name="window099">技能升级成功</item>    
+     <item name="window100">生物窗口</item>    
+     <item name="window101">属性：</item>    
+     <item name="window102">产出：</item>    
+     <item name="window103">成长值：</item>    
+     <item name="window104">HP合成增加值</item>   
+     <item name="window105">攻击合成增加值</item>     
+     <item name="window106">穿透合成增加值</item>    
+     <item name="window107">护甲合成增加值</item>    
+     <item name="window108">速度合成增加值</item>    
+     <item name="window109">不能卖掉正在光合作用的植物!</item>    
+     <item name="window110">卖出植物</item>    
+     <item name="window111">你可以获得%1金币。你确定要卖出%2级%3吗？</item>    
+     <item name="window112">你使用了%1个%2,今日狩猎数加%3次</item>   
+     <item name="window113">你使用了%1个%2,今日斗技场挑战数加%3次</item>   
+     <item name="window114">你卖出了%1个%2获得了%3G</item>   
+     <item name="window115">窗口</item>   
+     <item name="window116">卖出价格:</item>   
+     <item name="window117">道具说明:</item>   
+     <item name="window118">卖出道具</item>   
+     <item name="window119">你可以获得%1金币。你确定要卖出%2个%3吗？</item>   
+     <item name="window120">使用道具</item>   
+     <item name="window121">使用挑战书会浪费战斗次数，再多挑战几次吧！</item>   
+     <item name="window122">你确定要使用%1个%2</item>   
+
+     <item name="window123">你确定花费,%1,金券增加,%2,次战斗次数吗?</item>   
+
+     <item name="window124">%1%成功率刷新品质（消耗%2×1），确定要刷新吗？</item> 
+     <item name="window125">你确定要使用%1吗？</item> 
+     <item name="window126">“品质刷新书”不足,无法提升品质，是否购买“品质刷新书”？</item> 
+     <item name="window127">“成长刷新书”不足,无法刷新成长值，是否购买“成长刷新书”？</item>   
+     <item name="window128">您确定花费,%1,金券购买,1,本%2吗？</item> 
+     <item name="window129">%1不足,无法升级技能</item>   
+     
+     <item name="window130">你确定用%1荣誉值购买%2个%3?</item>   
+     <item name="window131">荣誉值不足,无法购买该道具</item>   
+     <item name="window132">征战次数已满，无法使用</item>   
+     <item name="window133">你使用了%1个%2,征战数加%3次</item>  
+ 
+ 	 <item name="window134">你确定使用【%1】增加生命吗？</item>   
+     <item name="window135">你确定使用【%1】强化穿透吗？</item> 
+     <item name="window136">你确定使用【%1】强化攻击吗？</item> 
+     <item name="window137">你确定使用【%1】强化护甲吗？</item> 
+     <item name="window138">你确定使用【%1】强化速度吗？</item> 
+     
+     <item name="window139">%1增加了生命值</item> 
+     <item name="window140">%1增加了穿透</item> 
+     <item name="window141">%1增加了攻击</item> 
+     <item name="window142">%1增加了护甲</item> 
+     <item name="window143">%1增加了速度</item>
+     
+     <item name="window144">生命%1→%2</item> 
+     <item name="window145">穿透%1→%2</item>
+     <item name="window146">攻击%1→%2</item>
+     <item name="window147">护甲%1→%2</item>  
+     <item name="window148">速度%1→%2</item> 
+     
+     
+     <item name="window149">玩家等级达到10级，才能领取斗技场奖励哦！</item>    
+     <item name="window150">你增加了%1次副本挑战次数</item>  
+      <item name="window151">恭喜你已成功领取首次充值奖励~</item> 
+      
+      <item name="window152">下一阶属性效果</item>    
+      <item name="window153">植物4项属性增加%1%</item>  
+      <item name="window154">升级成功率：%1%</item> 
+      <item name="window155">当前属性效果</item>
+      <item name="window156">品质已达到最高级</item>
+      <item name="window157">需要道具：%1</item>
+      <item name="window158">提升品质失败</item>
+      <item name="window159">技能升级失败</item>
+      <item name="window160">缺少%1，无法提升技能等级。</item>
+      <item name="window161">请先将该植物从跨服战,领地,花园或斗技场中移出.</item> 
+      <item name="window162">折</item>
+      <item name="window163">礼券:</item> 
+      <item name="window164">金券:</item>  
+      <item name="window165">荣誉:</item> 
+      <item name="window166">金币:</item>   
+      <item name="window167">植物品质已经为最高级，无法再提升</item> 
+      <item name="window168">缺少%1，无法刷新品质</item> 
+      <item name="window169">需要%1才能刷新品质</item>
+      <item name="window170">此植物为稀有植物，不能一键进化</item>
+      <item name="window171">植物%1已可以进化！</item>
+  	  <item name="window172">花费%1金券直接进化植物</item>
+      <item name="window173">金券余额不足！</item>
+	  <item name="window174">己挑战次数:</item>	
+	 <item name="window175">优秀～至尊之内品质的植物才可以使用魔神刷新书</item>
+	 <item name="window176">闪避</item>
+	 <item name="window177">命中</item>
+	 <item name="window178">%1增加了闪避</item>
+	 <item name="window179">%1增加了命中</item>
+	 <item name="window180">闪避%1→%2</item>  
+     <item name="window181">命中%1→%2</item> 
+     <item name="window182">植物达到%1级才能使用%2</item>
+     <item name="window183">你使用了%1个%2,今日花园挑战数加%3次</item> 
+	 
+	 
+     <item name="SellGoodsWindow130">恭喜你，你增加了%1个%2的VIP权限</item> 
+     <item name="SellGoodsWindow131">恭喜你，你已成为VIP用户</item> 
+     <item name="BackPanelWindow132">是否花费%1金券购买%2</item> 
+     <item name="BackPanelWindow133">%1不足,是否购买%2</item> 
+     <item name="BackPanelWindow134">%1已卖完,请明天再来购买</item> 
+   
+
+     <item name="main001">仓库信息</item>   
+     <item name="main002">防沉迷</item>   
+     <item name="main003">您累计的在线时间已满3小时，游戏将启动防沉迷系统，请到社区填写身份证信息。</item>   
+     <item name="main004">玩家信息</item>   
+     <item name="main005">仓库信息</item>
+     
+     <item name="invitePrize001">你当前累计消费了%1金券 ,再消费%2金券即可领取第%3个宝箱</item> 
+     <item name="invitePrize002">你累积消费的金券已达活动上限，祝你游戏愉快~</item> 
+     <item name="invitePrize003">你已领取%1的活动奖励</item> 
+     <item name="invitePrize004">你已领取%1的消费奖励</item>
+     <item name="invitePrize005">你可领取%1金券奖励</item>
+     <item name="invitePrize006">你已充值%1金券</item>
+     <item name="invitePrize007">活动正在进行中</item>
+     <item name="invitePrize008">活动已结束</item>
+       <item name="invitePrize009">活动即将开始</item>
+  	 
+     <item name="task001">恭喜你，完成任务获得%1金券</item>   
+     <item name="task002">你获得了新的任务</item>   
+     <item name="task003">今日任务已全部完成</item>   
+     
+     <item name="vip001">个</item>
+  	 <item name="vip002">2、成为VIP后，充值对应金券即可提升VIP等级。</item>
+   	 <item name="vip003">3、不是VIP的玩家充值不能提升VIP等级。</item>
+     <item name="vip004">花园挂机：</item>
+  	 <item name="vip005">1、挂机时间最长为24小时。</item>
+     <item name="vip006">2、玩家等级越高，挂机获得的金币越多。</item>
+     <item name="vip007">3、每次挂机所得的经验不会超过当日经验上限。</item>
+     <item name="vip008">再充值%1金券，就可以升级为%2级VIP哦</item>
+
+     <item name="vip009">尊敬的4级VIP玩家，祝你游戏愉快</item> 
+     <item name="vip010">成为VIP后即可享受更多特权，赶快行动吧!</item> 
+     <item name="vip011">挂机正在进行中....</item> 
+     <item name="vip012">VIP：</item> 
+     <item name="vip014">你获得了%1金币和%2点经验值 </item>
+     <item name="vip015">挂机已经开始啦,过一会儿再来收获吧~ </item>
+     <item name="vip016">1、使用VIP卡即可成为VIP。 </item>
+     <item name="vip017">使用VIP卡即可获得VIP时限，充值可提升VIP等级。</item>
+     <item name="vip018">成为VIP后每天可领取对应等级的VIP宝箱。</item>
+     <item name="vip019">恭喜你，你增加了%1天的VIP权限</item>
+     <item name="vip020">恭喜你，你增加了%1周的VIP权限</item>
+
+     <item name="invite001">你在植物大战僵尸online中升级了，要和好友分享吗？</item>   
+     
+     <item name="VIPPrezesNode001">经验值</item>   
+     <item name="SellGoodsWindow135">恭喜你，你的VIP期限增加了%1个月</item> 
+     <item name="VIPWindow001">VIP经验值领取成功，你的经验增加了%1</item>  
+      
+     <item name="OrganismWindow001">技能等级已满，无法升级</item>  
+     
+     <item name="severBattle008">你的功勋数量不够</item> 
+     <item name="severBattle016">本月剩余数量:%1个</item>
+     <item name="severBattle006">你确定用%1个功勋购买%2个%3?</item>
+     <item name="severBattle009">你己经成功购买了%1个%2</item>
+     <item name="error001">玩家等级达到20级后开启植物天赋功能</item>
+     <item name="error002">您今日可获得经验已经达到上限</item>
+     <item name="copy012">等级达到20级后开启宝石副本</item>
+     <item name="copy016">你使用%1本宝石挑战书,增加了%2次宝石副本挑战次数</item>
+     
+     <item name="geniusp001">你的仓库里没有植物，不能开启天赋功能</item> 
+     <item name="activtyCopy020">活动还未开始，请耐心等待!</item>
+     <item name="activtyCopyStr001">距活动结束:</item>
+     <item name="activtyCopyStr002">距开始还有:</item>
+     
+     <!-- 植物信息基本属性tip -->
+     <item name="hp_tip">植物的生命值为0时，植物死亡</item>
+     <item name="attack_tip">植物的攻击越高，攻击时造成的伤害越高</item>
+     <item name="dodge_tip">植物的闪避越高，完全闪避敌人攻击的几率越高</item>
+     <item name="hitRate_tip">植物的命中越高，攻击被敌人闪避的几率越低</item>
+     <item name="armor_tip">植物的护甲越高，受到伤害的减免率越高</item>
+     <item name="penetrate_tip">植物的穿透越高，攻击被敌人减免的伤害越少</item>
+     <item name="speed_tip">植物的速度越高，出手顺序越靠前</item>
+     
+     <!-- 专属技能相关 -->
+     <item name="exskill01">放入植物不符合条件。</item>
+     <item name="exskill02">植物不能重复学习专属技能。</item>
+     <item name="exskill03">你确定要%1学习%2专属技能吗？</item>
+     <item name="exskill04">植物只能学习1个专属技能！</item>
+     <item name="exskill05">%1学习了%2</item>
+     <item name="exskill06">该专属技能已达最高级！</item>
+     <item name="exskill07">升级专属技能的道具不足！</item>
+     
+     <!-- 植物传承相关 -->
+     <item name="org_inherit01">植物只能接受一次传承（包括单属性和多属性），但不限制传承属性给其他植物的次数</item>
+     <item name="org_inherit02">玩家等级达到35级，才可以使用传承功能。</item>
+     <item name="org_inherit03">请先取出植物槽中的植物！</item>
+     <item name="org_inherit04">选择植物一，将该植物的属性传承给植物二。</item>
+     <item name="org_inherit05">选择植物二，接受属性传承。</item>
+     <item name="org_inherit06">选择植物一，将该植物的属性传承给植物二。</item>
+     <item name="org_inherit07">选择单属性或全属性传承书。</item>
+     <item name="org_inherit08">传承后，%1的等级、品质、天赋、属性合成值若高于%2，则百分之百互相交换。</item>
+     <item name="org_inherit09">%1:%2→%3  %4→%5</item>
+     <item name="org_inherit10">当前将%1的%2属性合成值的%3传承给%4</item>
+     <item name="org_inherit11">%1  %2  %3→%4</item>
+     <item name="org_inherit12">所选植物二已进行过传承，无法再次接受传承。</item>
+     <item name="org_inherit13">传承植物基础属性低于接收植物，无法进行传承。</item>
+     <item name="org_inherit14">缺少增强卷轴，无法进行属性传承！</item>
+     <item name="org_inherit15">植物传承</item>
+     <item name="org_inherit16">你确定进行属性传承吗? </item>
+     <item name="org_inherit17">注：植物只能接受一次属性传承，传承后的属性改动无法还原。</item>
+     <item name="org_inherit18">传承成功！</item>
+     <item name="org_inherit19">合成提示：植物被合成时其灵魂带来的属性加成不能被主植物吸收</item> <!-- 这条修改合成面板的 -->
+     <item name="org_inherit20">请先将植物移出跨服战、领地、花园、斗技场</item>
+     <item name="org_inherit21">植物等级必须达到100级才可传承</item>
+</lang>

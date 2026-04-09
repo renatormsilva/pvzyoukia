@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><root>
+	<response>
+		<status>success</status>	
+    </response>
+<qualitys>
+		<item
+		id="1" 
+		name="劣质" 
+        skill_num="1"
+        up_ratio="100" />
+		<item
+		id="2" 
+		name="普通" 
+        skill_num="1"
+        up_ratio="60" />
+		<item
+		id="3" 
+		name="优秀" 
+        skill_num="2"
+        up_ratio="35" />
+		<item
+		id="4" 
+		name="精良" 
+        skill_num="2"
+        up_ratio="15" />
+		<item
+		id="5" 
+		name="极品" 
+        skill_num="3"
+        up_ratio="10" />
+		<item
+		id="6" 
+		name="史诗" 
+        skill_num="3"
+        up_ratio="6" />
+		<item
+		id="7" 
+		name="传说" 
+        skill_num="4"
+        up_ratio="3" />
+		<item
+		id="8" 
+		name="神器" 
+        skill_num="4"
+        up_ratio="2" />
+		<item
+		id="9" 
+		name="魔王" 
+        skill_num="4"
+        up_ratio="1" />
+		<item
+		id="10" 
+		name="战神" 
+        skill_num="4"
+        up_ratio="1" />
+		<item
+		id="11" 
+		name="至尊" 
+        skill_num="4"
+        up_ratio="1" />
+		<item
+		id="12" 
+		name="魔神" 
+        skill_num="4"
+        up_ratio="100" />
+        <item
+		id="13" 
+		name="耀世" 
+        skill_num="4"
+        up_ratio="100" />
+        <item
+		id="14" 
+		name="不朽" 
+        skill_num="4"
+        up_ratio="100" />
+        <item
+		id="15" 
+		name="永恒" 
+        skill_num="4"
+        up_ratio="100" />
+         <item
+		id="16" 
+		name="太上" 
+        skill_num="4"
+        up_ratio="100" />
+         <item
+		id="17" 
+		name="混沌" 
+        skill_num="4"
+        up_ratio="100" />
+         <item
+		id="18" 
+		name="无极" 
+        skill_num="4"
+        up_ratio="0" />
+	</qualitys>	
+</root>

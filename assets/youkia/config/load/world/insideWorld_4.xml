@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/world"
+			  name="InsideWorld4"
+			  isnew="0"
+			  version="_2012081501">死亡峡谷</item> 
+	</ui>  
+</config>

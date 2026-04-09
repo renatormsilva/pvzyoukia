@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+	<item name="world001">挑战费用不足,还差%1G</item> 
+	<item name="world002">开启关卡</item> 
+	<item name="world003">无挑战次数限制</item>
+	<item name="world004">挑战次数:%1</item>
+	<item name="world005">消耗金钱:%1</item>
+	<item name="world006">需要等级:%1</item>
+	<item name="world007">点击开启</item>
+	<item name="world008">缺:%1×%2</item>
+	<item name="world009">此关卡无挑战次数限制，不需要使用此道具</item>
+	<item name="world010">你确定要使用%1本副本挑战书增加%2次挑战次数吗？</item>
+	<item name="world011">是否花费%1金券增加%2次副本挑战次数？</item>
+	<item name="world012">你增加了%1次副本挑战次数</item>
+	<item name="world013">是否使用%1个【时之怀表】增加关卡挑战次数？</item>
+	<item name="world014">你给本关卡增加了%1次挑战次数</item>
+	<item name="world015">使用【时之怀表】可增加关卡挑战次数，是否购买？</item>
+	<item name="world016">每天只能购买5次，请明天再来吧~</item>
+	<item name="world017">副本挑战次数不足，请先增加副本挑战次数。</item>
+	<item name="world018">前往下一个区域</item>
+	<item name="world019">炽热沙漠</item>
+	<item name="world020">幽静树海</item>
+	<item name="world021">冰火世界</item>
+	<item name="world022">死亡峡谷</item>
+	<item name="world023">状态：未通关</item>
+	<item name="world024">副本挑战书已售完，请明天再来购买</item>
+	<item name="world025">你可以领取</item>
+	<item name="world026">枚勋章的奖励</item>
+	<item name="world027">完成度的奖励</item>
+	<item name="world028">你已经领取了所有的奖励</item>
+	<item name="world029">还差</item>
+	<item name="world030">枚勋章,就可以领取奖励哦</item>
+	<item name="world031">完成度,就可以领取奖励哦</item>
+	<item name="world032">前置关卡未全通过</item>
+	<item name="world033">荒原驿道</item>
+</lang>

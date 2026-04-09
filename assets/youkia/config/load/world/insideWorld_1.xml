@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config> 
+	<ui> 
+		<item type="UILibs/world"
+			  name="InsideWorld1"
+			  isnew="0"
+			  version="_20150311">炽热沙漠</item>
+	</ui>  
+</config>

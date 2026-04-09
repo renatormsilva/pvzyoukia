@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# AMF binary captures (large, binary, machine-specific)
+amf-cache/
+
+# Downloaded SWF assets (can be re-downloaded with download-bulk.js)
+orgs/
+# Exclude numbered icon/org SWFs but keep swfs/main.swf (patched, required)
+swfs/[0-9]*.swf
+
+# SWF backup/generated files
+*.orig
+uilib/main_patched.swf
+
+# HAR capture files (can be large and contain sensitive session data)
+*.har
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
